@@ -1,0 +1,783 @@
+ 
+  C++ Function Parameters 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+  
+   
+   w3schools.com 
+   
+    THE WORLD'S LARGEST WEB DEVELOPER SITE
+    
+   
+   
+    
+   
+   
+   
+    
+     
+      
+      
+     HTML 
+     CSS 
+     JAVASCRIPT 
+     SQL 
+     PYTHON 
+     PHP 
+     BOOTSTRAP 
+     HOW TO 
+     W3.CSS 
+     JQUERY 
+     XML 
+     MORE  
+     ? 
+     ? 
+     ? 
+     FORUM 
+     EXERCISES  
+     REFERENCES  
+     
+     
+     ? 
+      
+       
+       HTML and CSS 
+       Learn HTML 
+       Learn CSS 
+       Learn Bootstrap 
+       Learn W3.CSS 
+       Learn Colors 
+       Learn Icons 
+       Learn Graphics 
+       Learn SVG 
+       Learn Canvas 
+       Learn How To 
+       Learn Sass 
+        
+        XML 
+        Learn XML 
+        Learn XML AJAX 
+        Learn XML DOM 
+        Learn XML DTD 
+        Learn XML Schema 
+        Learn XSLT 
+        Learn XPath 
+        Learn XQuery 
+        
+       
+       
+       JavaScript 
+       Learn JavaScript 
+       Learn jQuery 
+       Learn React 
+       Learn AngularJS 
+       Learn JSON 
+       Learn AJAX 
+       Learn W3.JS 
+       Programming 
+       Learn Python 
+       Learn Java 
+       Learn C++ 
+       Learn C# 
+       
+        
+        
+        
+       
+       
+       Server Side 
+       Learn SQL 
+       Learn PHP 
+       Learn ASP 
+       Learn Node.js 
+       Learn Raspberry Pi 
+       Web Building 
+       Web Templates 
+       Web Statistics 
+       Web Certificates 
+       Web Editor 
+       Web Development 
+       
+       
+       XML 
+       Learn XML 
+       Learn XML AJAX 
+       Learn XML DOM 
+       Learn XML DTD 
+       Learn XML Schema 
+       Learn XSLT 
+       Learn XPath 
+       Learn XQuery 
+       
+      
+      
+     
+     
+     ? 
+      
+       
+       HTML 
+       HTML Tag Reference 
+       HTML Event Reference 
+       HTML Color Reference 
+       HTML Attribute Reference 
+       HTML Canvas Reference 
+       HTML SVG Reference 
+       HTML Character Sets 
+       Google Maps Reference 
+       CSS 
+       CSS Reference 
+       CSS Browser Support 
+       CSS Selector Reference 
+       Bootstrap 3 Reference 
+       Bootstrap 4 Reference 
+       W3.CSS Reference 
+       Icon Reference 
+       Sass Reference 
+       
+       
+       JavaScript 
+       JavaScript Reference 
+       HTML DOM Reference 
+       jQuery Reference 
+       AngularJS Reference 
+       W3.JS Reference 
+       Programming 
+       Python Reference 
+       Java Reference 
+       
+       
+       Server Side 
+       SQL Reference 
+       PHP Reference 
+       ASP Reference 
+       XML 
+       XML Reference 
+       XML Http Reference 
+       XSLT Reference 
+       XML Schema Reference 
+       
+       
+       Character Sets 
+       HTML Character Sets 
+       HTML ASCII 
+       HTML ANSI 
+       HTML Windows-1252 
+       HTML ISO-8859-1 
+       HTML Symbols 
+       HTML UTF-8 
+       
+      
+      
+     
+     
+     ? 
+      
+       
+       Exercises 
+       HTML Exercises 
+       CSS Exercises 
+       JavaScript Exercises 
+       SQL Exercises 
+       PHP Exercises 
+       Python Exercises 
+       jQuery Exercises 
+       Bootstrap Exercises 
+       Java Exercises 
+       C++ Exercises 
+       C# Exercises 
+       
+       
+       Quizzes 
+       HTML Quiz 
+       CSS Quiz 
+       JavaScript Quiz 
+       SQL Quiz 
+       PHP Quiz 
+       Python Quiz 
+       jQuery Quiz 
+       Bootstrap Quiz 
+       XML Quiz 
+       
+       
+       Certificates 
+       HTML Certificate 
+       CSS Certificate 
+       JavaScript Certificate 
+       SQL Certificate 
+       PHP Certificate 
+       Python Certificate 
+       jQuery Certificate 
+       Bootstrap Certificate 
+       XML Certificate 
+       
+      
+      
+     
+    
+   
+   
+    
+     
+      
+     C++ Tutorial 
+     C++ HOME 
+     C++ Intro 
+     C++ Get Started 
+     C++ Syntax 
+     C++ Output 
+     C++ Comments 
+     C++ Variables 
+     C++ User Input 
+     C++ Data Types 
+     C++ Operators 
+     C++ Strings 
+     C++ Math 
+     C++ Booleans 
+     C++ If...Else 
+     C++ Switch 
+     C++ While Loop 
+     C++ For Loop 
+     C++ Break/Continue 
+     C++ Arrays 
+     C++ References 
+     C++ Pointers 
+      
+     C++ Functions 
+     C++ Functions 
+     C++ Function Parameters 
+     C++ Function Overloading 
+      
+      
+     C++ Classes 
+     C++ OOP 
+     C++ Classes/Objects 
+     C++ Class Methods 
+     C++ Constructors 
+     C++ Access Specifiers 
+     C++ Encapsulation 
+     C++ Inheritance 
+     C++ Polymorphism 
+     C++ Files 
+     C++ Exceptions 
+      
+     C++ Examples 
+     C++ Examples 
+     C++ Exercises 
+      
+     
+      
+     
+    
+   
+   
+    
+     
+      
+       
+       
+       
+       
+      
+     C++ Functions Parameters 
+      
+      ? Previous 
+      Next ? 
+      
+      
+     Parameters and Arguments 
+     Information can be passed to functions as a parameter. Parameters act as variables inside the function. 
+     Parameters are specified after the function name, inside the parentheses. You can add as many parameters as you want, just separate them with a comma: 
+      
+      Syntax 
+      
+        void 
+       functionName(
+       parameter1, 
+       parameter2, 
+       parameter3) {
+         // code to be executed
+       }
+        
+       
+      
+      The following example has a function that takes a string called fname as parameter. When the function is called, we pass along a first name, which is used inside the function to print the full name:  
+      
+      Example 
+      
+        void myFunction(
+       string fname) {
+         cout << fname << " Refsnes\n";
+       }
+        
+       int main() {
+         myFunction(
+       "Liam");
+         myFunction(
+       "Jenny");
+         myFunction(
+       "Anja");
+         return 0;
+       }
+       
+       // Liam Refsnes
+       // Jenny Refsnes
+       // Anja Refsnes
+        
+       
+      Run example ? 
+      
+      
+      When a parameter is passed to the function, it is called an argument. So, from the example above: fname is a parameter, while Liam, Jenny and Anja are arguments. 
+      
+      
+     Default Parameter Value 
+     You can also use a default parameter value, by using the equals sign (=). If we call the function without an argument, it uses the default value ("Norway"): 
+      
+      Example 
+      
+        void myFunction(
+       string country = "Norway") {
+         cout << country << "\n";
+       }
+        
+       int main() {
+         myFunction("Sweden");
+         myFunction("India");
+         
+       myFunction();
+         myFunction("USA");
+         return 0;
+       }
+       
+       // Sweden
+       // India
+       // Norway
+       // USA
+        
+       
+      Run example ? 
+      
+      
+      A parameter with a default value, is often known as an "optional parameter". From the example above, country is an optional parameter and "Norway" is the default value. 
+      
+      
+      
+       
+       
+       
+      
+      
+     Multiple Parameters 
+     You can add as many parameters as you want: 
+      
+      Example 
+      
+        void myFunction(
+       string fname, int age) {
+         cout << fname << " Refsnes. " << age << " years old. \n";
+       }
+       
+       int main() {
+         myFunction(
+       "Liam", 3);
+         myFunction(
+       "Jenny", 14);
+         myFunction(
+       "Anja", 30);
+         return 0;
+        }
+       
+       // Liam Refsnes. 3 years old.
+       // Jenny Refsnes. 14 years old.
+        // Anja Refsnes. 30 years old.
+        
+       
+      Run example ? 
+      
+      
+      Note that when you are working with multiple parameters, the function call must have the same number of arguments as there are parameters, and the arguments must be passed in the same order. 
+      
+      
+     Return Values 
+     The void keyword, used in the examples above, indicates that the function should not return a value. If you want the function to return a value, you can use a data type (such as int, string, etc.) instead of void, and use the return keyword inside the function: 
+      
+      Example 
+       
+       int myFunction(int x) {
+         
+       return 5 + x;
+       }
+       
+       int main() {
+         cout << myFunction(3);
+         return 0;
+       }
+       
+       // Outputs 8 (5 + 3)
+        
+       
+      Run example ? 
+      
+     This example returns the sum of a function with two parameters: 
+      
+      Example 
+      
+        int myFunction(int x, int y) {
+         return x + y;
+       }
+       
+       int main() {
+         cout << myFunction(5, 3);
+         return 0;
+       }
+       
+        // Outputs 8 (5 + 3)
+        
+       
+      Run example ? 
+      
+     You can also store the result in a variable: 
+      
+      Example 
+      
+        int myFunction(int x, int y) {
+         return x + y;
+       }
+       
+       int main() {
+         int z = myFunction(5, 3);
+         cout << z;
+         return 0;
+       }
+        // Outputs 8 (5 + 3)
+        
+       
+      Run example ? 
+      
+      
+     Pass By Reference 
+     In the examples above, we used normal variables when we passed parameters to a function. You can also pass a reference to the function. This can be useful when you need to change the value of the arguments: 
+      
+      Example 
+      
+        void swapNums(int &x, int &y) {
+         int z = x;
+         x = y;
+         y = z;
+       }
+       
+       int main() {
+         int firstNum = 10;
+         int secondNum = 20;
+       
+         cout << "Before swap: " << "\n";
+         cout << firstNum << secondNum << "\n";
+        
+         // Call the function, which will change the values of firstNum and secondNum
+         swapNums(firstNum, secondNum);
+       
+         cout << "After swap: " << "\n";
+         cout << firstNum << secondNum << "\n";
+       
+         return 0;
+       }
+        
+       
+      Run example ? 
+      
+      
+      
+      ? Previous 
+      Next ? 
+      
+     
+     
+      
+       
+        
+        
+        
+       
+      
+      
+      COLOR PICKER 
+        
+      
+      
+      
+      
+      
+       
+       HOW TO 
+       
+       
+       Tabs
+        
+       Dropdowns
+        
+       Accordions
+        
+       Side Navigation
+        
+       Top Navigation
+        
+       Modal Boxes
+        
+       Progress Bars
+        
+       Parallax
+        
+       Login Form
+        
+       HTML Includes
+        
+       Google Maps
+        
+       Range Sliders
+        
+       Tooltips
+        
+       Slideshow
+        
+       Filter List
+        
+       Sort List
+        
+       
+      
+      
+      SHARE 
+       
+        
+       
+        
+         
+        
+         
+        
+       
+      
+      
+      CERTIFICATES 
+       HTML CSS JavaScript SQL Python PHP jQuery Bootstrap XML 
+       Read More ? 
+      
+      
+       
+        
+         
+         
+         
+        
+       
+      
+      
+     
+    
+    
+     
+     
+      
+       
+       
+       
+       
+       
+       
+       
+      
+     
+     
+     
+      
+      REPORT ERROR 
+      
+      
+      PRINT PAGE 
+      
+      
+      FORUM 
+      
+      
+      ABOUT 
+      
+     
+     
+     
+     ? 
+     Your Suggestion: 
+      
+       
+       Your E-mail: 
+        
+       
+       
+       Page address: 
+        
+       
+       
+       Description: 
+        
+       
+       
+       Submit 
+       
+       
+      
+     
+     
+     ? 
+     Thank You For Helping Us! 
+     Your message has been sent to W3Schools. 
+     
+     
+      
+       
+       Top Tutorials 
+       HTML Tutorial
+        
+       CSS Tutorial
+        
+       JavaScript Tutorial
+        
+       How To Tutorial
+        
+       SQL Tutorial
+        
+       Python Tutorial
+        
+       W3.CSS Tutorial
+        
+       Bootstrap Tutorial
+        
+       PHP Tutorial
+        
+       jQuery Tutorial
+        
+       Java Tutorial
+        
+       C++ Tutorial
+        
+       
+      
+      
+       
+       Top References 
+       HTML Reference
+        
+       CSS Reference
+        
+       JavaScript Reference
+        
+       SQL Reference
+        
+       Python Reference
+        
+       W3.CSS Reference
+        
+       Bootstrap Reference
+        
+       PHP Reference
+        
+       HTML Colors
+        
+       jQuery Reference
+        
+       Java Reference
+        
+       Angular Reference
+        
+       
+      
+      
+       
+       Top Examples 
+       HTML Examples
+        
+       CSS Examples
+        
+       JavaScript Examples
+        
+       How To Examples
+        
+       SQL Examples
+        
+       Python Examples
+        
+       W3.CSS Examples
+        
+       Bootstrap Examples
+        
+       PHP Examples
+        
+       jQuery Examples
+        
+       Java Examples
+        
+       XML Examples
+        
+       
+      
+      
+       
+       Web Certificates 
+       HTML Certificate
+        
+       CSS Certificate
+        
+       JavaScript Certificate
+        
+       SQL Certificate
+        
+       Python Certificate
+        
+       jQuery Certificate
+        
+       PHP Certificate
+        
+       Bootstrap Certificate
+        
+       XML Certificate
+        
+        Get Certified ? 
+       
+      
+     
+     
+    
+      W3Schools is optimized for learning, testing, and training. Examples might be simplified to improve reading and basic understanding. Tutorials, references, and examples are constantly reviewed to avoid errors, but we cannot warrant full correctness of all content. While using this site, you agree to have read and accepted our 
+     terms of use, 
+     cookie and privacy policy. 
+     Copyright 1999-2019 by Refsnes Data. All Rights Reserved.
+      
+     Powered by W3.CSS.
+     
+      
+       
+     
+    
+     
+    
+   
+   
+   
+    
+ 
+
+

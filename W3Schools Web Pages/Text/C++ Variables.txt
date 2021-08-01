@@ -1,0 +1,737 @@
+ 
+  C++ Variables 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+  
+   
+   w3schools.com 
+   
+    THE WORLD'S LARGEST WEB DEVELOPER SITE
+    
+   
+   
+    
+   
+   
+   
+    
+     
+      
+      
+     HTML 
+     CSS 
+     JAVASCRIPT 
+     SQL 
+     PYTHON 
+     PHP 
+     BOOTSTRAP 
+     HOW TO 
+     W3.CSS 
+     JQUERY 
+     XML 
+     MORE  
+     ? 
+     ? 
+     ? 
+     FORUM 
+     EXERCISES  
+     REFERENCES  
+     
+     
+     ? 
+      
+       
+       HTML and CSS 
+       Learn HTML 
+       Learn CSS 
+       Learn Bootstrap 
+       Learn W3.CSS 
+       Learn Colors 
+       Learn Icons 
+       Learn Graphics 
+       Learn SVG 
+       Learn Canvas 
+       Learn How To 
+       Learn Sass 
+        
+        XML 
+        Learn XML 
+        Learn XML AJAX 
+        Learn XML DOM 
+        Learn XML DTD 
+        Learn XML Schema 
+        Learn XSLT 
+        Learn XPath 
+        Learn XQuery 
+        
+       
+       
+       JavaScript 
+       Learn JavaScript 
+       Learn jQuery 
+       Learn React 
+       Learn AngularJS 
+       Learn JSON 
+       Learn AJAX 
+       Learn W3.JS 
+       Programming 
+       Learn Python 
+       Learn Java 
+       Learn C++ 
+       Learn C# 
+       
+        
+        
+        
+       
+       
+       Server Side 
+       Learn SQL 
+       Learn PHP 
+       Learn ASP 
+       Learn Node.js 
+       Learn Raspberry Pi 
+       Web Building 
+       Web Templates 
+       Web Statistics 
+       Web Certificates 
+       Web Editor 
+       Web Development 
+       
+       
+       XML 
+       Learn XML 
+       Learn XML AJAX 
+       Learn XML DOM 
+       Learn XML DTD 
+       Learn XML Schema 
+       Learn XSLT 
+       Learn XPath 
+       Learn XQuery 
+       
+      
+      
+     
+     
+     ? 
+      
+       
+       HTML 
+       HTML Tag Reference 
+       HTML Event Reference 
+       HTML Color Reference 
+       HTML Attribute Reference 
+       HTML Canvas Reference 
+       HTML SVG Reference 
+       HTML Character Sets 
+       Google Maps Reference 
+       CSS 
+       CSS Reference 
+       CSS Browser Support 
+       CSS Selector Reference 
+       Bootstrap 3 Reference 
+       Bootstrap 4 Reference 
+       W3.CSS Reference 
+       Icon Reference 
+       Sass Reference 
+       
+       
+       JavaScript 
+       JavaScript Reference 
+       HTML DOM Reference 
+       jQuery Reference 
+       AngularJS Reference 
+       W3.JS Reference 
+       Programming 
+       Python Reference 
+       Java Reference 
+       
+       
+       Server Side 
+       SQL Reference 
+       PHP Reference 
+       ASP Reference 
+       XML 
+       XML Reference 
+       XML Http Reference 
+       XSLT Reference 
+       XML Schema Reference 
+       
+       
+       Character Sets 
+       HTML Character Sets 
+       HTML ASCII 
+       HTML ANSI 
+       HTML Windows-1252 
+       HTML ISO-8859-1 
+       HTML Symbols 
+       HTML UTF-8 
+       
+      
+      
+     
+     
+     ? 
+      
+       
+       Exercises 
+       HTML Exercises 
+       CSS Exercises 
+       JavaScript Exercises 
+       SQL Exercises 
+       PHP Exercises 
+       Python Exercises 
+       jQuery Exercises 
+       Bootstrap Exercises 
+       Java Exercises 
+       C++ Exercises 
+       C# Exercises 
+       
+       
+       Quizzes 
+       HTML Quiz 
+       CSS Quiz 
+       JavaScript Quiz 
+       SQL Quiz 
+       PHP Quiz 
+       Python Quiz 
+       jQuery Quiz 
+       Bootstrap Quiz 
+       XML Quiz 
+       
+       
+       Certificates 
+       HTML Certificate 
+       CSS Certificate 
+       JavaScript Certificate 
+       SQL Certificate 
+       PHP Certificate 
+       Python Certificate 
+       jQuery Certificate 
+       Bootstrap Certificate 
+       XML Certificate 
+       
+      
+      
+     
+    
+   
+   
+    
+     
+      
+     C++ Tutorial 
+     C++ HOME 
+     C++ Intro 
+     C++ Get Started 
+     C++ Syntax 
+     C++ Output 
+     C++ Comments 
+     C++ Variables 
+     C++ User Input 
+     C++ Data Types 
+     C++ Operators 
+     C++ Strings 
+     C++ Math 
+     C++ Booleans 
+     C++ If...Else 
+     C++ Switch 
+     C++ While Loop 
+     C++ For Loop 
+     C++ Break/Continue 
+     C++ Arrays 
+     C++ References 
+     C++ Pointers 
+      
+     C++ Functions 
+     C++ Functions 
+     C++ Function Parameters 
+     C++ Function Overloading 
+      
+      
+     C++ Classes 
+     C++ OOP 
+     C++ Classes/Objects 
+     C++ Class Methods 
+     C++ Constructors 
+     C++ Access Specifiers 
+     C++ Encapsulation 
+     C++ Inheritance 
+     C++ Polymorphism 
+     C++ Files 
+     C++ Exceptions 
+      
+     C++ Examples 
+     C++ Examples 
+     C++ Exercises 
+      
+     
+      
+     
+    
+   
+   
+    
+     
+      
+       
+       
+       
+       
+      
+     C++ Variables 
+      
+      ? Previous 
+      Next ? 
+      
+      
+     C++ Variables 
+     Variables are containers for storing data values.  
+     In C++, there are different types of variables (defined with different keywords), for example: 
+      
+      int - stores integers (whole numbers), without decimals, such as 123 or -123 
+      double - stores floating point numbers, with decimals, such as 19.99 or -19.99 
+      char - stores single characters, such as 'a' or 'B'. Char values are surrounded by single quotes 
+      string - stores text, such as "Hello World". String values are surrounded by double quotes 
+      bool - stores values with two states: true or false 
+      
+      
+     Declaring (Creating) Variables 
+     To create a variable, you must specify the type and assign it a value: 
+      
+      Syntax 
+       
+       type 
+       variable = 
+       value;
+       
+      
+     Where type is one of C++ types (such as int), and variable is the name of the variable (such as x or myName). The equal sign is used to assign values to the variable. 
+     To create a variable that should store a number, look at the following example: 
+      
+      Example 
+      Create a variable called myNum of type int and assign it the value 15: 
+      
+        int myNum = 15;
+       cout << myNum;
+       
+      Run example ? 
+      
+     You can also declare a variable without assigning the value, and assign the value later: 
+      
+      Example 
+      
+        int myNum;
+       myNum = 15;
+       cout << myNum;
+       
+      Run example ? 
+      
+     Note that if you assign a new value to an existing variable, it will overwrite the previous value: 
+      
+      Example 
+      
+        int myNum = 15;  // myNum is 15
+       myNum = 10;  // Now myNum is 10
+       cout << myNum;  // Outputs 10
+       
+      Run example ? 
+      
+      
+     Constants 
+     However, you can add the const keyword if you don't want others (or yourself) to override existing values (this will declare the variable as "constant", which means unchangeable and read-only): 
+      
+      Example 
+       
+       const int myNum = 15;  // myNum will always be 15
+       myNum = 10;  // error: assignment of read-only variable 'myNum'
+       
+      Run example ? 
+      
+      
+     Other Types 
+     A demonstration of other data types: 
+      
+      Example 
+      
+        int myNum = 5;               // Integer (whole number without decimals)
+       double myFloatNum = 5.99;    // Floating point number (with decimals)
+       char myLetter = 'D';         // Character
+       string myText = "Hello";     // String (text)
+       bool myBoolean = true;       // Boolean (true or false)
+       
+      
+      
+      You will learn more about the individual types in the Data Types chapter. 
+      
+      
+      
+       
+       
+       
+      
+      
+     Display Variables 
+     The cout object is used together with the << operator to display variables. 
+     To combine both text and a variable, separate them with the << operator: 
+      
+      Example 
+      
+        int myAge = 35;
+       cout << "I am " << myAge << " years old.";
+       
+      Run example ? 
+      
+      
+     Add Variables Together 
+     To add a variable to another variable, you can use the + operator: 
+      
+      Example 
+      
+        int x = 5;
+       int y = 6;
+       int sum = x + y;
+       cout << sum;
+       
+      Run example ? 
+      
+      
+     Declare Many Variables 
+     To declare more than one variable of the same type, you can use a comma-separated list: 
+      
+      Example 
+      
+        int x = 5, y = 6, z = 50;
+       cout << x + y + z;
+       
+       
+      Run example ? 
+      
+      
+     C++ Identifiers 
+     All C++ variables must be identified with unique names. 
+     These unique names are called identifiers. 
+     Identifiers can be short names (like x and y) or more descriptive names (age, sum, totalVolume). 
+     Note: It is recommended to use descriptive names in order to create understandable and maintainable code. 
+     The general rules for constructing names for variables (unique identifiers) are: 
+      
+      Names can contain letters, digits and underscores 
+      Names must begin with a letter or an underscore (_) 
+      Names are case sensitive (myVar and myvar are different variables) 
+      Names cannot contain whitespaces or special characters like !, #, %, etc. 
+      Reserved words (like C++ keywords, such as int) cannot be used as names 
+      
+      
+      
+      C++ Exercises 
+       
+       Test Yourself With Exercises 
+        
+        Exercise: 
+        Create a variable named myNum and assign the value 50 to it. 
+         
+         
+  = 
+ 
+         
+         
+        Submit Answer ? 
+        Start the Exercise 
+        
+       
+      
+      
+      
+      ? Previous 
+      Next ? 
+      
+     
+     
+      
+       
+        
+        
+        
+       
+      
+      
+      COLOR PICKER 
+        
+      
+      
+      
+      
+      
+       
+       HOW TO 
+       
+       
+       Tabs
+        
+       Dropdowns
+        
+       Accordions
+        
+       Side Navigation
+        
+       Top Navigation
+        
+       Modal Boxes
+        
+       Progress Bars
+        
+       Parallax
+        
+       Login Form
+        
+       HTML Includes
+        
+       Google Maps
+        
+       Range Sliders
+        
+       Tooltips
+        
+       Slideshow
+        
+       Filter List
+        
+       Sort List
+        
+       
+      
+      
+      SHARE 
+       
+        
+       
+        
+         
+        
+         
+        
+       
+      
+      
+      CERTIFICATES 
+       HTML CSS JavaScript SQL Python PHP jQuery Bootstrap XML 
+       Read More ? 
+      
+      
+       
+        
+         
+         
+         
+        
+       
+      
+      
+     
+    
+    
+     
+     
+      
+       
+       
+       
+       
+       
+       
+       
+      
+     
+     
+     
+      
+      REPORT ERROR 
+      
+      
+      PRINT PAGE 
+      
+      
+      FORUM 
+      
+      
+      ABOUT 
+      
+     
+     
+     
+     ? 
+     Your Suggestion: 
+      
+       
+       Your E-mail: 
+        
+       
+       
+       Page address: 
+        
+       
+       
+       Description: 
+        
+       
+       
+       Submit 
+       
+       
+      
+     
+     
+     ? 
+     Thank You For Helping Us! 
+     Your message has been sent to W3Schools. 
+     
+     
+      
+       
+       Top Tutorials 
+       HTML Tutorial
+        
+       CSS Tutorial
+        
+       JavaScript Tutorial
+        
+       How To Tutorial
+        
+       SQL Tutorial
+        
+       Python Tutorial
+        
+       W3.CSS Tutorial
+        
+       Bootstrap Tutorial
+        
+       PHP Tutorial
+        
+       jQuery Tutorial
+        
+       Java Tutorial
+        
+       C++ Tutorial
+        
+       
+      
+      
+       
+       Top References 
+       HTML Reference
+        
+       CSS Reference
+        
+       JavaScript Reference
+        
+       SQL Reference
+        
+       Python Reference
+        
+       W3.CSS Reference
+        
+       Bootstrap Reference
+        
+       PHP Reference
+        
+       HTML Colors
+        
+       jQuery Reference
+        
+       Java Reference
+        
+       Angular Reference
+        
+       
+      
+      
+       
+       Top Examples 
+       HTML Examples
+        
+       CSS Examples
+        
+       JavaScript Examples
+        
+       How To Examples
+        
+       SQL Examples
+        
+       Python Examples
+        
+       W3.CSS Examples
+        
+       Bootstrap Examples
+        
+       PHP Examples
+        
+       jQuery Examples
+        
+       Java Examples
+        
+       XML Examples
+        
+       
+      
+      
+       
+       Web Certificates 
+       HTML Certificate
+        
+       CSS Certificate
+        
+       JavaScript Certificate
+        
+       SQL Certificate
+        
+       Python Certificate
+        
+       jQuery Certificate
+        
+       PHP Certificate
+        
+       Bootstrap Certificate
+        
+       XML Certificate
+        
+        Get Certified ? 
+       
+      
+     
+     
+    
+      W3Schools is optimized for learning, testing, and training. Examples might be simplified to improve reading and basic understanding. Tutorials, references, and examples are constantly reviewed to avoid errors, but we cannot warrant full correctness of all content. While using this site, you agree to have read and accepted our 
+     terms of use, 
+     cookie and privacy policy. 
+     Copyright 1999-2019 by Refsnes Data. All Rights Reserved.
+      
+     Powered by W3.CSS.
+     
+      
+       
+     
+    
+     
+    
+   
+   
+   
+    
+ 
+
+

@@ -1,0 +1,724 @@
+ 
+  Python Getting Started 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+  
+   
+   w3schools.com 
+   
+    THE WORLD'S LARGEST WEB DEVELOPER SITE
+    
+   
+   
+    
+   
+   
+   
+    
+     
+      
+      
+     HTML 
+     CSS 
+     JAVASCRIPT 
+     SQL 
+     PYTHON 
+     PHP 
+     BOOTSTRAP 
+     HOW TO 
+     W3.CSS 
+     JQUERY 
+     XML 
+     MORE  
+     ? 
+     ? 
+     ? 
+     FORUM 
+     EXERCISES  
+     REFERENCES  
+     
+     
+     ? 
+      
+       
+       HTML and CSS 
+       Learn HTML 
+       Learn CSS 
+       Learn Bootstrap 
+       Learn W3.CSS 
+       Learn Colors 
+       Learn Icons 
+       Learn Graphics 
+       Learn SVG 
+       Learn Canvas 
+       Learn How To 
+       Learn Sass 
+        
+        XML 
+        Learn XML 
+        Learn XML AJAX 
+        Learn XML DOM 
+        Learn XML DTD 
+        Learn XML Schema 
+        Learn XSLT 
+        Learn XPath 
+        Learn XQuery 
+        
+       
+       
+       JavaScript 
+       Learn JavaScript 
+       Learn jQuery 
+       Learn React 
+       Learn AngularJS 
+       Learn JSON 
+       Learn AJAX 
+       Learn W3.JS 
+       Programming 
+       Learn Python 
+       Learn Java 
+       Learn C++ 
+       Learn C# 
+       
+        
+        
+        
+       
+       
+       Server Side 
+       Learn SQL 
+       Learn PHP 
+       Learn ASP 
+       Learn Node.js 
+       Learn Raspberry Pi 
+       Web Building 
+       Web Templates 
+       Web Statistics 
+       Web Certificates 
+       Web Editor 
+       Web Development 
+       
+       
+       XML 
+       Learn XML 
+       Learn XML AJAX 
+       Learn XML DOM 
+       Learn XML DTD 
+       Learn XML Schema 
+       Learn XSLT 
+       Learn XPath 
+       Learn XQuery 
+       
+      
+      
+     
+     
+     ? 
+      
+       
+       HTML 
+       HTML Tag Reference 
+       HTML Event Reference 
+       HTML Color Reference 
+       HTML Attribute Reference 
+       HTML Canvas Reference 
+       HTML SVG Reference 
+       HTML Character Sets 
+       Google Maps Reference 
+       CSS 
+       CSS Reference 
+       CSS Browser Support 
+       CSS Selector Reference 
+       Bootstrap 3 Reference 
+       Bootstrap 4 Reference 
+       W3.CSS Reference 
+       Icon Reference 
+       Sass Reference 
+       
+       
+       JavaScript 
+       JavaScript Reference 
+       HTML DOM Reference 
+       jQuery Reference 
+       AngularJS Reference 
+       W3.JS Reference 
+       Programming 
+       Python Reference 
+       Java Reference 
+       
+       
+       Server Side 
+       SQL Reference 
+       PHP Reference 
+       ASP Reference 
+       XML 
+       XML Reference 
+       XML Http Reference 
+       XSLT Reference 
+       XML Schema Reference 
+       
+       
+       Character Sets 
+       HTML Character Sets 
+       HTML ASCII 
+       HTML ANSI 
+       HTML Windows-1252 
+       HTML ISO-8859-1 
+       HTML Symbols 
+       HTML UTF-8 
+       
+      
+      
+     
+     
+     ? 
+      
+       
+       Exercises 
+       HTML Exercises 
+       CSS Exercises 
+       JavaScript Exercises 
+       SQL Exercises 
+       PHP Exercises 
+       Python Exercises 
+       jQuery Exercises 
+       Bootstrap Exercises 
+       Java Exercises 
+       C++ Exercises 
+       C# Exercises 
+       
+       
+       Quizzes 
+       HTML Quiz 
+       CSS Quiz 
+       JavaScript Quiz 
+       SQL Quiz 
+       PHP Quiz 
+       Python Quiz 
+       jQuery Quiz 
+       Bootstrap Quiz 
+       XML Quiz 
+       
+       
+       Certificates 
+       HTML Certificate 
+       CSS Certificate 
+       JavaScript Certificate 
+       SQL Certificate 
+       PHP Certificate 
+       Python Certificate 
+       jQuery Certificate 
+       Bootstrap Certificate 
+       XML Certificate 
+       
+      
+      
+     
+    
+   
+   
+    
+     
+      
+     Python Tutorial 
+     Python HOME 
+     Python Intro 
+     Python Get Started 
+     Python Syntax 
+     Python Comments 
+     Python Variables 
+     Python Data Types 
+     Python Numbers 
+      
+     Python Casting 
+     Python Strings 
+     Python Booleans 
+     Python Operators 
+     Python Lists 
+     Python Tuples 
+     Python Sets 
+     Python Dictionaries 
+     Python If...Else 
+     Python While Loops 
+     Python For Loops 
+      
+     Python Functions 
+     Python Lambda 
+     Python Arrays 
+     Python Classes/Objects 
+     Python Inheritance 
+     Python Iterators 
+     Python Scope 
+     Python Modules 
+     Python Dates 
+     Python JSON 
+     Python RegEx 
+     Python PIP 
+     Python Try...Except 
+     Python User Input 
+     Python String Formatting 
+      
+     File Handling 
+     Python File Handling 
+     Python Read Files 
+     Python Write/Create Files 
+     Python Delete Files 
+      
+     Python MySQL 
+     MySQL Get Started 
+     MySQL Create Database 
+     MySQL Create Table 
+     MySQL Insert 
+     MySQL Select 
+     MySQL Where 
+     MySQL Order By 
+     MySQL Delete 
+     MySQL Drop Table 
+     MySQL Update 
+     MySQL Limit 
+     MySQL Join 
+      
+     Python MongoDB 
+     MongoDB Get Started 
+     MongoDB Create Database 
+     MongoDB Create Collection 
+     MongoDB Insert 
+     MongoDB Find 
+     MongoDB Query 
+     MongoDB Sort 
+     MongoDB Delete 
+     MongoDB Drop Collection 
+     MongoDB Update 
+     MongoDB Limit 
+      
+      
+     Python Reference 
+     Python Overview 
+     Python Built-in Functions 
+     Python String Methods 
+     Python List Methods 
+     Python Dictionary Methods 
+     Python Tuple Methods 
+     Python Set Methods 
+     Python File Methods 
+     Python Keywords 
+      
+     Module Reference 
+     Random Module 
+     Requests Module 
+      
+     Python How To 
+     Remove List Duplicates 
+     Reverse a String 
+      
+     Python Examples 
+     Python Examples 
+     Python Exercises 
+     Python Quiz 
+     Python Certificate 
+     
+      
+     
+    
+   
+   
+    
+     
+      
+       
+       
+       
+       
+      
+     Python Getting Started 
+      
+      ? Previous 
+      Next ? 
+      
+      
+     Python Install 
+     Many PCs and Macs will have python already installed. 
+     To check if you have python installed on a Windows PC, search in the start bar for Python or run the following on the Command Line (cmd.exe): 
+      
+      
+        C:\Users\
+       Your Name>python --version 
+       
+      
+     To check if you have python installed on a Linux or Mac, then on linux open the command line or on Mac open the Terminal and type: 
+      
+      
+        python --version 
+       
+      
+     If you find that you do not have python installed on your computer, then you can download it for free from the following website: https://www.python.org/ 
+      
+     Python Quickstart 
+     Python is an interpreted programming language, this means that as a developer you write Python (.py) files in a text editor and then put those files into the python interpreter to be executed. 
+     The way to run a python file is like this on the command line: 
+      
+      
+        C:\Users\
+       Your Name>python helloworld.py 
+       
+      
+     Where "helloworld.py" is the name of your python file. 
+     Let's write our first Python file, called helloworld.py, which can be done in any text editor. 
+      
+      helloworld.py 
+      
+        print("Hello, World!") 
+       
+      Run example ? 
+      
+     Simple as that. Save your file. Open your command line, navigate to the directory where you saved your file, and run: 
+      
+      
+        C:\Users\
+       Your Name>python helloworld.py 
+       
+      
+     The output should read: 
+      
+      
+        Hello, World! 
+       
+      
+     Congratulations, you have written and executed your first Python program. 
+      
+      
+       
+       
+       
+      
+      
+     The Python Command Line 
+     To test a short amount of code in python sometimes it is quickest and easiest not to write the code in a file. This is made possible because Python can be run as a command line itself. 
+     Type the following on the Windows, Mac or Linux command line: 
+      
+      
+        C:\Users\
+       Your Name>python 
+       
+      Or, if the "python" command did not work, you can try "py": 
+      
+      
+        C:\Users\
+       Your Name>py 
+       
+      
+     From there you can write any python, including our hello world example from earlier in the tutorial: 
+      
+       
+       C:\Users\Your Name>python Python 3.6.4 (v3.6.4:d48eceb, Dec 19 2017, 06:04:45) [MSC v.1900 32 bit (Intel)] on win32 Type "help", "copyright", "credits" or "license" for more information.
+        >>> print("Hello, World!") 
+       
+      
+     Which will write "Hello, World!" in the command line: 
+      
+       
+       C:\Users\Your Name>python Python 3.6.4 (v3.6.4:d48eceb, Dec 19 2017, 06:04:45) [MSC v.1900 32 bit (Intel)] on win32 Type "help", "copyright", "credits" or "license" for more information. >>> print("Hello, World!")
+        Hello, World! 
+       
+      
+     Whenever you are done in the python command line, you can simply type the following to quit the python command line interface: 
+      
+      
+        exit() 
+       
+      
+      
+      
+      ? Previous 
+      Next ? 
+      
+     
+     
+      
+       
+        
+        
+        
+       
+      
+      
+      COLOR PICKER 
+        
+      
+      
+      
+      
+      
+       
+       HOW TO 
+       
+       
+       Tabs
+        
+       Dropdowns
+        
+       Accordions
+        
+       Side Navigation
+        
+       Top Navigation
+        
+       Modal Boxes
+        
+       Progress Bars
+        
+       Parallax
+        
+       Login Form
+        
+       HTML Includes
+        
+       Google Maps
+        
+       Range Sliders
+        
+       Tooltips
+        
+       Slideshow
+        
+       Filter List
+        
+       Sort List
+        
+       
+      
+      
+      SHARE 
+       
+        
+       
+        
+         
+        
+         
+        
+       
+      
+      
+      CERTIFICATES 
+       HTML CSS JavaScript SQL Python PHP jQuery Bootstrap XML 
+       Read More ? 
+      
+      
+       
+        
+         
+         
+         
+        
+       
+      
+      
+     
+    
+    
+     
+     
+      
+       
+       
+       
+       
+       
+       
+       
+      
+     
+     
+     
+      
+      REPORT ERROR 
+      
+      
+      PRINT PAGE 
+      
+      
+      FORUM 
+      
+      
+      ABOUT 
+      
+     
+     
+     
+     ? 
+     Your Suggestion: 
+      
+       
+       Your E-mail: 
+        
+       
+       
+       Page address: 
+        
+       
+       
+       Description: 
+        
+       
+       
+       Submit 
+       
+       
+      
+     
+     
+     ? 
+     Thank You For Helping Us! 
+     Your message has been sent to W3Schools. 
+     
+     
+      
+       
+       Top Tutorials 
+       HTML Tutorial
+        
+       CSS Tutorial
+        
+       JavaScript Tutorial
+        
+       How To Tutorial
+        
+       SQL Tutorial
+        
+       Python Tutorial
+        
+       W3.CSS Tutorial
+        
+       Bootstrap Tutorial
+        
+       PHP Tutorial
+        
+       jQuery Tutorial
+        
+       Java Tutorial
+        
+       C++ Tutorial
+        
+       
+      
+      
+       
+       Top References 
+       HTML Reference
+        
+       CSS Reference
+        
+       JavaScript Reference
+        
+       SQL Reference
+        
+       Python Reference
+        
+       W3.CSS Reference
+        
+       Bootstrap Reference
+        
+       PHP Reference
+        
+       HTML Colors
+        
+       jQuery Reference
+        
+       Java Reference
+        
+       Angular Reference
+        
+       
+      
+      
+       
+       Top Examples 
+       HTML Examples
+        
+       CSS Examples
+        
+       JavaScript Examples
+        
+       How To Examples
+        
+       SQL Examples
+        
+       Python Examples
+        
+       W3.CSS Examples
+        
+       Bootstrap Examples
+        
+       PHP Examples
+        
+       jQuery Examples
+        
+       Java Examples
+        
+       XML Examples
+        
+       
+      
+      
+       
+       Web Certificates 
+       HTML Certificate
+        
+       CSS Certificate
+        
+       JavaScript Certificate
+        
+       SQL Certificate
+        
+       Python Certificate
+        
+       jQuery Certificate
+        
+       PHP Certificate
+        
+       Bootstrap Certificate
+        
+       XML Certificate
+        
+        Get Certified ? 
+       
+      
+     
+     
+    
+      W3Schools is optimized for learning, testing, and training. Examples might be simplified to improve reading and basic understanding. Tutorials, references, and examples are constantly reviewed to avoid errors, but we cannot warrant full correctness of all content. While using this site, you agree to have read and accepted our 
+     terms of use, 
+     cookie and privacy policy. 
+     Copyright 1999-2019 by Refsnes Data. All Rights Reserved.
+      
+     Powered by W3.CSS.
+     
+      
+       
+     
+    
+     
+    
+   
+   
+   
+    
+ 
+
+

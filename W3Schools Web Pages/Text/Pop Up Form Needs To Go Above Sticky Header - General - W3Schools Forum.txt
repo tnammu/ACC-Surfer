@@ -1,0 +1,555 @@
+ 
+  Pop Up Form Needs To Go Above Sticky Header - General - W3Schools Forum 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+  
+  Jump to content 
+   
+    
+      General   
+       
+       
+         
+    
+    
+     
+      
+      
+        Existing user? Sign In    
+        
+         
+          
+          
+          
+           
+           Sign In 
+           
+            
+            
+               
+               
+                 
+              
+              Remember me 
+              Not recommended on shared computers 
+               
+              Sign In    Forgot your password?   
+            
+           
+          
+         
+         
+       Sign Up  
+      
+     
+    
+    
+     
+      
+       
+        
+         
+         
+         
+         
+           Search In 
+          
+          
+             Everywhere   
+             Topics   
+             This Forum   
+             This Topic   
+            More options...   
+          
+         
+           Find results that contain... 
+          
+          
+             Any of my search term words   
+             All of my search term words   
+          
+         
+           Find results in... 
+          
+          
+             Content titles and body   
+             Content titles only   
+          
+         
+        
+       
+      
+      
+        Browse  
+        
+          Forums   
+          Calendar   
+          Guidelines   
+          Staff   
+          Online Users   
+          Leaderboard   
+         More  
+           
+         
+        Activity  
+        
+          All Activity   
+          Search   
+         More  
+           
+         
+        Leaderboard   
+       More 
+        
+         More  
+           
+         
+      
+     
+    
+   
+   
+    
+     
+      
+       
+         All Activity  
+       
+       
+          Home    
+         W3Schools    
+         General    
+        Pop Up Form Needs To Go Above Sticky Header  
+       
+      
+      
+       
+       
+        
+         
+          Sign in to follow this   
+          
+          Followers 
+          0 
+          
+         
+        
+        
+        
+        
+           
+         
+           Pop Up Form Needs To Go Above Sticky Header   
+           By jcole, November 25 in General    
+          
+           form  
+           sticky header  
+           beginner  
+          
+         
+        
+       
+       
+        
+          Reply to this topic   
+         Start new topic  
+        
+       
+       
+        
+         
+         Recommended Posts 
+         
+        
+        
+         
+          
+          
+           
+            jcole      0    
+            
+               
+            
+           
+           
+            jcole       0   
+            
+            Newbie 
+             
+                 
+            Members 
+               0   
+            1 post 
+            
+           
+           
+            
+             
+              
+               
+               Report post 
+                
+               
+              
+              
+              Posted November 25 
+                
+              
+             
+             
+              
+               Hello all,  
+               I will preface by saying I know only what code I find online (mainly this site) to tweak my company's pages. I am currently working on a landing page via Instapage and have a sticky header and also a pop up form. The form is being truncated by the header and would be ever so gracious if someone could help me with the code to make the form show up on top of the header as well.    
+              
+              
+               
+                
+                 
+                 
+                
+               
+               
+                  
+                Quote  
+                  
+               
+              
+             
+             
+              
+              Share this post 
+               
+              Link to post 
+               
+              Share on other sites 
+               
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+               
+              
+             
+            
+           
+          
+          
+          
+           
+            Funce      33    
+            
+               
+            
+           
+           
+            Funce       33   
+            
+            The Lookout 
+             
+                 
+            Moderator 
+               33   
+            437 posts 
+             Location:New Zealand  
+             Languages:HTML, CSS, JavaScript, PHP, SQL, BYOND(DM)  
+            
+           
+           
+            
+             
+              
+               
+               Report post 
+                
+               
+              
+              
+              Posted Monday at 09:16 PM 
+                
+              
+             
+             
+              
+               Is the header overlapping the form? You may be able to get away with checking the z-index of the header vs the form and making sure the form is higher. But without the code you're working with, it's hard to say.  
+              
+              
+               
+                
+                 
+                 
+                
+               
+               
+                  
+                Quote  
+                  
+               
+              
+             
+             
+              
+              Share this post 
+               
+              Link to post 
+               
+              Share on other sites 
+               
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+               
+              
+             
+            
+           
+          
+          
+         
+        
+        
+        
+         
+         Join the conversation 
+          You can post now and register later. If you have an account, sign in now to post with your account.  
+         
+         
+          
+          
+          
+          
+          
+          
+          
+           
+              
+           
+           
+            
+               
+            
+            
+             
+              
+               
+              
+              
+               
+              
+             
+               Reply to this topic...
+              
+              
+               ?   Pasted as rich text.   Paste as plain text instead  
+              
+              
+                 Only 75 emoji are allowed.  
+              
+              
+               ?   Your link has been automatically embedded.   Display as a link instead  
+              
+              
+                
+              
+              
+               ?   Your previous content has been restored.   Clear editor  
+              
+              
+               ?   You cannot paste images directly. Upload or insert images from URL.  
+              
+              
+               
+                
+                 
+                
+                  Loading... 
+                 
+                
+               
+              
+             
+             
+              
+              ? 
+               
+               Desktop 
+               Tablet 
+               Phone 
+               
+              
+              
+             
+            
+            
+             
+              
+               
+                
+                 
+                  
+                    
+                  
+                  
+                   
+                  
+                 
+                
+               
+               
+             Submit Reply  
+            
+           
+          
+         
+        
+        
+         
+          Sign in to follow this   
+          
+          Followers 
+          0 
+          
+         
+        
+        
+        
+       
+       
+        
+         Go To Topic Listing  
+        
+       
+       
+       
+           
+           
+           
+           
+           
+           
+           
+       
+      
+      
+       
+         All Activity  
+       
+       
+          Home    
+         W3Schools    
+         General    
+        Pop Up Form Needs To Go Above Sticky Header  
+       
+      
+     
+    
+   
+   
+    
+     
+     Contact Us 
+     
+      Powered by Invision Community  
+    
+   
+   
+   ? 
+    
+     
+      
+       
+        Existing user? Sign In  
+        Sign Up  
+       
+      
+      
+       Browse 
+        
+        Back 
+        Browse 
+          Forums   
+          Calendar   
+          Guidelines   
+          Staff   
+          Online Users   
+          Leaderboard   
+         
+       Activity 
+        
+        Back 
+        Activity 
+          All Activity   
+          Search   
+         
+      Leaderboard 
+      
+     
+    
+   
+   
+   ? 
+    
+     
+      
+      Create New... 
+      
+     
+    
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+    
+ 
+
+

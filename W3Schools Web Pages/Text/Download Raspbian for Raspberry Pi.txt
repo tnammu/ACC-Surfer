@@ -1,0 +1,303 @@
+ 
+   
+   
+  Download Raspbian for Raspberry Pi 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+  
+   
+    
+     Home  
+     
+      
+        Products   
+        Blog   
+        Downloads   
+        Community   
+        Help   
+        Forums   
+        Education   
+        Projects   
+      
+     
+     
+     
+      Open Search Input  
+     
+     
+        Open Navigation    
+     
+    
+   
+   
+    
+     
+      
+     Search 
+     
+    
+   
+   
+   
+    
+    Raspbian 
+     
+     Raspbian is the Foundation?s official supported operating system. You can install it with NOOBS or download the image below and follow our installation guide. 
+     Raspbian comes pre-installed with plenty of software for education, programming and general use. It has Python, Scratch, Sonic Pi, Java and more. 
+     The Raspbian with Desktop image contained in the ZIP archive is over 4GB in size, which means that these archives use features which are not supported by older unzip tools on some platforms. If you find that the download appears to be corrupt or the file is not unzipping correctly, please try using 7Zip (Windows) or The Unarchiver (Macintosh). Both are free of charge and have been tested to unzip the image correctly. 
+     
+     
+      
+       
+        
+       
+       
+       Raspbian Buster with desktop and recommended software 
+       
+        Image with desktop and recommended software based on Debian Buster
+        
+       
+        Version: 
+        September 2019
+        
+       
+        Release date: 
+        2019-09-26
+        
+       
+        Kernel version: 
+        4.19
+        
+       
+        Size: 
+         2541 MB
+        
+       
+        Release notes
+        
+        
+        Download Torrent 
+        Download ZIP 
+        
+        
+       
+      
+       SHA-256: 
+       549da0fa9ed52a8d7c2d66cb06afac9fe856638b06d8f23df4e6b72e67ed4cea
+        
+      
+       
+        
+       
+       
+       Raspbian Buster with desktop 
+       
+        Image with desktop based on Debian Buster
+        
+       
+        Version: 
+        September 2019
+        
+       
+        Release date: 
+        2019-09-26
+        
+       
+        Kernel version: 
+        4.19
+        
+       
+        Size: 
+         1123 MB
+        
+       
+        Release notes
+        
+        
+        Download Torrent 
+        Download ZIP 
+        
+        
+       
+      
+       SHA-256: 
+       2c4067d59acf891b7aa1683cb1918da78d76d2552c02749148d175fa7f766842
+        
+      
+       
+        
+       
+       
+       Raspbian Buster Lite 
+       
+        Minimal image based on Debian Buster
+        
+       
+        Version: 
+        September 2019
+        
+       
+        Release date: 
+        2019-09-26
+        
+       
+        Kernel version: 
+        4.19
+        
+       
+        Size: 
+         435 MB
+        
+       
+        Release notes
+        
+        
+        Download Torrent 
+        Download ZIP 
+        
+        
+       
+      
+       SHA-256: 
+       a50237c2f718bd8d806b96df5b9d2174ce8b789eda1f03434ed2213bbca6c6ff
+        
+     
+     
+     
+     Note: Raspbian and NOOBS contain Java SE Platform Products, licensed to you under the Oracle Binary Code Licence Agreement available here. 
+     Mathematica and the Wolfram Language are included in this release under license and with permission of Wolfram Research, Inc. and may be used for non-commercial purposes only. By using this software you agree to be bound by the Wolfram Raspberry Pi Bundle License Agreement available here.
+     
+     
+    
+    
+   
+   
+    
+     
+      
+       
+        About Us  
+        
+          About us   
+          Our team   
+          Governance   
+          Safeguarding   
+          Our supporters   
+          Jobs   
+          Contact us   
+        
+       
+      
+      
+       
+        Support  
+        
+          Help   
+          Documentation   
+          Projects   
+          Training   
+          Downloads   
+          Research   
+          FAQ   
+        
+       
+      
+      
+       
+        Sign up to our newsletter  
+        
+        
+        
+        
+        
+        Subscribe  
+       
+      
+      
+       
+          Like Raspberry Pi on Facebook    
+          Follow Raspberry Pi on Twitter    
+          Check out what we?re having for lunch on Instagram    
+          Subscribe to the Raspberry Pi YouTube channel    
+       
+       
+        Raspberry Pi Foundation UK Registered Charity 1129409  
+       
+       
+        Privacy Cookies Trademark rules and brand guidelines  
+       
+      
+     
+    
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+     
+  
+ 
+
+

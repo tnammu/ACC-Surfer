@@ -1,0 +1,108 @@
+ 
+  PHP Tryit Editor v1.1 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+  
+   
+    
+    
+    
+    
+   
+   
+    
+     
+     
+     
+     
+    Run ? 
+     
+     
+    
+   
+   
+   
+   
+    
+    ? 
+     
+     Change Orientation 
+     
+     
+     Privacy policy and Copyright 1999-2018 
+     
+    
+    
+    
+     
+      
+      <!DOCTYPE html>
+<html>
+<body>
+
+<?php
+$cars = array("Volvo", "BMW", "Toyota");
+$arrlength = count($cars);
+
+for($x = 0; $x < $arrlength; $x++) {
+    echo $cars[$x];
+    echo "<br>";
+}
+?>
+
+</body>
+</html>
+ 
+       
+        
+       
+      
+     
+    
+    
+     
+      
+     
+    
+   
+   
+    
+    ? 
+     
+     Report a Problem: 
+     
+     
+     Your E-mail:   
+      Page address:   
+      Description:   
+     Submit 
+     
+    
+   
+    
+ 
+
+

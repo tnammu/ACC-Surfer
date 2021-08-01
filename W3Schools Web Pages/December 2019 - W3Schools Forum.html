@@ -1,0 +1,596 @@
+<!doctype html>
+<html lang="en-US" dir="ltr">
+ <head> 
+  <title>December 2019 - W3Schools Forum</title> 
+  <!--[if lt IE 9]>
+			<link rel="stylesheet" type="text/css" href="//content.invisioncic.com/r49260/css_built_1/5e61784858ad3c11f00b5706d12afe52_ie8.css.ddfe6d54ddea97e362a74cedc9d2e260.css">
+		    <script src="//w3schools.invisionzone.com/applications/core/interface/html5shiv/html5shiv.js"></script>
+		<![endif]--> 
+  <meta charset="utf-8"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1"> 
+  <meta name="twitter:card" content="summary"> 
+  <meta name="robots" content="noindex"> 
+  <meta property="og:site_name" content="W3Schools Forum"> 
+  <meta property="og:locale" content="en_US"> 
+  <link rel="alternate" type="application/rss+xml" title="Upcoming Events" href="http://w3schools.invisionzone.com/calendar/events.xml/"> 
+  <link rel="manifest" href="http://w3schools.invisionzone.com/manifest.webmanifest/"> 
+  <meta name="msapplication-config" content="http://w3schools.invisionzone.com/browserconfig.xml/"> 
+  <meta name="msapplication-starturl" content="/"> 
+  <meta name="application-name" content="W3Schools Forum"> 
+  <meta name="apple-mobile-web-app-title" content="W3Schools Forum"> 
+  <meta name="theme-color" content="#3d6594"> 
+  <link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i" rel="stylesheet" referrerpolicy="origin"> 
+  <link rel="stylesheet" href="//content.invisioncic.com/r49260/css_built_1/341e4a57816af3ba440d891ca87450ff_framework.css.703662c8f3092a73910f58351a4ae9e6.css?v=7daf36a1ce" media="all"> 
+  <link rel="stylesheet" href="//content.invisioncic.com/r49260/css_built_1/05e81b71abe4f22d6eb8d1a929494829_responsive.css.48deafc0d486713d39f852a941683bd4.css?v=7daf36a1ce" media="all"> 
+  <link rel="stylesheet" href="//content.invisioncic.com/r49260/css_built_1/90eb5adf50a8c640f633d47fd7eb1778_core.css.b3f89ec846e1b05edba48f18595ea07b.css?v=7daf36a1ce" media="all"> 
+  <link rel="stylesheet" href="//content.invisioncic.com/r49260/css_built_1/5a0da001ccc2200dc5625c3f3934497d_core_responsive.css.34a05eb6b33381fe04f7499feb1f1e5f.css?v=7daf36a1ce" media="all"> 
+  <link rel="stylesheet" href="//content.invisioncic.com/r49260/css_built_1/51a672ecd6862df2c2f1969522683ee9_calendar.css.70f1739d69f79d4e524f9aac93194c84.css?v=7daf36a1ce" media="all"> 
+  <link rel="stylesheet" href="//content.invisioncic.com/r49260/css_built_1/ac571ba28dab5323fa5bf741f9bdfa70_calendar_responsive.css.6cf4a5495bb9ab3b12b58e676a82ad6d.css?v=7daf36a1ce" media="all"> 
+  <link rel="stylesheet" href="//content.invisioncic.com/r49260/css_built_1/258adbb6e4f3e83cd3b355f84e3fa002_custom.css.1f0ec6d5f70c19ffd293d5f94abe23ca.css?v=7daf36a1ce" media="all"> 
+  <style type="text/css">
+	a.cEvents_style1, .cEvents_style1 a, .cCalendarIcon.cEvents_style1 {
+	background-color: #000000;
+}
+
+</style> 
+ </head> 
+ <body class="ipsApp ipsApp_front ipsJS_none ipsClearfix" data-controller="core.front.core.app" data-message="" data-pageapp="calendar" data-pagelocation="front" data-pagemodule="calendar" data-pagecontroller="view"> 
+  <a href="#elContent" class="ipsHide" title="Go to main content on this page" accesskey="m">Jump to content</a> 
+  <div id="ipsLayout_header" class="ipsClearfix"> 
+   <ul id="elMobileNav" class="ipsList_inline ipsResponsive_hideDesktop ipsResponsive_block" data-controller="core.front.core.mobileNav"> 
+    <li id="elMobileBreadcrumb"> <a href="http://w3schools.invisionzone.com/"> <span>Home</span> </a> </li> 
+    <li> <a data-action="defaultStream" class="ipsType_light" href="http://w3schools.invisionzone.com/discover/"><i class="icon-newspaper"></i></a> </li> 
+    <li class="ipsJS_show"> <a href="http://w3schools.invisionzone.com/search/"><i class="fa fa-search"></i></a> </li> 
+    <li data-ipsdrawer data-ipsdrawer-drawerelem="#elMobileDrawer"> <a href="#"> <i class="fa fa-navicon"></i> </a> </li> 
+   </ul> 
+   <header> 
+    <div class="ipsLayout_container"> 
+     <a href="http://w3schools.invisionzone.com/" id="elLogo" accesskey="1"><img src="//content.invisioncic.com/r49260/monthly_2017_03/w3schools.png.9a860c675c07154b1ec49276a2a69658.png" alt="W3Schools Forum"></a> 
+     <ul id="elUserNav" class="ipsList_inline cSignedOut ipsClearfix ipsResponsive_hidePhone ipsResponsive_block"> 
+      <li id="elSignInLink"> <a href="http://w3schools.invisionzone.com/login/" data-ipsmenu-closeonclick="false" data-ipsmenu id="elUserSignIn"> Existing user? Sign In &nbsp;<i class="fa fa-caret-down"></i> </a> 
+       <div id="elUserSignIn_menu" class="ipsMenu ipsMenu_auto ipsHide"> 
+        <form accept-charset="utf-8" method="post" action="http://w3schools.invisionzone.com/login/" data-controller="core.global.core.login"> 
+         <input type="hidden" name="csrfKey" value="30bf0c544cffca01a99717b8bc199111"> 
+         <input type="hidden" name="ref" value="aHR0cDovL3czc2Nob29scy5pbnZpc2lvbnpvbmUuY29tL2NhbGVuZGFyLw=="> 
+         <div data-role="loginForm"> 
+          <div class="ipsPad ipsForm ipsForm_vertical"> 
+           <h4 class="ipsType_sectionHead">Sign In</h4> 
+           <br>
+           <br> 
+           <ul class="ipsList_reset"> 
+            <li class="ipsFieldRow ipsFieldRow_noLabel ipsFieldRow_fullWidth"> <input type="text" placeholder="Display Name" name="auth"> </li> 
+            <li class="ipsFieldRow ipsFieldRow_noLabel ipsFieldRow_fullWidth"> <input type="password" placeholder="Password" name="password"> </li> 
+            <li class="ipsFieldRow ipsFieldRow_checkbox ipsClearfix"> <span class="ipsCustomInput"> <input type="checkbox" name="remember_me" id="remember_me_checkbox" value="1" checked aria-checked="true"> <span></span> </span> 
+             <div class="ipsFieldRow_content"> 
+              <label class="ipsFieldRow_label" for="remember_me_checkbox">Remember me</label> 
+              <span class="ipsFieldRow_desc">Not recommended on shared computers</span> 
+             </div> </li> 
+            <li class="ipsFieldRow ipsFieldRow_fullWidth"> <br> <button type="submit" name="_processLogin" value="usernamepassword" class="ipsButton ipsButton_primary ipsButton_small" id="elSignIn_submit">Sign In</button> <br> <p class="ipsType_right ipsType_small"> <a href="http://w3schools.invisionzone.com/lostpassword/" data-ipsdialog data-ipsdialog-title="Forgot your password?"> Forgot your password?</a> </p> </li> 
+           </ul> 
+          </div> 
+         </div> 
+        </form> 
+       </div> </li> 
+      <li> <a href="http://w3schools.invisionzone.com/register/" data-ipsdialog data-ipsdialog-size="narrow" data-ipsdialog-title="Sign Up" id="elRegisterButton" class="ipsButton ipsButton_normal ipsButton_primary">Sign Up</a> </li> 
+     </ul> 
+    </div> 
+   </header> 
+   <nav data-controller="core.front.core.navBar" class=""> 
+    <div class="ipsNavBar_primary ipsLayout_container  ipsClearfix"> 
+     <div id="elSearchWrapper" class="ipsPos_right"> 
+      <div id="elSearch" class="" data-controller="core.front.core.quickSearch"> 
+       <form accept-charset="utf-8" action="//w3schools.invisionzone.com/search/?do=quicksearch" method="post"> 
+        <input type="search" id="elSearchField" placeholder="Search..." name="q" autocomplete="off"> 
+        <button class="cSearchSubmit" type="submit"><i class="fa fa-search"></i></button> 
+        <div id="elSearchExpanded"> 
+         <div class="ipsMenu_title">
+           Search In 
+         </div> 
+         <ul class="ipsSideMenu_list ipsSideMenu_withRadios ipsSideMenu_small ipsType_normal" data-ipssidemenu data-ipssidemenu-type="radio" data-ipssidemenu-responsive="false" data-role="searchContexts"> 
+          <li> <span class="ipsSideMenu_item ipsSideMenu_itemActive" data-ipsmenuvalue="all"> <input type="radio" name="type" value="all" checked id="elQuickSearchRadio_type_all"> <label for="elQuickSearchRadio_type_all" id="elQuickSearchRadio_type_all_label">Everywhere</label> </span> </li> 
+          <li> <span class="ipsSideMenu_item" data-ipsmenuvalue="calendar_event"> <input type="radio" name="type" value="calendar_event" id="elQuickSearchRadio_type_calendar_event"> <label for="elQuickSearchRadio_type_calendar_event" id="elQuickSearchRadio_type_calendar_event_label">Events</label> </span> </li> 
+          <li> <span class="ipsSideMenu_item" data-ipsmenuvalue="contextual_{&quot;type&quot;:&quot;calendar_event&quot;,&quot;nodes&quot;:1}"> <input type="radio" name="type" value="contextual_{&quot;type&quot;:&quot;calendar_event&quot;,&quot;nodes&quot;:1}" id="elQuickSearchRadio_type_contextual_{&quot;type&quot;:&quot;calendar_event&quot;,&quot;nodes&quot;:1}"> <label for="elQuickSearchRadio_type_contextual_{&quot;type&quot;:&quot;calendar_event&quot;,&quot;nodes&quot;:1}" id="elQuickSearchRadio_type_contextual_{&quot;type&quot;:&quot;calendar_event&quot;,&quot;nodes&quot;:1}_label">This Calendar</label> </span> </li> 
+          <li data-role="showMoreSearchContexts"> <span class="ipsSideMenu_item" data-action="showMoreSearchContexts" data-exclude="calendar_event"> More options... </span> </li> 
+         </ul> 
+         <div class="ipsMenu_title">
+           Find results that contain... 
+         </div> 
+         <ul class="ipsSideMenu_list ipsSideMenu_withRadios ipsSideMenu_small ipsType_normal" role="radiogroup" data-ipssidemenu data-ipssidemenu-type="radio" data-ipssidemenu-responsive="false" data-filtertype="andOr"> 
+          <li> <span class="ipsSideMenu_item ipsSideMenu_itemActive" data-ipsmenuvalue="or"> <input type="radio" name="search_and_or" value="or" checked id="elRadio_andOr_or"> <label for="elRadio_andOr_or" id="elField_andOr_label_or"><em>Any</em> of my search term words</label> </span> </li> 
+          <li> <span class="ipsSideMenu_item " data-ipsmenuvalue="and"> <input type="radio" name="search_and_or" value="and" id="elRadio_andOr_and"> <label for="elRadio_andOr_and" id="elField_andOr_label_and"><em>All</em> of my search term words</label> </span> </li> 
+         </ul> 
+         <div class="ipsMenu_title">
+           Find results in... 
+         </div> 
+         <ul class="ipsSideMenu_list ipsSideMenu_withRadios ipsSideMenu_small ipsType_normal" role="radiogroup" data-ipssidemenu data-ipssidemenu-type="radio" data-ipssidemenu-responsive="false" data-filtertype="searchIn"> 
+          <li> <span class="ipsSideMenu_item ipsSideMenu_itemActive" data-ipsmenuvalue="all"> <input type="radio" name="search_in" value="all" checked id="elRadio_searchIn_and"> <label for="elRadio_searchIn_and" id="elField_searchIn_label_all">Content titles and body</label> </span> </li> 
+          <li> <span class="ipsSideMenu_item" data-ipsmenuvalue="titles"> <input type="radio" name="search_in" value="titles" id="elRadio_searchIn_titles"> <label for="elRadio_searchIn_titles" id="elField_searchIn_label_titles">Content titles only</label> </span> </li> 
+         </ul> 
+        </div> 
+       </form> 
+      </div> 
+     </div> 
+     <ul data-role="primaryNavBar" class="ipsResponsive_showDesktop ipsResponsive_block"> 
+      <li class="ipsNavBar_active" data-active id="elNavSecondary_1" data-role="navBarItem" data-navapp="core" data-navext="CustomItem"> <a href="http://w3schools.invisionzone.com" data-navitem-id="1" data-navdefault> Browse </a> 
+       <ul class="ipsNavBar_secondary " data-role="secondaryNavBar"> 
+        <li id="elNavSecondary_8" data-role="navBarItem" data-navapp="forums" data-navext="Forums"> <a href="http://w3schools.invisionzone.com" data-navitem-id="8"> Forums </a> </li> 
+        <li class="ipsNavBar_active" data-active id="elNavSecondary_9" data-role="navBarItem" data-navapp="calendar" data-navext="Calendar"> <a href="http://w3schools.invisionzone.com/calendar/" data-navitem-id="9" data-navdefault> Calendar </a> </li> 
+        <li id="elNavSecondary_10" data-role="navBarItem" data-navapp="core" data-navext="Guidelines"> <a href="http://w3schools.invisionzone.com/guidelines/" data-navitem-id="10"> Guidelines </a> </li> 
+        <li id="elNavSecondary_11" data-role="navBarItem" data-navapp="core" data-navext="StaffDirectory"> <a href="http://w3schools.invisionzone.com/staff/" data-navitem-id="11"> Staff </a> </li> 
+        <li id="elNavSecondary_12" data-role="navBarItem" data-navapp="core" data-navext="OnlineUsers"> <a href="http://w3schools.invisionzone.com/online/" data-navitem-id="12"> Online Users </a> </li> 
+        <li id="elNavSecondary_13" data-role="navBarItem" data-navapp="core" data-navext="Leaderboard"> <a href="http://w3schools.invisionzone.com/leaderboard/" data-navitem-id="13"> Leaderboard </a> </li> 
+        <li class="ipsHide" id="elNavigationMore_1" data-role="navMore"> <a href="#" data-ipsmenu data-ipsmenu-appendto="#elNavigationMore_1" id="elNavigationMore_1_dropdown">More <i class="fa fa-caret-down"></i></a> 
+         <ul class="ipsHide ipsMenu ipsMenu_auto" id="elNavigationMore_1_dropdown_menu" data-role="moreDropdown"></ul> </li> 
+       </ul> </li> 
+      <li id="elNavSecondary_2" data-role="navBarItem" data-navapp="core" data-navext="CustomItem"> <a href="http://w3schools.invisionzone.com/discover/" data-navitem-id="2"> Activity </a> 
+       <ul class="ipsNavBar_secondary ipsHide" data-role="secondaryNavBar"> 
+        <li id="elNavSecondary_3" data-role="navBarItem" data-navapp="core" data-navext="AllActivity"> <a href="http://w3schools.invisionzone.com/discover/" data-navitem-id="3"> All Activity </a> </li> 
+        <li id="elNavSecondary_7" data-role="navBarItem" data-navapp="core" data-navext="Search"> <a href="http://w3schools.invisionzone.com/search/" data-navitem-id="7"> Search </a> </li> 
+        <li class="ipsHide" id="elNavigationMore_2" data-role="navMore"> <a href="#" data-ipsmenu data-ipsmenu-appendto="#elNavigationMore_2" id="elNavigationMore_2_dropdown">More <i class="fa fa-caret-down"></i></a> 
+         <ul class="ipsHide ipsMenu ipsMenu_auto" id="elNavigationMore_2_dropdown_menu" data-role="moreDropdown"></ul> </li> 
+       </ul> </li> 
+      <li id="elNavSecondary_14" data-role="navBarItem" data-navapp="core" data-navext="Leaderboard"> <a href="http://w3schools.invisionzone.com/leaderboard/" data-navitem-id="14"> Leaderboard </a> </li> 
+      <li class="ipsHide" id="elNavigationMore" data-role="navMore"> <a href="#" data-ipsmenu data-ipsmenu-appendto="#elNavigationMore" id="elNavigationMore_dropdown">More</a> 
+       <ul class="ipsNavBar_secondary ipsHide" data-role="secondaryNavBar"> 
+        <li class="ipsHide" id="elNavigationMore_more" data-role="navMore"> <a href="#" data-ipsmenu data-ipsmenu-appendto="#elNavigationMore_more" id="elNavigationMore_more_dropdown">More <i class="fa fa-caret-down"></i></a> 
+         <ul class="ipsHide ipsMenu ipsMenu_auto" id="elNavigationMore_more_dropdown_menu" data-role="moreDropdown"></ul> </li> 
+       </ul> </li> 
+     </ul> 
+    </div> 
+   </nav> 
+  </div> 
+  <main id="ipsLayout_body" class="ipsLayout_container"> 
+   <div id="ipsLayout_contentArea"> 
+    <div id="ipsLayout_contentWrapper"> 
+     <nav class="ipsBreadcrumb ipsBreadcrumb_top ipsFaded_withHover"> 
+      <ul class="ipsList_inline ipsPos_right"> 
+       <li> <a data-action="defaultStream" class="ipsType_light " href="http://w3schools.invisionzone.com/discover/"><i class="icon-newspaper"></i> <span>All Activity</span></a> </li> 
+      </ul> 
+      <ul data-role="breadcrumbList"> 
+       <li> <a title="Home" href="http://w3schools.invisionzone.com/"> <span><i class="fa fa-home"></i> Home <i class="fa fa-angle-right"></i></span> </a> </li> 
+       <li> <a href="http://w3schools.invisionzone.com/calendar/"> <span>Calendar </span> </a> </li> 
+      </ul> 
+     </nav> 
+     <div id="ipsLayout_mainArea"> 
+      <a id="elContent"></a> 
+      <div class="ipsPageHeader ipsPad_half ipsClearfix ipsSpacer_bottom" id="elCalendarsHeader"> 
+       <div class="ipsPos_right ipsResponsive_noFloat"> 
+        <div data-followapp="calendar" data-followarea="calendar" data-followid="1" data-controller="core.front.core.followButton"> 
+         <span class="ipsType_light ipsType_blendLinks ipsResponsive_hidePhone ipsResponsive_inline"><i class="fa fa-info-circle"></i> <a href="http://w3schools.invisionzone.com/login/" title="Go to the sign in page">Sign in to follow this</a>&nbsp;&nbsp;</span> 
+         <div class="ipsFollow ipsPos_middle ipsButton ipsButton_link ipsButton_verySmall " data-role="followButton"> 
+          <a href="http://w3schools.invisionzone.com/index.php?app=core&amp;module=system&amp;controller=notifications&amp;do=followers&amp;follow_app=calendar&amp;follow_area=calendar&amp;follow_id=1" title="See who follows this" class="ipsType_blendLinks ipsType_noUnderline" data-ipstooltip data-ipsdialog data-ipsdialog-size="narrow" data-ipsdialog-title="Who follows this">Followers</a> 
+          <a class="ipsCommentCount" href="http://w3schools.invisionzone.com/index.php?app=core&amp;module=system&amp;controller=notifications&amp;do=followers&amp;follow_app=calendar&amp;follow_area=calendar&amp;follow_id=1" title="See who follows this" data-ipstooltip data-ipsdialog data-ipsdialog-size="narrow" data-ipsdialog-title="Who follows this">33</a> 
+         </div> 
+        </div> 
+       </div> 
+       <span class="ipsType_pageTitle"> <a href="#elCalendars_menu" id="elCalendars" data-ipsmenu data-ipsmenu-appendto="#elCalendarsHeader" class="ipsType_blendLinks">Community Calendar &nbsp;<i class="fa fa-caret-down"></i></a> &nbsp;&nbsp;<a href="#elCalendarSettings_menu" id="elCalendarSettings" data-ipsmenu data-ipsmenu-aligncenter data-ipsmenu-appendto="#elCalendarsHeader" class="ipsType_blendLinks"><i class="fa fa-cog"></i></a> <a href="#elCalendarJump" data-ipsmenu data-ipsmenu-menuid="elCalendarJump" data-ipsmenu-closeonclick="false" class="ipsButton ipsButton_light ipsButton_small ipsResponsive_showDesktop ipsResponsive_inlineBlock">Jump to <i class="fa fa-caret-down"></i></a> </span> 
+      </div> 
+      <div id="elCalendarJump" class="ipsMenu ipsMenu_medium ipsHide"> 
+       <form accept-charset="utf-8" class="ipsPad ipsForm ipsForm_vertical" method="post" action="http://w3schools.invisionzone.com/calendar/" data-ipsForm> 
+        <input type="hidden" name="form_submitted" value="1"> 
+        <input type="hidden" name="csrfKey" value="30bf0c544cffca01a99717b8bc199111"> 
+        <ul class="ipsList_reset"> 
+         <li class="ipsFieldRow ipsFieldRow_fullWidth"> <input type="date" data-control="date" name="jump_to" id="jump_to" required value="2019-12-04"> </li> 
+         <li class="ipsFieldRow"> <input type="submit" class="ipsButton ipsButton_primary ipsButton_fullWidth ipsButton_small" value="Go"> </li> 
+         <li class="ipsFieldRow"> <input type="submit" class="ipsButton ipsButton_light ipsButton_fullWidth ipsButton_small" value="Go to today" name="goto"> </li> 
+        </ul> 
+       </form> 
+      </div> 
+      <ul class="ipsMenu ipsMenu_auto ipsHide" id="elCalendars_menu"> 
+       <li class="ipsMenu_item"><a href="http://w3schools.invisionzone.com/calendar/"><span class="cCalendarIcon cEvents_style_blank"></span> All Calendars</a></li> 
+       <li class="ipsMenu_item"><a href="http://w3schools.invisionzone.com/calendar/1-community-calendar/"><span class="cCalendarIcon cEvents_style1"></span> Community Calendar</a></li> 
+      </ul> 
+      <ul class="ipsMenu ipsMenu_auto ipsHide" id="elCalendarSettings_menu"> 
+       <li class="ipsMenu_title">With 'Community Calendar'</li> 
+       <li class="ipsMenu_item"><a href="http://w3schools.invisionzone.com/calendar/1-community-calendar/download/"><i class="fa fa-download"></i> Download iCalendar export</a></li> 
+       <li class="ipsMenu_item"><a href="webcal://w3schools.invisionzone.com/calendar/1-community-calendar/download/"><i class="fa fa-calendar"></i> Subscribe to iCalendar feed</a></li> 
+      </ul> 
+      <hr class="ipsHr"> 
+      <div data-controller="calendar.front.browse.main" class="ipsSpacer_top ipsBox_alt"> 
+       <div class="ipsGrid ipsGrid_collapsePhone ipsPager cCalendarNav ipsSpacer_bottom" data-ipssticky data-ipssticky-disablein="phone"> 
+        <div class="ipsGrid_span3 ipsType_left ipsPager_prev"> 
+         <a href="http://w3schools.invisionzone.com/calendar/1-community-calendar/2019/11/" title="November 2019" rel="prev nofollow" data-action="changeView"> <span class="ipsPager_type ipsType_normal">November</span> <span class="ipsPager_title ipsType_light">2019</span> </a> 
+        </div> 
+        <div class="ipsGrid_span6 ipsType_center ipsPad" data-role="calendarNav"> 
+         <h1 class="ipsType_pageTitle ipsType_center">December 2019</h1> 
+         <ul class="ipsButton_split ipsType_noBreak"> 
+          <li><a href="#" class="ipsButton ipsButton_primary ipsButton_verySmall" title="December 2019" data-action="changeView">Month</a></li> 
+          <li><a href="http://w3schools.invisionzone.com/calendar/1-community-calendar/week/2019-12-04/" title="Dec 01 2019 - Dec 07 2019" class="ipsButton ipsButton_light ipsButton_verySmall" data-action="changeView">Week</a></li> 
+          <li><a href="http://w3schools.invisionzone.com/calendar/1-community-calendar/2019/12/4/" title="December 04, 2019" class="ipsButton ipsButton_light ipsButton_verySmall" data-action="changeView">Day</a></li> 
+          <li><a href="http://w3schools.invisionzone.com/calendar/1-community-calendar/events/2019/12/" title="Event stream for December 2019" class="ipsButton ipsButton_light ipsButton_verySmall" data-action="changeView"><span class="ipsResponsive_hidePhone ipsResponsive_inline">Event Stream</span><span class="ipsResponsive_showPhone ipsResponsive_inline">Stream</span></a></li> 
+         </ul> 
+        </div> 
+        <div class="ipsGrid_span3 ipsType_right ipsPager_next"> 
+         <a href="http://w3schools.invisionzone.com/calendar/1-community-calendar/2020/1/" title="January 2020" rel="next nofollow" data-action="changeView"> <span class="ipsPager_type ipsType_normal">January</span> <span class="ipsPager_title ipsType_light">2020</span> </a> 
+        </div> 
+       </div> 
+       <table class="cCalendar ipsBox" data-controller="calendar.front.browse.monthView"> 
+        <tbody>
+         <tr> 
+          <th class="ipsPad_half ipsAreaBackground_dark" data-short="Sun" data-veryshort="S"><span>Sunday</span></th> 
+          <th class="ipsPad_half ipsAreaBackground_dark" data-short="Mon" data-veryshort="M"><span>Monday</span></th> 
+          <th class="ipsPad_half ipsAreaBackground_dark" data-short="Tue" data-veryshort="T"><span>Tuesday</span></th> 
+          <th class="ipsPad_half ipsAreaBackground_dark" data-short="Wed" data-veryshort="W"><span>Wednesday</span></th> 
+          <th class="ipsPad_half ipsAreaBackground_dark" data-short="Thu" data-veryshort="T"><span>Thursday</span></th> 
+          <th class="ipsPad_half ipsAreaBackground_dark" data-short="Fri" data-veryshort="F"><span>Friday</span></th> 
+          <th class="ipsPad_half ipsAreaBackground_dark" data-short="Sat" data-veryshort="S"><span>Saturday</span></th> 
+         </tr> 
+         <tr> 
+         </tr> 
+         <tr> 
+          <td class="cCalendar_date cCalendar_firstDay"> 
+           <div> 
+            <a href="http://w3schools.invisionzone.com/calendar/1-community-calendar/2019/12/1/" class="ipsType_blendLinks cCalendar_dayNumber">01</a> 
+            <p class="cCalendar_birthdays ipsType_light"><a class="ipsType_blendLinks" href="http://w3schools.invisionzone.com/calendar/1-community-calendar/2019/12/1/">30 birthdays</a></p> 
+           </div> </td> 
+          <td class="cCalendar_date"> 
+           <div> 
+            <a href="http://w3schools.invisionzone.com/calendar/1-community-calendar/2019/12/2/" class="ipsType_blendLinks cCalendar_dayNumber">02</a> 
+            <p class="cCalendar_birthdays ipsType_light"><a class="ipsType_blendLinks" href="http://w3schools.invisionzone.com/calendar/1-community-calendar/2019/12/2/">15 birthdays</a></p> 
+           </div> </td> 
+          <td class="cCalendar_date"> 
+           <div> 
+            <a href="http://w3schools.invisionzone.com/calendar/1-community-calendar/2019/12/3/" class="ipsType_blendLinks cCalendar_dayNumber">03</a> 
+            <p class="cCalendar_birthdays ipsType_light"><a class="ipsType_blendLinks" href="http://w3schools.invisionzone.com/calendar/1-community-calendar/2019/12/3/">19 birthdays</a></p> 
+           </div> </td> 
+          <td class="cCalendar_date cCalendar_today"> 
+           <div> 
+            <a href="http://w3schools.invisionzone.com/calendar/1-community-calendar/2019/12/4/" class="ipsType_blendLinks cCalendar_dayNumber">04</a> 
+            <p class="cCalendar_birthdays ipsType_light"><a class="ipsType_blendLinks" href="http://w3schools.invisionzone.com/calendar/1-community-calendar/2019/12/4/">14 birthdays</a></p> 
+           </div> </td> 
+          <td class="cCalendar_date"> 
+           <div> 
+            <a href="http://w3schools.invisionzone.com/calendar/1-community-calendar/2019/12/5/" class="ipsType_blendLinks cCalendar_dayNumber">05</a> 
+            <p class="cCalendar_birthdays ipsType_light"><a class="ipsType_blendLinks" href="http://w3schools.invisionzone.com/calendar/1-community-calendar/2019/12/5/">11 birthdays</a></p> 
+           </div> </td> 
+          <td class="cCalendar_date"> 
+           <div> 
+            <a href="http://w3schools.invisionzone.com/calendar/1-community-calendar/2019/12/6/" class="ipsType_blendLinks cCalendar_dayNumber">06</a> 
+            <p class="cCalendar_birthdays ipsType_light"><a class="ipsType_blendLinks" href="http://w3schools.invisionzone.com/calendar/1-community-calendar/2019/12/6/">14 birthdays</a></p> 
+           </div> </td> 
+          <td class="cCalendar_date"> 
+           <div> 
+            <a href="http://w3schools.invisionzone.com/calendar/1-community-calendar/2019/12/7/" class="ipsType_blendLinks cCalendar_dayNumber">07</a> 
+            <p class="cCalendar_birthdays ipsType_light"><a class="ipsType_blendLinks" href="http://w3schools.invisionzone.com/calendar/1-community-calendar/2019/12/7/">18 birthdays</a></p> 
+           </div> </td> 
+         </tr> 
+         <tr> 
+          <td class="cCalendar_date"> 
+           <div> 
+            <a href="http://w3schools.invisionzone.com/calendar/1-community-calendar/2019/12/8/" class="ipsType_blendLinks cCalendar_dayNumber">08</a> 
+            <p class="cCalendar_birthdays ipsType_light"><a class="ipsType_blendLinks" href="http://w3schools.invisionzone.com/calendar/1-community-calendar/2019/12/8/">14 birthdays</a></p> 
+           </div> </td> 
+          <td class="cCalendar_date"> 
+           <div> 
+            <a href="http://w3schools.invisionzone.com/calendar/1-community-calendar/2019/12/9/" class="ipsType_blendLinks cCalendar_dayNumber">09</a> 
+            <p class="cCalendar_birthdays ipsType_light"><a class="ipsType_blendLinks" href="http://w3schools.invisionzone.com/calendar/1-community-calendar/2019/12/9/">17 birthdays</a></p> 
+           </div> </td> 
+          <td class="cCalendar_date"> 
+           <div> 
+            <a href="http://w3schools.invisionzone.com/calendar/1-community-calendar/2019/12/10/" class="ipsType_blendLinks cCalendar_dayNumber">10</a> 
+            <p class="cCalendar_birthdays ipsType_light"><a class="ipsType_blendLinks" href="http://w3schools.invisionzone.com/calendar/1-community-calendar/2019/12/10/">21 birthdays</a></p> 
+           </div> </td> 
+          <td class="cCalendar_date"> 
+           <div> 
+            <a href="http://w3schools.invisionzone.com/calendar/1-community-calendar/2019/12/11/" class="ipsType_blendLinks cCalendar_dayNumber">11</a> 
+            <p class="cCalendar_birthdays ipsType_light"><a class="ipsType_blendLinks" href="http://w3schools.invisionzone.com/calendar/1-community-calendar/2019/12/11/">8 birthdays</a></p> 
+           </div> </td> 
+          <td class="cCalendar_date"> 
+           <div> 
+            <a href="http://w3schools.invisionzone.com/calendar/1-community-calendar/2019/12/12/" class="ipsType_blendLinks cCalendar_dayNumber">12</a> 
+            <p class="cCalendar_birthdays ipsType_light"><a class="ipsType_blendLinks" href="http://w3schools.invisionzone.com/calendar/1-community-calendar/2019/12/12/">20 birthdays</a></p> 
+           </div> </td> 
+          <td class="cCalendar_date"> 
+           <div> 
+            <a href="http://w3schools.invisionzone.com/calendar/1-community-calendar/2019/12/13/" class="ipsType_blendLinks cCalendar_dayNumber">13</a> 
+            <p class="cCalendar_birthdays ipsType_light"><a class="ipsType_blendLinks" href="http://w3schools.invisionzone.com/calendar/1-community-calendar/2019/12/13/">15 birthdays</a></p> 
+           </div> </td> 
+          <td class="cCalendar_date"> 
+           <div> 
+            <a href="http://w3schools.invisionzone.com/calendar/1-community-calendar/2019/12/14/" class="ipsType_blendLinks cCalendar_dayNumber">14</a> 
+            <p class="cCalendar_birthdays ipsType_light"><a class="ipsType_blendLinks" href="http://w3schools.invisionzone.com/calendar/1-community-calendar/2019/12/14/">12 birthdays</a></p> 
+           </div> </td> 
+         </tr> 
+         <tr> 
+          <td class="cCalendar_date"> 
+           <div> 
+            <a href="http://w3schools.invisionzone.com/calendar/1-community-calendar/2019/12/15/" class="ipsType_blendLinks cCalendar_dayNumber">15</a> 
+            <p class="cCalendar_birthdays ipsType_light"><a class="ipsType_blendLinks" href="http://w3schools.invisionzone.com/calendar/1-community-calendar/2019/12/15/">12 birthdays</a></p> 
+           </div> </td> 
+          <td class="cCalendar_date"> 
+           <div> 
+            <a href="http://w3schools.invisionzone.com/calendar/1-community-calendar/2019/12/16/" class="ipsType_blendLinks cCalendar_dayNumber">16</a> 
+            <p class="cCalendar_birthdays ipsType_light"><a class="ipsType_blendLinks" href="http://w3schools.invisionzone.com/calendar/1-community-calendar/2019/12/16/">15 birthdays</a></p> 
+           </div> </td> 
+          <td class="cCalendar_date"> 
+           <div> 
+            <a href="http://w3schools.invisionzone.com/calendar/1-community-calendar/2019/12/17/" class="ipsType_blendLinks cCalendar_dayNumber">17</a> 
+            <p class="cCalendar_birthdays ipsType_light"><a class="ipsType_blendLinks" href="http://w3schools.invisionzone.com/calendar/1-community-calendar/2019/12/17/">13 birthdays</a></p> 
+           </div> </td> 
+          <td class="cCalendar_date"> 
+           <div> 
+            <a href="http://w3schools.invisionzone.com/calendar/1-community-calendar/2019/12/18/" class="ipsType_blendLinks cCalendar_dayNumber">18</a> 
+            <p class="cCalendar_birthdays ipsType_light"><a class="ipsType_blendLinks" href="http://w3schools.invisionzone.com/calendar/1-community-calendar/2019/12/18/">11 birthdays</a></p> 
+           </div> </td> 
+          <td class="cCalendar_date"> 
+           <div> 
+            <a href="http://w3schools.invisionzone.com/calendar/1-community-calendar/2019/12/19/" class="ipsType_blendLinks cCalendar_dayNumber">19</a> 
+            <p class="cCalendar_birthdays ipsType_light"><a class="ipsType_blendLinks" href="http://w3schools.invisionzone.com/calendar/1-community-calendar/2019/12/19/">14 birthdays</a></p> 
+           </div> </td> 
+          <td class="cCalendar_date"> 
+           <div> 
+            <a href="http://w3schools.invisionzone.com/calendar/1-community-calendar/2019/12/20/" class="ipsType_blendLinks cCalendar_dayNumber">20</a> 
+            <p class="cCalendar_birthdays ipsType_light"><a class="ipsType_blendLinks" href="http://w3schools.invisionzone.com/calendar/1-community-calendar/2019/12/20/">14 birthdays</a></p> 
+           </div> </td> 
+          <td class="cCalendar_date"> 
+           <div> 
+            <a href="http://w3schools.invisionzone.com/calendar/1-community-calendar/2019/12/21/" class="ipsType_blendLinks cCalendar_dayNumber">21</a> 
+            <p class="cCalendar_birthdays ipsType_light"><a class="ipsType_blendLinks" href="http://w3schools.invisionzone.com/calendar/1-community-calendar/2019/12/21/">9 birthdays</a></p> 
+           </div> </td> 
+         </tr> 
+         <tr> 
+          <td class="cCalendar_date"> 
+           <div> 
+            <a href="http://w3schools.invisionzone.com/calendar/1-community-calendar/2019/12/22/" class="ipsType_blendLinks cCalendar_dayNumber">22</a> 
+            <p class="cCalendar_birthdays ipsType_light"><a class="ipsType_blendLinks" href="http://w3schools.invisionzone.com/calendar/1-community-calendar/2019/12/22/">16 birthdays</a></p> 
+           </div> </td> 
+          <td class="cCalendar_date"> 
+           <div> 
+            <a href="http://w3schools.invisionzone.com/calendar/1-community-calendar/2019/12/23/" class="ipsType_blendLinks cCalendar_dayNumber">23</a> 
+            <p class="cCalendar_birthdays ipsType_light"><a class="ipsType_blendLinks" href="http://w3schools.invisionzone.com/calendar/1-community-calendar/2019/12/23/">15 birthdays</a></p> 
+           </div> </td> 
+          <td class="cCalendar_date"> 
+           <div> 
+            <a href="http://w3schools.invisionzone.com/calendar/1-community-calendar/2019/12/24/" class="ipsType_blendLinks cCalendar_dayNumber">24</a> 
+            <p class="cCalendar_birthdays ipsType_light"><a class="ipsType_blendLinks" href="http://w3schools.invisionzone.com/calendar/1-community-calendar/2019/12/24/">11 birthdays</a></p> 
+           </div> </td> 
+          <td class="cCalendar_date"> 
+           <div> 
+            <a href="http://w3schools.invisionzone.com/calendar/1-community-calendar/2019/12/25/" class="ipsType_blendLinks cCalendar_dayNumber">25</a> 
+            <p class="cCalendar_birthdays ipsType_light"><a class="ipsType_blendLinks" href="http://w3schools.invisionzone.com/calendar/1-community-calendar/2019/12/25/">18 birthdays</a></p> 
+           </div> </td> 
+          <td class="cCalendar_date"> 
+           <div> 
+            <a href="http://w3schools.invisionzone.com/calendar/1-community-calendar/2019/12/26/" class="ipsType_blendLinks cCalendar_dayNumber">26</a> 
+            <p class="cCalendar_birthdays ipsType_light"><a class="ipsType_blendLinks" href="http://w3schools.invisionzone.com/calendar/1-community-calendar/2019/12/26/">17 birthdays</a></p> 
+           </div> </td> 
+          <td class="cCalendar_date"> 
+           <div> 
+            <a href="http://w3schools.invisionzone.com/calendar/1-community-calendar/2019/12/27/" class="ipsType_blendLinks cCalendar_dayNumber">27</a> 
+            <p class="cCalendar_birthdays ipsType_light"><a class="ipsType_blendLinks" href="http://w3schools.invisionzone.com/calendar/1-community-calendar/2019/12/27/">10 birthdays</a></p> 
+           </div> </td> 
+          <td class="cCalendar_date"> 
+           <div> 
+            <a href="http://w3schools.invisionzone.com/calendar/1-community-calendar/2019/12/28/" class="ipsType_blendLinks cCalendar_dayNumber">28</a> 
+            <p class="cCalendar_birthdays ipsType_light"><a class="ipsType_blendLinks" href="http://w3schools.invisionzone.com/calendar/1-community-calendar/2019/12/28/">16 birthdays</a></p> 
+           </div> </td> 
+         </tr> 
+         <tr> 
+          <td class="cCalendar_date"> 
+           <div> 
+            <a href="http://w3schools.invisionzone.com/calendar/1-community-calendar/2019/12/29/" class="ipsType_blendLinks cCalendar_dayNumber">29</a> 
+            <p class="cCalendar_birthdays ipsType_light"><a class="ipsType_blendLinks" href="http://w3schools.invisionzone.com/calendar/1-community-calendar/2019/12/29/">12 birthdays</a></p> 
+           </div> </td> 
+          <td class="cCalendar_date"> 
+           <div> 
+            <a href="http://w3schools.invisionzone.com/calendar/1-community-calendar/2019/12/30/" class="ipsType_blendLinks cCalendar_dayNumber">30</a> 
+            <p class="cCalendar_birthdays ipsType_light"><a class="ipsType_blendLinks" href="http://w3schools.invisionzone.com/calendar/1-community-calendar/2019/12/30/">16 birthdays</a></p> 
+           </div> </td> 
+          <td class="cCalendar_date"> 
+           <div> 
+            <a href="http://w3schools.invisionzone.com/calendar/1-community-calendar/2019/12/31/" class="ipsType_blendLinks cCalendar_dayNumber">31</a> 
+            <p class="cCalendar_birthdays ipsType_light"><a class="ipsType_blendLinks" href="http://w3schools.invisionzone.com/calendar/1-community-calendar/2019/12/31/">20 birthdays</a></p> 
+           </div> </td> 
+          <td class="cCalendar_nonDate">&nbsp;</td> 
+          <td class="cCalendar_nonDate">&nbsp;</td> 
+          <td class="cCalendar_nonDate">&nbsp;</td> 
+          <td class="cCalendar_nonDate">&nbsp;</td> 
+         </tr> 
+        </tbody>
+       </table> 
+      </div> 
+      <ul class="ipsToolList ipsToolList_horizontal ipsResponsive_showPhone ipsResponsive_block ipsClearfix ipsSpacer_top"> 
+      </ul> 
+     </div> 
+     <nav class="ipsBreadcrumb ipsBreadcrumb_bottom ipsFaded_withHover"> 
+      <a href="#" id="elRSS" class="ipsPos_right ipsType_large" title="Available RSS feeds" data-ipstooltip data-ipsmenu data-ipsmenu-above><i class="fa fa-rss-square"></i></a> 
+      <ul id="elRSS_menu" class="ipsMenu ipsMenu_auto ipsHide"> 
+       <li class="ipsMenu_item"><a title="Upcoming Events" href="http://w3schools.invisionzone.com/calendar/events.xml/">Upcoming Events</a></li> 
+      </ul> 
+      <ul class="ipsList_inline ipsPos_right"> 
+       <li> <a data-action="defaultStream" class="ipsType_light " href="http://w3schools.invisionzone.com/discover/"><i class="icon-newspaper"></i> <span>All Activity</span></a> </li> 
+      </ul> 
+      <ul data-role="breadcrumbList"> 
+       <li> <a title="Home" href="http://w3schools.invisionzone.com/"> <span><i class="fa fa-home"></i> Home <i class="fa fa-angle-right"></i></span> </a> </li> 
+       <li> <a href="http://w3schools.invisionzone.com/calendar/"> <span>Calendar </span> </a> </li> 
+      </ul> 
+     </nav> 
+    </div> 
+   </div> 
+  </main> 
+  <footer id="ipsLayout_footer" class="ipsClearfix"> 
+   <div class="ipsLayout_container"> 
+    <ul class="ipsList_inline ipsType_center ipsSpacer_top" id="elFooterLinks"> 
+     <li><a rel="nofollow" href="http://w3schools.invisionzone.com/contact/" data-ipsdialog data-ipsdialog-remotesubmit data-ipsdialog-flashmessage="Thanks, your message has been sent to the administrators." data-ipsdialog-title="Contact Us">Contact Us</a></li> 
+    </ul> 
+    <p id="elCopyright"> <span id="elCopyright_userLine"></span> <a rel="nofollow" title="Invision Community" href="https://www.invisioncommunity.com/">Powered by Invision Community</a> </p> 
+   </div> 
+  </footer> 
+  <div id="elMobileDrawer" class="ipsDrawer ipsHide"> 
+   <a href="#" class="ipsDrawer_close" data-action="close"><span>×</span></a> 
+   <div class="ipsDrawer_menu"> 
+    <div class="ipsDrawer_content"> 
+     <div class="ipsSpacer_bottom ipsPad"> 
+      <ul class="ipsToolList ipsToolList_vertical"> 
+       <li> <a href="http://w3schools.invisionzone.com/login/" class="ipsButton ipsButton_light ipsButton_small ipsButton_fullWidth">Existing user? Sign In</a> </li> 
+       <li> <a href="http://w3schools.invisionzone.com/register/" data-ipsdialog data-ipsdialog-size="narrow" data-ipsdialog-title="Sign Up" data-ipsdialog-fixed="true" id="elRegisterButton_mobile" class="ipsButton ipsButton_small ipsButton_fullWidth ipsButton_important">Sign Up</a> </li> 
+      </ul> 
+     </div> 
+     <ul class="ipsDrawer_list"> 
+      <li class="ipsDrawer_itemParent"> <h4 class="ipsDrawer_title"><a href="#">Browse</a></h4> 
+       <ul class="ipsDrawer_list"> 
+        <li data-action="back"><a href="#">Back</a></li> 
+        <li><a href="http://w3schools.invisionzone.com">Browse</a></li> 
+        <li> <a href="http://w3schools.invisionzone.com"> Forums </a> </li> 
+        <li> <a href="http://w3schools.invisionzone.com/calendar/"> Calendar </a> </li> 
+        <li> <a href="http://w3schools.invisionzone.com/guidelines/"> Guidelines </a> </li> 
+        <li> <a href="http://w3schools.invisionzone.com/staff/"> Staff </a> </li> 
+        <li> <a href="http://w3schools.invisionzone.com/online/"> Online Users </a> </li> 
+        <li> <a href="http://w3schools.invisionzone.com/leaderboard/"> Leaderboard </a> </li> 
+       </ul> </li> 
+      <li class="ipsDrawer_itemParent"> <h4 class="ipsDrawer_title"><a href="#">Activity</a></h4> 
+       <ul class="ipsDrawer_list"> 
+        <li data-action="back"><a href="#">Back</a></li> 
+        <li><a href="http://w3schools.invisionzone.com/discover/">Activity</a></li> 
+        <li> <a href="http://w3schools.invisionzone.com/discover/"> All Activity </a> </li> 
+        <li> <a href="http://w3schools.invisionzone.com/search/"> Search </a> </li> 
+       </ul> </li> 
+      <li><a href="http://w3schools.invisionzone.com/leaderboard/">Leaderboard</a></li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="elMobileCreateMenuDrawer" class="ipsDrawer ipsHide"> 
+   <a href="#" class="ipsDrawer_close" data-action="close"><span>×</span></a> 
+   <div class="ipsDrawer_menu"> 
+    <div class="ipsDrawer_content ipsSpacer_bottom ipsPad"> 
+     <ul class="ipsDrawer_list"> 
+      <li class="ipsDrawer_listTitle ipsType_reset">Create New...</li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <script type="text/javascript">
+		var ipsDebug = false;		
+	
+		var CKEDITOR_BASEPATH = '//w3schools.invisionzone.com/applications/core/interface/ckeditor/ckeditor/';
+	
+		var ipsSettings = {
+			
+			
+			cookie_path: "/",
+			
+			cookie_prefix: "ips4_",
+			
+			
+			cookie_ssl: false,
+			
+			upload_imgURL: "",
+			message_imgURL: "",
+			notification_imgURL: "",
+			baseURL: "//w3schools.invisionzone.com/",
+			jsURL: "//w3schools.invisionzone.com/applications/core/interface/js/js.php",
+			csrfKey: "30bf0c544cffca01a99717b8bc199111",
+			antiCache: "7daf36a1ce",
+			disableNotificationSounds: false,
+			useCompiledFiles: true,
+			links_external: true,
+			memberID: 0,
+			lazyLoadEnabled: false,
+			blankImg: "//w3schools.invisionzone.com/applications/core/interface/js/spacer.png",
+			analyticsProvider: "none",
+			viewProfiles: true,
+			mapProvider: 'none',
+			mapApiKey: '',
+			
+		};
+	</script> 
+  <script type="text/javascript" src="//w3schools.invisionzone.com/applications/core/interface/howler/howler.core.min.js?v=7daf36a1ce" data-ips></script> 
+  <script type="text/javascript" src="//content.invisioncic.com/r49260/javascript_global/root_library.js.7afbe442bbaa677ccf9b198ba01452ac.js" data-ips></script> 
+  <script type="text/javascript" src="//content.invisioncic.com/r49260/javascript_global/root_js_lang_1.js.1416af6cc6b23807671c3fca010a655b.js" data-ips></script> 
+  <script type="text/javascript" src="//content.invisioncic.com/r49260/javascript_global/root_framework.js.90a7a2a5e283f3c67af69e40ef0a727b.js" data-ips></script> 
+  <script type="text/javascript" src="//content.invisioncic.com/r49260/javascript_core/global_global_core.js.561b16b79156e62f5150bf8beef95708.js" data-ips></script> 
+  <script type="text/javascript" src="//content.invisioncic.com/r49260/javascript_global/root_front.js.b60308728d0e6e0ca6055dba9b760d13.js" data-ips></script> 
+  <script type="text/javascript" src="//content.invisioncic.com/r49260/javascript_calendar/front_front_browse.js.6e668fc20897447e33c710aa074000a9.js" data-ips></script> 
+  <script type="text/javascript" src="//w3schools.invisionzone.com/applications/core/interface/jquery/jquery-ui.js?v=7daf36a1ce" data-ips></script> 
+  <script type="text/javascript" src="//w3schools.invisionzone.com/applications/core/interface/jquery/jquery-touchpunch.js?v=7daf36a1ce" data-ips></script> 
+  <script type="text/javascript" src="//content.invisioncic.com/r49260/javascript_global/root_map.js.56fe887ce240786c372902849a5033b2.js" data-ips></script> 
+  <script type="text/javascript">
+		
+			ips.setSetting( 'date_format', jQuery.parseJSON('"mm\/dd\/yy"') );
+		
+			ips.setSetting( 'date_first_day', jQuery.parseJSON('0') );
+		
+			ips.setSetting( 'remote_image_proxy', jQuery.parseJSON('0') );
+		
+			ips.setSetting( 'ipb_url_filter_option', jQuery.parseJSON('"none"') );
+		
+			ips.setSetting( 'url_filter_any_action', jQuery.parseJSON('"allow"') );
+		
+			ips.setSetting( 'bypass_profanity', jQuery.parseJSON('0') );
+		
+			ips.setSetting( 'emoji_style', jQuery.parseJSON('"native"') );
+		
+			ips.setSetting( 'emoji_shortcodes', jQuery.parseJSON('"1"') );
+		
+			ips.setSetting( 'emoji_ascii', jQuery.parseJSON('"1"') );
+		
+			ips.setSetting( 'emoji_cache', jQuery.parseJSON('"1"') );
+		
+		
+	</script> 
+  <script type="application/ld+json">
+{
+    "@context": "http://www.schema.org",
+    "publisher": "http://w3schools.invisionzone.com/#organization",
+    "@type": "WebSite",
+    "@id": "http://w3schools.invisionzone.com/#website",
+    "mainEntityOfPage": "http://w3schools.invisionzone.com/",
+    "name": "W3Schools Forum",
+    "url": "http://w3schools.invisionzone.com/",
+    "potentialAction": {
+        "type": "SearchAction",
+        "query-input": "required name=query",
+        "target": "http://w3schools.invisionzone.com/search/?q={query}"
+    },
+    "inLanguage": [
+        {
+            "@type": "Language",
+            "name": "English (USA)",
+            "alternateName": "en-US"
+        }
+    ]
+}	
+</script> 
+  <script type="application/ld+json">
+{
+    "@context": "http://www.schema.org",
+    "@type": "Organization",
+    "@id": "http://w3schools.invisionzone.com/#organization",
+    "mainEntityOfPage": "http://w3schools.invisionzone.com/",
+    "name": "W3Schools Forum",
+    "url": "http://w3schools.invisionzone.com/",
+    "logo": {
+        "@type": "ImageObject",
+        "@id": "http://w3schools.invisionzone.com/#logo",
+        "url": "//content.invisioncic.com/r49260/monthly_2017_03/w3schools.png.9a860c675c07154b1ec49276a2a69658.png"
+    }
+}	
+</script> 
+  <script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+                "@id": "http://w3schools.invisionzone.com/calendar/",
+                "name": "Calendar"
+            }
+        }
+    ]
+}	
+</script> 
+  <script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "ContactPage",
+    "url": "http://w3schools.invisionzone.com/contact/"
+}	
+</script> 
+  <!--ipsQueryLog--> 
+  <!--ipsCachingLog-->  
+ </body>
+</html>

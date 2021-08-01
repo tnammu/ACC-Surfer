@@ -1,0 +1,694 @@
+ 
+  Perl - W3Schools Forum 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+  
+  Jump to content 
+   
+    
+      CGI   
+       
+       
+         
+    
+    
+     
+      
+      
+        Existing user? Sign In    
+        
+         
+          
+          
+          
+           
+           Sign In 
+           
+            
+            
+               
+               
+                 
+              
+              Remember me 
+              Not recommended on shared computers 
+               
+              Sign In    Forgot your password?   
+            
+           
+          
+         
+         
+       Sign Up  
+      
+     
+    
+    
+     
+      
+       
+        
+         
+         
+         
+         
+           Search In 
+          
+          
+             Everywhere   
+             Topics   
+             This Forum   
+            More options...   
+          
+         
+           Find results that contain... 
+          
+          
+             Any of my search term words   
+             All of my search term words   
+          
+         
+           Find results in... 
+          
+          
+             Content titles and body   
+             Content titles only   
+          
+         
+        
+       
+      
+      
+        Browse  
+        
+          Forums   
+          Calendar   
+          Guidelines   
+          Staff   
+          Online Users   
+          Leaderboard   
+         More  
+           
+         
+        Activity  
+        
+          All Activity   
+          Search   
+         More  
+           
+         
+        Leaderboard   
+       More 
+        
+         More  
+           
+         
+      
+     
+    
+   
+   
+    
+     
+      
+       
+         All Activity  
+       
+       
+          Home    
+         Server Scripting    
+         CGI    
+        Perl  
+       
+      
+      
+       
+       
+        
+        Perl 
+         
+          
+           Sign in to follow this   
+           
+           Followers 
+           2 
+           
+          
+         
+         
+         Issues related to building and deploying Perl scripts. 
+         
+        
+       
+       
+        
+         Start new topic  
+        
+        
+        23 topics in this forum 
+         
+          
+           Sort By  
+            
+            Recently Updated 
+            Title 
+            Start Date 
+            Most Viewed 
+            Most Replies 
+             Custom  
+             
+          
+         
+         
+          
+           
+               Cgi File Name Extension     
+            
+             By abdelelbouhy, 
+            July 5, 2009 
+            
+           
+           
+            1  reply  
+            40,120  views  
+           
+           
+                
+            justsomeguy  
+             May 23, 2016   
+            
+          
+           
+               is there any good ways to interface a computer usb 5 volt USB for control signals     
+            
+             By number47, 
+            August 14, 2015 
+            
+           
+           
+            1  reply  
+            16,721  views  
+           
+           
+                
+            justsomeguy  
+             August 14, 2015   
+            
+          
+           
+               problem with cgi files     
+            
+             By James_Parsons, 
+            January 10, 2013    
+             
+              perl  
+             
+            
+           
+           
+            0  replies  
+            13,530  views  
+           
+           
+                
+            James_Parsons  
+             January 10, 2013   
+            
+          
+           
+               Perl POST HTML Form     
+            
+             By James_Parsons, 
+            January 9, 2013    
+             
+              perl  
+              POST  
+              (and 1 more)  
+               
+               Tagged with: 
+                
+                 perl  
+                 POST  
+                 Form  
+                
+                
+             
+            
+           
+           
+            5  replies  
+            17,747  views  
+           
+           
+                
+            James_Parsons  
+             January 9, 2013   
+            
+          
+           
+               Perl, random unique numbers     
+            
+             By racecar, 
+            June 5, 2012 
+            
+           
+           
+            0  replies  
+            11,512  views  
+           
+           
+                
+            racecar  
+             June 5, 2012   
+            
+          
+           
+               Perl Vs Php     
+            
+             By jimfog, 
+            January 6, 2012 
+            
+           
+           
+            0  replies  
+            12,094  views  
+           
+           
+                
+            jimfog  
+             January 6, 2012   
+            
+          
+           
+               How to transfer data from website form to server database?     
+            
+             By zoey, 
+            June 6, 2011 
+            
+           
+           
+            1  reply  
+            16,409  views  
+           
+           
+                
+            jeffman  
+             June 6, 2011   
+            
+          
+           
+               turn on debug below perl code     
+            
+             By abcdef, 
+            March 28, 2011 
+            
+           
+           
+            0  replies  
+            14,950  views  
+           
+           
+                
+            abcdef  
+             March 28, 2011   
+            
+          
+           
+               Making Secure Forms for multiple different email addresses     
+            
+             By Guest happyhourdriving, 
+            September 10, 2010 
+            
+           
+           
+            1  reply  
+            21,788  views  
+           
+           
+                
+            aspnetguy  
+             September 10, 2010   
+            
+          
+           
+               Tutorial?     
+            
+             By Sami, 
+            June 5, 2010 
+            
+           
+           
+            6  replies  
+            36,433  views  
+           
+           
+                
+            Synook  
+             August 6, 2010   
+            
+          
+           
+               Guestbook Help!     
+            
+             By sawild, 
+            November 10, 2009 
+            
+           
+           
+            5  replies  
+            62,309  views  
+           
+           
+                
+            Guest matthew9090  
+             June 1, 2010   
+            
+          
+           
+               Perl and SQL     
+            
+             By jeffman, 
+            August 26, 2008 
+            
+           
+           
+            1  reply  
+            40,687  views  
+           
+           
+                
+            Natechs  
+             August 27, 2008   
+            
+          
+           
+               HTML Form script     
+            
+             By Natechs, 
+            June 22, 2008 
+            
+           
+           
+            1  reply  
+            37,544  views  
+           
+           
+                
+            Synook  
+             June 22, 2008   
+            
+          
+           
+               Pass Nickname from the existing browser login     
+            
+             By rajarak, 
+            June 5, 2008 
+            
+           
+           
+            7  replies  
+            53,243  views  
+           
+           
+                
+            justsomeguy  
+             June 18, 2008   
+            
+          
+           
+               Your first Perl Program     
+            
+             By oneoleguy, 
+            May 11, 2008 
+            
+           
+           
+            0  replies  
+            32,208  views  
+           
+           
+                
+            oneoleguy  
+             May 11, 2008   
+            
+          
+           
+               The Perl Shebang Line     
+            
+             By oneoleguy, 
+            May 11, 2008 
+            
+           
+           
+            0  replies  
+            35,543  views  
+           
+           
+                
+            oneoleguy  
+             May 11, 2008   
+            
+          
+           
+               Perl Info     
+            
+             By oneoleguy, 
+            May 8, 2008 
+            
+           
+           
+            11  replies  
+            67,424  views  
+           
+           
+                
+            oneoleguy  
+             May 11, 2008   
+            
+          
+           
+               May I know how to create a confirm opt-in link in email message ? Thanks.     
+            
+             By moneytree, 
+            April 25, 2008 
+            
+           
+           
+            2  replies  
+            37,115  views  
+           
+           
+                
+            moneytree  
+             April 26, 2008   
+            
+          
+           
+               May I knw how to solve this display issue in formmail.pl ?     
+            
+             By moneytree, 
+            March 23, 2008 
+            
+           
+           
+            3  replies  
+            41,769  views  
+           
+           
+                
+            moneytree  
+             April 24, 2008   
+            
+          
+           
+               Perl syntax     
+            
+             By justsomeguy, 
+            February 19, 2008 
+            
+           
+           
+            9  replies  
+            64,797  views  
+           
+           
+                
+            jeffman  
+             February 22, 2008   
+            
+          
+           
+               Perl does AJAX     
+            
+             By jeffman, 
+            February 17, 2008 
+            
+           
+           
+            2  replies  
+            41,732  views  
+           
+           
+                
+            jeffman  
+             February 17, 2008   
+            
+          
+           
+               A basic perl query script     
+            
+             By jeffman, 
+            February 17, 2008 
+            
+           
+           
+            1  reply  
+            37,758  views  
+           
+           
+                
+            jeffman  
+             February 17, 2008   
+            
+          
+           
+               A slightly more complex post cgi     
+            
+             By jeffman, 
+            February 17, 2008 
+            
+           
+           
+            1  reply  
+            34,748  views  
+           
+           
+                
+            jeffman  
+             February 17, 2008   
+            
+         
+        
+       
+       
+        
+         Sign in to follow this   
+         
+         Followers 
+         2 
+         
+        
+       
+      
+      
+       
+       
+       Perl Latest Topics 
+       
+       
+         All Activity  
+       
+       
+          Home    
+         Server Scripting    
+         CGI    
+        Perl  
+       
+      
+     
+    
+   
+   
+    
+     
+     Contact Us 
+     
+      Powered by Invision Community  
+    
+   
+   
+   ? 
+    
+     
+      
+       
+        Existing user? Sign In  
+        Sign Up  
+       
+      
+      
+       Browse 
+        
+        Back 
+        Browse 
+          Forums   
+          Calendar   
+          Guidelines   
+          Staff   
+          Online Users   
+          Leaderboard   
+         
+       Activity 
+        
+        Back 
+        Activity 
+          All Activity   
+          Search   
+         
+      Leaderboard 
+      
+     
+    
+   
+   
+   ? 
+    
+     
+      
+      Create New... 
+      
+     
+    
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+    
+ 
+
+

@@ -1,0 +1,72 @@
+ 
+  Tryit Editor v3.6 - Show Python 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+  
+   
+    
+    
+    
+    
+   
+   
+    
+     
+     
+     
+     
+    
+      
+    
+   
+   
+   
+   
+    
+     
+      
+      
+       demo_mongodb_drop_collection.py:
+       
+      
+import pymongo
+
+myclient = pymongo.MongoClient("mongodb://localhost:27017/")
+mydb = myclient["mydatabase"]
+mycol = mydb["customers"]
+
+mycol.drop()
+ 
+      
+     
+    
+    
+     
+      
+      
+       C:\Users\My Name>python demo_mongodb_drop_collection.py
+       
+       
+      
+     
+    
+   
+    
+ 
+
+

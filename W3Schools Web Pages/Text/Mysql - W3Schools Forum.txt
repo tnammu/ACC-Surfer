@@ -1,0 +1,412 @@
+ 
+  Mysql - W3Schools Forum 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+  
+  Jump to content 
+   
+    
+      Home   
+       
+       
+         
+    
+    
+     
+      
+      
+        Existing user? Sign In    
+        
+         
+          
+          
+          
+           
+           Sign In 
+           
+            
+            
+               
+               
+                 
+              
+              Remember me 
+              Not recommended on shared computers 
+               
+              Sign In    Forgot your password?   
+            
+           
+          
+         
+         
+       Sign Up  
+      
+     
+    
+    
+     
+      
+       
+        
+         
+         
+         
+         
+           Search In 
+          
+          
+             Everywhere   
+             Status Updates   
+            More options...   
+          
+         
+           Find results that contain... 
+          
+          
+             Any of my search term words   
+             All of my search term words   
+          
+         
+           Find results in... 
+          
+          
+             Content titles and body   
+             Content titles only   
+          
+         
+        
+       
+      
+      
+        Browse  
+        
+          Forums   
+          Calendar   
+          Guidelines   
+          Staff   
+          Online Users   
+          Leaderboard   
+         More  
+           
+         
+        Activity  
+        
+          All Activity   
+          Search   
+         More  
+           
+         
+        Leaderboard   
+       More 
+        
+         More  
+           
+         
+      
+     
+    
+   
+   
+    
+     
+      
+       
+         All Activity  
+       
+       
+          Home    
+         Mysql    
+       
+      
+      
+       
+       
+       
+        
+         
+          
+           
+          
+          
+           
+              
+           
+           
+            
+             Mysql  
+             Members  
+            
+            
+             
+              
+              
+            
+           
+          
+         
+         
+          
+           
+            
+           
+           
+            
+           
+          
+         
+         
+          
+            View Profile 
+            See their activity 
+          
+          
+           Content Count 4  
+           Joined August 23  
+           Last visited  November 26   
+          
+         
+        
+        
+         
+          
+           
+            
+             
+             Community Reputation 
+             0 
+             Neutral 
+             
+            
+            
+            About Mysql 
+             
+              
+               Rank 
+               
+                 Newbie 
+                 
+                 
+                 
+              
+             
+            
+           
+          
+          
+           
+            
+             
+              
+               
+                
+                 
+                  
+                    
+                  
+                    Extract weekday and insert into column ?   
+                   Mysql replied to Mysql's topic in SQL  
+                  
+                 
+                 
+                  
+                  
+                    THANKS ! 
+                   
+                  
+                 
+                 
+                   November 26  
+                    2 replies   
+                 
+                 
+               
+                
+                 
+                  
+                    
+                  
+                    Extract weekday and insert into column ?   
+                   Mysql posted a topic in SQL  
+                  
+                 
+                 
+                  
+                  
+                    Being an SQL Newbie, I have a table where I want to extract the weekday from one column and insert it into another, see screenshot attached Had no luck so far, any help appreciated Txs M. 
+                   
+                  
+                 
+                 
+                   November 25  
+                    2 replies   
+                 
+                 
+               
+                
+                 
+                  
+                    
+                  
+                    upload script with image resolution check ?   
+                   Mysql replied to Mysql's topic in JavaScript  
+                  
+                 
+                 
+                  
+                  
+                    Thanks I'll try my best 
+                   
+                  
+                 
+                 
+                   August 30  
+                    3 replies   
+                 
+                 
+               
+                
+                 
+                 Mysql started following 
+                 upload script with image resolution check ? 
+                 August 29 
+                 
+                 
+               
+                
+                 
+                  
+                    
+                  
+                    upload script with image resolution check ?   
+                   Mysql posted a topic in JavaScript  
+                  
+                 
+                 
+                  
+                  
+                    Hi, I am running a WordPress photo contest now and then. Major problem is the low quality of pictures users are uploading. So I am looking for a simple script where a user can check a photos resolution before uploading, decoupled from the Wordpress Stuff as I'd like to use it for several occasions. I found this https://www.jqueryscript.net/form/jQuery-Plugin-To-Check-Image-Resolution-Before-Uploading-checkImageSize-js.html but I am not a coder ;o) So maybe you guys can help me to build a php file? Txs Karl 
+                   
+                  
+                 
+                 
+                   August 29  
+                    3 replies   
+                 
+                 
+              
+             
+            
+           
+          
+         
+        
+       
+      
+      
+       
+         All Activity  
+       
+       
+          Home    
+         Mysql    
+       
+      
+     
+    
+   
+   
+    
+     
+     Contact Us 
+     
+      Powered by Invision Community  
+    
+   
+   
+   ? 
+    
+     
+      
+       
+        Existing user? Sign In  
+        Sign Up  
+       
+      
+      
+       Browse 
+        
+        Back 
+        Browse 
+          Forums   
+          Calendar   
+          Guidelines   
+          Staff   
+          Online Users   
+          Leaderboard   
+         
+       Activity 
+        
+        Back 
+        Activity 
+          All Activity   
+          Search   
+         
+      Leaderboard 
+      
+     
+    
+   
+   
+   ? 
+    
+     
+      
+      Create New... 
+      
+     
+    
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+    
+ 
+
+

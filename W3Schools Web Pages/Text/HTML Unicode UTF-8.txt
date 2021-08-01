@@ -1,0 +1,1521 @@
+ 
+  HTML Unicode UTF-8 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+  
+   
+   w3schools.com 
+   
+    THE WORLD'S LARGEST WEB DEVELOPER SITE
+    
+   
+   
+    
+   
+   
+   
+    
+     
+      
+      
+     HTML 
+     CSS 
+     JAVASCRIPT 
+     SQL 
+     PYTHON 
+     PHP 
+     BOOTSTRAP 
+     HOW TO 
+     W3.CSS 
+     JQUERY 
+     XML 
+     MORE  
+     ? 
+     ? 
+     ? 
+     FORUM 
+     EXERCISES  
+     REFERENCES  
+     
+     
+     ? 
+      
+       
+       HTML and CSS 
+       Learn HTML 
+       Learn CSS 
+       Learn Bootstrap 
+       Learn W3.CSS 
+       Learn Colors 
+       Learn Icons 
+       Learn Graphics 
+       Learn SVG 
+       Learn Canvas 
+       Learn How To 
+       Learn Sass 
+        
+        XML 
+        Learn XML 
+        Learn XML AJAX 
+        Learn XML DOM 
+        Learn XML DTD 
+        Learn XML Schema 
+        Learn XSLT 
+        Learn XPath 
+        Learn XQuery 
+        
+       
+       
+       JavaScript 
+       Learn JavaScript 
+       Learn jQuery 
+       Learn React 
+       Learn AngularJS 
+       Learn JSON 
+       Learn AJAX 
+       Learn W3.JS 
+       Programming 
+       Learn Python 
+       Learn Java 
+       Learn C++ 
+       Learn C# 
+       
+        
+        
+        
+       
+       
+       Server Side 
+       Learn SQL 
+       Learn PHP 
+       Learn ASP 
+       Learn Node.js 
+       Learn Raspberry Pi 
+       Web Building 
+       Web Templates 
+       Web Statistics 
+       Web Certificates 
+       Web Editor 
+       Web Development 
+       
+       
+       XML 
+       Learn XML 
+       Learn XML AJAX 
+       Learn XML DOM 
+       Learn XML DTD 
+       Learn XML Schema 
+       Learn XSLT 
+       Learn XPath 
+       Learn XQuery 
+       
+      
+      
+     
+     
+     ? 
+      
+       
+       HTML 
+       HTML Tag Reference 
+       HTML Event Reference 
+       HTML Color Reference 
+       HTML Attribute Reference 
+       HTML Canvas Reference 
+       HTML SVG Reference 
+       HTML Character Sets 
+       Google Maps Reference 
+       CSS 
+       CSS Reference 
+       CSS Browser Support 
+       CSS Selector Reference 
+       Bootstrap 3 Reference 
+       Bootstrap 4 Reference 
+       W3.CSS Reference 
+       Icon Reference 
+       Sass Reference 
+       
+       
+       JavaScript 
+       JavaScript Reference 
+       HTML DOM Reference 
+       jQuery Reference 
+       AngularJS Reference 
+       W3.JS Reference 
+       Programming 
+       Python Reference 
+       Java Reference 
+       
+       
+       Server Side 
+       SQL Reference 
+       PHP Reference 
+       ASP Reference 
+       XML 
+       XML Reference 
+       XML Http Reference 
+       XSLT Reference 
+       XML Schema Reference 
+       
+       
+       Character Sets 
+       HTML Character Sets 
+       HTML ASCII 
+       HTML ANSI 
+       HTML Windows-1252 
+       HTML ISO-8859-1 
+       HTML Symbols 
+       HTML UTF-8 
+       
+      
+      
+     
+     
+     ? 
+      
+       
+       Exercises 
+       HTML Exercises 
+       CSS Exercises 
+       JavaScript Exercises 
+       SQL Exercises 
+       PHP Exercises 
+       Python Exercises 
+       jQuery Exercises 
+       Bootstrap Exercises 
+       Java Exercises 
+       C++ Exercises 
+       C# Exercises 
+       
+       
+       Quizzes 
+       HTML Quiz 
+       CSS Quiz 
+       JavaScript Quiz 
+       SQL Quiz 
+       PHP Quiz 
+       Python Quiz 
+       jQuery Quiz 
+       Bootstrap Quiz 
+       XML Quiz 
+       
+       
+       Certificates 
+       HTML Certificate 
+       CSS Certificate 
+       JavaScript Certificate 
+       SQL Certificate 
+       PHP Certificate 
+       Python Certificate 
+       jQuery Certificate 
+       Bootstrap Certificate 
+       XML Certificate 
+       
+      
+      
+     
+    
+   
+   
+    
+     
+      
+     HTML Charsets 
+     HTML Charsets 
+     HTML ASCII 
+     HTML WIN-1252 
+     HTML ISO-8859 
+     HTML Symbols 
+     HTML UTF-8 
+      
+     HTML UTF-8 
+     Latin Basic 
+     Latin Supplement 
+     Latin Extended A 
+     Latin Extended B 
+     Modifier Letters 
+     Diacritical Marks 
+     Greek and Coptic 
+     Cyrillic Basic 
+     Cyrillic Supplement 
+      
+     HTML Symbols 
+     General Punctuation 
+     Currency Symbols 
+     Letterlike Symbols 
+     Arrows 
+     Math Operators 
+     Box Drawings 
+     Block Elements 
+     Geometric Shapes 
+     Misc Symbols 
+     Dingbats 
+     Emoji 
+     Emoji Smileys 
+     Emoji Skin Tones 
+      
+     HTML Entities 
+     HTML4 Entities 
+     HTML5 Entities A 
+     HTML5 Entities B 
+     HTML5 Entities C 
+     HTML5 Entities D 
+     HTML5 Entities E 
+     HTML5 Entities F 
+     HTML5 Entities G 
+     HTML5 Entities H 
+     HTML5 Entities I 
+     HTML5 Entities J 
+     HTML5 Entities K 
+     HTML5 Entities L 
+     HTML5 Entities M 
+     HTML5 Entities N 
+     HTML5 Entities O 
+     HTML5 Entities P 
+     HTML5 Entities Q 
+     HTML5 Entities R 
+     HTML5 Entities S 
+     HTML5 Entities T 
+     HTML5 Entities U 
+     HTML5 Entities V 
+     HTML5 Entities W 
+     HTML5 Entities X 
+     HTML5 Entities Y 
+     HTML5 Entities Z 
+     
+      
+     
+    
+   
+   
+    
+     
+      
+       
+       
+       
+       
+      
+     UTF-8 C1 Controls and Latin1 Supplement 
+      
+      ? Previous 
+      Next ? 
+      
+      
+     Range: Decimal 128-255. Hex 0080-00FF. 
+     If you want any of these characters displayed in HTML, you can use the HTML entity found in the table below. 
+     If the character does not have an HTML entity, you can use the decimal (dec) or hexadecimal (hex) reference. 
+      
+      Example 
+      
+        <p>I will display &pound;</p>
+        <p>I will display &#163;</p>
+        <p>I will display &#x00A3;</p> 
+       
+      Will display as: 
+      
+        I will display ?
+       
+        I will display ?
+       
+        I will display ? 
+       
+      Try it Yourself ? 
+      
+      
+       
+       
+         
+         Char 
+         Dec 
+         Hex 
+         Entity 
+         Name 
+         
+        
+          
+         160
+         00A0
+         &nbsp;
+         NO-BREAK SPACE
+         
+        
+         ?
+         161
+         00A1
+         &iexcl;
+         INVERTED EXCLAMATION MARK
+         
+        
+         ?
+         162
+         00A2
+         &cent;
+         CENT SIGN
+         
+        
+         ?
+         163
+         00A3
+         &pound;
+         POUND SIGN
+         
+        
+         ?
+         164
+         00A4
+         &curren;
+         CURRENCY SIGN
+         
+        
+         ?
+         165
+         00A5
+         &yen;
+         YEN SIGN
+         
+        
+         ?
+         166
+         00A6
+         &brvbar;
+         BROKEN BAR
+         
+        
+         ?
+         167
+         00A7
+         &sect;
+         SECTION SIGN
+         
+        
+         ?
+         168
+         00A8
+         &uml;
+         DIAERESIS
+         
+        
+         ?
+         169
+         00A9
+         &copy;
+         COPYRIGHT SIGN
+         
+        
+         ?
+         170
+         00AA
+         &ordf;
+         FEMININE ORDINAL INDICATOR
+         
+        
+         ?
+         171
+         00AB
+         &laquo;
+         LEFT-POINTING DOUBLE ANGLE QUOTATION MARK
+         
+        
+         ?
+         172
+         00AC
+         &not;
+         NOT SIGN
+         
+        
+         ?
+         173
+         00AD
+         &shy;
+         SOFT HYPHEN
+         
+        
+         ?
+         174
+         00AE
+         &reg;
+         REGISTERED SIGN
+         
+        
+         ?
+         175
+         00AF
+         &macr;
+         MACRON
+         
+        
+         ?
+         176
+         00B0
+         &deg;
+         DEGREE SIGN
+         
+        
+         ?
+         177
+         00B1
+         &plusmn;
+         PLUS-MINUS SIGN
+         
+        
+         ?
+         178
+         00B2
+         &sup2;
+         SUPERSCRIPT TWO
+         
+        
+         ?
+         179
+         00B3
+         &sup3;
+         SUPERSCRIPT THREE
+         
+        
+         ?
+         180
+         00B4
+         &acute;
+         ACUTE ACCENT
+         
+        
+         ?
+         181
+         00B5
+         &micro;
+         MICRO SIGN
+         
+        
+         ?
+         182
+         00B6
+         &para;
+         PILCROW SIGN
+         
+        
+         ?
+         183
+         00B7
+         &middot;
+         MIDDLE DOT
+         
+        
+         ?
+         184
+         00B8
+         &cedil;
+         CEDILLA
+         
+        
+         ?
+         185
+         00B9
+         &sup1;
+         SUPERSCRIPT ONE
+         
+        
+         ?
+         186
+         00BA
+         &ordm;
+         MASCULINE ORDINAL INDICATOR
+         
+        
+         ?
+         187
+         00BB
+         &raquo;
+         RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK
+         
+        
+         ?
+         188
+         00BC
+         &frac14;
+         VULGAR FRACTION ONE QUARTER
+         
+        
+         ?
+         189
+         00BD
+         &frac12;
+         VULGAR FRACTION ONE HALF
+         
+        
+         ?
+         190
+         00BE
+         &frac34;
+         VULGAR FRACTION THREE QUARTERS
+         
+        
+         ?
+         191
+         00BF
+         &iquest;
+         INVERTED QUESTION MARK
+         
+        
+         ?
+         192
+         00C0
+         &Agrave;
+         LATIN CAPITAL LETTER A WITH GRAVE
+         
+        
+         ?
+         193
+         00C1
+         &Aacute;
+         LATIN CAPITAL LETTER A WITH ACUTE
+         
+        
+         ?
+         194
+         00C2
+         &Acirc;
+         LATIN CAPITAL LETTER A WITH CIRCUMFLEX
+         
+        
+         ?
+         195
+         00C3
+         &Atilde;
+         LATIN CAPITAL LETTER A WITH TILDE
+         
+        
+         ?
+         196
+         00C4
+         &Auml;
+         LATIN CAPITAL LETTER A WITH DIAERESIS 
+         
+        
+         ?
+         197
+         00C5
+         &Aring;
+         LATIN CAPITAL LETTER A WITH RING ABOVE
+         
+        
+         ?
+         198
+         00C6
+         &AElig;
+         LATIN CAPITAL LETTER AE
+         
+        
+         ?
+         199
+         00C7
+         &Ccedil;
+         LATIN CAPITAL LETTER C WITH CEDILLA
+         
+        
+         ?
+         200
+         00C8
+         &Egrave;
+         LATIN CAPITAL LETTER E WITH GRAVE
+         
+        
+         ?
+         201
+         00C9
+         &Eacute;
+         LATIN CAPITAL LETTER E WITH ACUTE
+         
+        
+         ?
+         202
+         00CA
+         &Ecirc;
+         LATIN CAPITAL LETTER E WITH CIRCUMFLEX
+         
+        
+         ?
+         203
+         00CB
+         &Euml;
+         LATIN CAPITAL LETTER E WITH DIAERESIS
+         
+        
+         ?
+         204
+         00CC
+         &Igrave;
+         LATIN CAPITAL LETTER I WITH GRAVE
+         
+        
+         ?
+         205
+         00CD
+         &Iacute;
+         LATIN CAPITAL LETTER I WITH ACUTE
+         
+        
+         ?
+         206
+         00CE
+         &Icirc;
+         LATIN CAPITAL LETTER I WITH CIRCUMFLEX
+         
+        
+         ?
+         207
+         00CF
+         &Iuml;
+         LATIN CAPITAL LETTER I WITH DIAERESIS
+         
+        
+         ?
+         208
+         00D0
+         &ETH;
+         LATIN CAPITAL LETTER ETH
+         
+        
+         ?
+         209
+         00D1
+         &Ntilde;
+         LATIN CAPITAL LETTER N WITH TILDE
+         
+        
+         ?
+         210
+         00D2
+         &Ograve;
+         LATIN CAPITAL LETTER O WITH GRAVE
+         
+        
+         ?
+         211
+         00D3
+         &Oacute;
+         LATIN CAPITAL LETTER O WITH ACUTE
+         
+        
+         ?
+         212
+         00D4
+         &Ocirc;
+         LATIN CAPITAL LETTER O WITH CIRCUMFLEX
+         
+        
+         ?
+         213
+         00D5
+         &Otilde;
+         LATIN CAPITAL LETTER O WITH TILDE
+         
+        
+         ?
+         214
+         00D6
+         &Ouml;
+         LATIN CAPITAL LETTER O WITH DIAERESIS
+         
+        
+         ?
+         215
+         00D7
+         &times;
+         MULTIPLICATION SIGN
+         
+        
+         ?
+         216
+         00D8
+         &Oslash;
+         LATIN CAPITAL LETTER O WITH STROKE
+         
+        
+         ?
+         217
+         00D9
+         &Ugrave;
+         LATIN CAPITAL LETTER U WITH GRAVE
+         
+        
+         ?
+         218
+         00DA
+         &Uacute;
+         LATIN CAPITAL LETTER U WITH ACUTE
+         
+        
+         ?
+         219
+         00DB
+         &Ucirc;
+         LATIN CAPITAL LETTER U WITH CIRCUMFLEX
+         
+        
+         ?
+         220
+         00DC
+         &Uuml;
+         LATIN CAPITAL LETTER U WITH DIAERESIS
+         
+        
+         ?
+         221
+         00DD
+         &Yacute;
+         LATIN CAPITAL LETTER Y WITH ACUTE
+         
+        
+         ?
+         222
+         00DE
+         &THORN;
+         LATIN CAPITAL LETTER THORN
+         
+        
+         ?
+         223
+         00DF
+         &szlig;
+         LATIN SMALL LETTER SHARP S
+         
+        
+         ?
+         224
+         00E0
+         &agrave;
+         LATIN SMALL LETTER A WITH GRAVE
+         
+        
+         ?
+         225
+         00E1
+         &aacute;
+         LATIN SMALL LETTER A WITH ACUTE 
+         
+        
+         ?
+         226
+         00E2
+         &acirc;
+         LATIN SMALL LETTER A WITH CIRCUMFLEX
+         
+        
+         ?
+         227
+         00E3
+         &atilde;
+         LATIN SMALL LETTER A WITH TILDE
+         
+        
+         ?
+         228
+         00E4
+         &auml;
+         LATIN SMALL LETTER A WITH DIAERESIS
+         
+        
+         ?
+         229
+         00E5
+         &aring;
+         LATIN SMALL LETTER A WITH RING ABOVE
+         
+        
+         ?
+         230
+         00E6
+         &aelig;
+         LATIN SMALL LETTER AE
+         
+        
+         ?
+         231
+         00E7
+         &ccedil;
+         LATIN SMALL LETTER C WITH CEDILLA
+         
+        
+         ?
+         232
+         00E8
+         &egrave;
+         LATIN SMALL LETTER E WITH GRAVE
+         
+        
+         ?
+         233
+         00E9
+         &eacute;
+         LATIN SMALL LETTER E WITH ACUTE
+         
+        
+         ?
+         234
+         00EA
+         &ecirc;
+         LATIN SMALL LETTER E WITH CIRCUMFLEX
+         
+        
+         ?
+         235
+         00EB
+         &euml;
+         LATIN SMALL LETTER E WITH DIAERESIS
+         
+        
+         ?
+         236
+         00EC
+         &igrave;
+         LATIN SMALL LETTER I WITH GRAVE
+         
+        
+         ?
+         237
+         00ED
+         &iacute;
+         LATIN SMALL LETTER I WITH ACUTE
+         
+        
+         ?
+         238
+         00EE
+         &icirc;
+         LATIN SMALL LETTER I WITH CIRCUMFLEX
+         
+        
+         ?
+         239
+         00EF
+         &iuml;
+         LATIN SMALL LETTER I WITH DIAERESIS
+         
+        
+         ?
+         240
+         00F0
+         &eth;
+         LATIN SMALL LETTER ETH
+         
+        
+         ?
+         241
+         00F1
+         &ntilde;
+         LATIN SMALL LETTER N WITH TILDE
+         
+        
+         ?
+         242
+         00F2
+         &ograve;
+         LATIN SMALL LETTER O WITH GRAVE
+         
+        
+         ?
+         243
+         00F3
+         &oacute;
+         LATIN SMALL LETTER O WITH ACUTE
+         
+        
+         ?
+         244
+         00F4
+         &ocirc;
+         LATIN SMALL LETTER O WITH CIRCUMFLEX
+         
+        
+         ?
+         245
+         00F5
+         &otilde;
+         LATIN SMALL LETTER O WITH TILDE
+         
+        
+         ?
+         246
+         00F6
+         &ouml;
+         LATIN SMALL LETTER O WITH DIAERESIS
+         
+        
+         ?
+         247
+         00F7
+         &divide;
+         DIVISION SIGN
+         
+        
+         ?
+         248
+         00F8
+         &oslash;
+         LATIN SMALL LETTER O WITH STROKE
+         
+        
+         ?
+         249
+         00F9
+         &ugrave;
+         LATIN SMALL LETTER U WITH GRAVE
+         
+        
+         ?
+         250
+         00FA
+         &uacute;
+         LATIN SMALL LETTER U WITH ACUTE
+         
+        
+         ?
+         251
+         00FB
+         &ucirc;
+         LATIN SMALL LETTER U WITH CIRCUMFLEX
+         
+        
+         ?
+         252
+         00FC
+         &uuml;
+         LATIN SMALL LETTER U WITH DIAERESIS
+         
+        
+         ?
+         253
+         00FD
+         &yacute;
+         LATIN SMALL LETTER Y WITH ACUTE
+         
+        
+         ?
+         254
+         00FE
+         &thorn;
+         LATIN SMALL LETTER THORN
+         
+        
+         ?
+         255
+         00FF
+         &yuml;
+         LATIN SMALL LETTER Y WITH DIAERESIS
+         
+       
+       
+      
+      
+      
+       
+       
+       
+      
+      
+     C1 Controls 
+     The control characters were originally designed to control hardware devices. 
+     The control characters are not supposed to be displayed in HTML. 
+     However, because they are defined as characters, in the ANSI character set used by Windows, they might be displayed if you are using Windows. 
+      
+      
+        
+        Char 
+        Dec 
+        Hex 
+        Control
+        
+       
+        ?
+        128
+        0080
+        CONTROL
+        
+       
+        ?
+        129
+        0081
+        CONTROL
+        
+       
+        ?
+        130
+        0082
+        BREAK PERMITTED HERE
+        
+       
+        ?
+        131
+        0083
+        NO BREAK HERE
+        
+       
+        ?
+        132
+        0084
+        INDEX
+        
+       
+        ?
+        133
+        0085
+        NEXT LINE (NEL)
+        
+       
+        ?
+        134
+        0086
+        START OF SELECTED AREA
+        
+       
+        ?
+        135
+        0087
+        END OF SELECTED AREA
+        
+       
+        ?
+        136
+        0088
+        CHARACTER TABULATION SET
+        
+       
+        ?
+        137
+        0089
+        CHARACTER TABULATION WITH JUSTIFICATION
+        
+       
+        ?
+        138
+        008A
+        LINE TABULATION SET
+        
+       
+        ?
+        139
+        008B
+        PARTIAL LINE FORWARD
+        
+       
+        ?
+        140
+        008C
+        PARTIAL LINE BACKWARD
+        
+       
+        ?
+        141
+        008D
+        REVERSE LINE FEED
+        
+       
+        ?
+        142
+        008E
+        SINGLE SHIFT TWO
+        
+       
+        ?
+        143
+        008F
+        SINGLE SHIFT THREE
+        
+       
+        ?
+        144
+        0090
+        DEVICE CONTROL STRING
+        
+       
+        ?
+        145
+        0091
+        PRIVATE USE ONE
+        
+       
+        ?
+        146
+        0092
+        PRIVATE USE TWO
+        
+       
+        ?
+        147
+        0093
+        SET TRANSMIT STATE
+        
+       
+        ?
+        148
+        0094
+        CANCEL CHARACTER
+        
+       
+        ?
+        149
+        0095
+        MESSAGE WAITING
+        
+       
+        ?
+        150
+        0096
+        START OF GUARDED AREA
+        
+       
+        ?
+        151
+        0097
+        END OF GUARDED AREA
+        
+       
+        ?
+        152
+        0098
+        START OF STRING
+        
+       
+        ?
+        153
+        0099
+        CONTROL
+        
+       
+        ?
+        154
+        009A
+        SINGLE CHARACTER INTRODUCER
+        
+       
+        ?
+        155
+        009B
+        CONTROL SEQUENCE INTRODUCER
+        
+       
+        ?
+        156
+        009C
+        STRING TERMINATOR
+        
+       
+        ?
+        157
+        009D
+        OPERATING SYSTEM COMMAND
+        
+       
+        ?
+        158
+        009E
+        PRIVACY MESSAGE
+        
+       
+        ?
+        159
+        009F
+        APPLICATION PROGRAM COMMAND
+        
+      
+      
+      
+      
+      
+      ? Previous 
+      Next ? 
+      
+     
+     
+      
+       
+        
+        
+        
+       
+      
+      
+      COLOR PICKER 
+        
+      
+      
+      
+      
+      
+       
+       HOW TO 
+       
+       
+       Tabs
+        
+       Dropdowns
+        
+       Accordions
+        
+       Side Navigation
+        
+       Top Navigation
+        
+       Modal Boxes
+        
+       Progress Bars
+        
+       Parallax
+        
+       Login Form
+        
+       HTML Includes
+        
+       Google Maps
+        
+       Range Sliders
+        
+       Tooltips
+        
+       Slideshow
+        
+       Filter List
+        
+       Sort List
+        
+       
+      
+      
+      SHARE 
+       
+        
+       
+        
+         
+        
+         
+        
+       
+      
+      
+      CERTIFICATES 
+       HTML CSS JavaScript SQL Python PHP jQuery Bootstrap XML 
+       Read More ? 
+      
+      
+       
+        
+         
+         
+         
+        
+       
+      
+      
+     
+    
+    
+     
+     
+      
+       
+       
+       
+       
+       
+       
+       
+      
+     
+     
+     
+      
+      REPORT ERROR 
+      
+      
+      PRINT PAGE 
+      
+      
+      FORUM 
+      
+      
+      ABOUT 
+      
+     
+     
+     
+     ? 
+     Your Suggestion: 
+      
+       
+       Your E-mail: 
+        
+       
+       
+       Page address: 
+        
+       
+       
+       Description: 
+        
+       
+       
+       Submit 
+       
+       
+      
+     
+     
+     ? 
+     Thank You For Helping Us! 
+     Your message has been sent to W3Schools. 
+     
+     
+      
+       
+       Top Tutorials 
+       HTML Tutorial
+        
+       CSS Tutorial
+        
+       JavaScript Tutorial
+        
+       How To Tutorial
+        
+       SQL Tutorial
+        
+       Python Tutorial
+        
+       W3.CSS Tutorial
+        
+       Bootstrap Tutorial
+        
+       PHP Tutorial
+        
+       jQuery Tutorial
+        
+       Java Tutorial
+        
+       C++ Tutorial
+        
+       
+      
+      
+       
+       Top References 
+       HTML Reference
+        
+       CSS Reference
+        
+       JavaScript Reference
+        
+       SQL Reference
+        
+       Python Reference
+        
+       W3.CSS Reference
+        
+       Bootstrap Reference
+        
+       PHP Reference
+        
+       HTML Colors
+        
+       jQuery Reference
+        
+       Java Reference
+        
+       Angular Reference
+        
+       
+      
+      
+       
+       Top Examples 
+       HTML Examples
+        
+       CSS Examples
+        
+       JavaScript Examples
+        
+       How To Examples
+        
+       SQL Examples
+        
+       Python Examples
+        
+       W3.CSS Examples
+        
+       Bootstrap Examples
+        
+       PHP Examples
+        
+       jQuery Examples
+        
+       Java Examples
+        
+       XML Examples
+        
+       
+      
+      
+       
+       Web Certificates 
+       HTML Certificate
+        
+       CSS Certificate
+        
+       JavaScript Certificate
+        
+       SQL Certificate
+        
+       Python Certificate
+        
+       jQuery Certificate
+        
+       PHP Certificate
+        
+       Bootstrap Certificate
+        
+       XML Certificate
+        
+        Get Certified ? 
+       
+      
+     
+     
+    
+      W3Schools is optimized for learning, testing, and training. Examples might be simplified to improve reading and basic understanding. Tutorials, references, and examples are constantly reviewed to avoid errors, but we cannot warrant full correctness of all content. While using this site, you agree to have read and accepted our 
+     terms of use, 
+     cookie and privacy policy. 
+     Copyright 1999-2019 by Refsnes Data. All Rights Reserved.
+      
+     Powered by W3.CSS.
+     
+      
+       
+     
+    
+     
+    
+   
+   
+   
+   
+   
+    
+ 
+
+

@@ -1,0 +1,345 @@
+ 
+  Diego1 - W3Schools Forum 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+  
+  Jump to content 
+   
+    
+      Home   
+       
+       
+         
+    
+    
+     
+      
+      
+        Existing user? Sign In    
+        
+         
+          
+          
+          
+           
+           Sign In 
+           
+            
+            
+               
+               
+                 
+              
+              Remember me 
+              Not recommended on shared computers 
+               
+              Sign In    Forgot your password?   
+            
+           
+          
+         
+         
+       Sign Up  
+      
+     
+    
+    
+     
+      
+       
+        
+         
+         
+         
+         
+           Search In 
+          
+          
+             Everywhere   
+             Status Updates   
+            More options...   
+          
+         
+           Find results that contain... 
+          
+          
+             Any of my search term words   
+             All of my search term words   
+          
+         
+           Find results in... 
+          
+          
+             Content titles and body   
+             Content titles only   
+          
+         
+        
+       
+      
+      
+        Browse  
+        
+          Forums   
+          Calendar   
+          Guidelines   
+          Staff   
+          Online Users   
+          Leaderboard   
+         More  
+           
+         
+        Activity  
+        
+          All Activity   
+          Search   
+         More  
+           
+         
+        Leaderboard   
+       More 
+        
+         More  
+           
+         
+      
+     
+    
+   
+   
+    
+     
+      
+       
+         All Activity  
+       
+       
+          Home    
+         Diego1    
+       
+      
+      
+       
+       
+       
+        
+         
+          
+           
+          
+          
+           
+              
+           
+           
+            
+             Diego1  
+             Members  
+            
+            
+             
+              
+              
+            
+           
+          
+         
+         
+          
+           
+            
+           
+           
+            
+           
+          
+         
+         
+          
+            View Profile 
+            See their activity 
+          
+          
+           Content Count 1  
+           Joined November 4  
+           Last visited  November 6   
+          
+         
+        
+        
+         
+          
+           
+            
+             
+             Community Reputation 
+             0 
+             Neutral 
+             
+            
+            
+            About Diego1 
+             
+              
+               Rank 
+               
+                 Newbie 
+                 
+                 
+                 
+              
+             
+            
+           
+          
+          
+           
+            
+             
+              
+               
+                
+                 
+                    
+                 Diego1 joined the community 
+                 November 4 
+                 
+                 
+               
+                
+                 
+                  
+                    
+                  
+                    value Between columns   
+                   Diego1 posted a topic in Critiques  
+                  
+                 
+                 
+                  
+                  
+                    Hello everyone. I was looking for Between SQL command https://www.w3schools.com/sql/sql_between.asp I think that one usefull functionality/exapmple is missing in the explanation and perhaps you can add it. SELECT * FROM table_name WHERE value1 IN colum_name1 AND colum_name2 value1 is a specific date colum_name1 and 2 are date format 
+                   
+                  
+                 
+                 
+                   November 4  
+                 
+                 
+              
+             
+            
+           
+          
+         
+        
+       
+      
+      
+       
+         All Activity  
+       
+       
+          Home    
+         Diego1    
+       
+      
+     
+    
+   
+   
+    
+     
+     Contact Us 
+     
+      Powered by Invision Community  
+    
+   
+   
+   ? 
+    
+     
+      
+       
+        Existing user? Sign In  
+        Sign Up  
+       
+      
+      
+       Browse 
+        
+        Back 
+        Browse 
+          Forums   
+          Calendar   
+          Guidelines   
+          Staff   
+          Online Users   
+          Leaderboard   
+         
+       Activity 
+        
+        Back 
+        Activity 
+          All Activity   
+          Search   
+         
+      Leaderboard 
+      
+     
+    
+   
+   
+   ? 
+    
+     
+      
+      Create New... 
+      
+     
+    
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+    
+ 
+
+

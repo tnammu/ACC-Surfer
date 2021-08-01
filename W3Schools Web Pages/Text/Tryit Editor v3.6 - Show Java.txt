@@ -1,0 +1,105 @@
+ 
+  Tryit Editor v3.6 - Show Java 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+  
+   
+    
+    
+    
+    
+   
+   
+    
+     
+     
+     
+     
+    
+      
+    
+   
+   
+   
+   
+    
+     
+      
+       
+      
+       Car.cs 
+       
+      
+       Program.cs 
+       
+      
+        
+       
+       
+       
+using System;
+
+namespace MyApplication
+{
+  class Car
+  {
+    public string model = "Mustang";
+  }
+}
+
+ 
+       
+       
+       
+using System;
+
+namespace MyApplication
+{
+  class Program
+  {
+    static void Main(string[] args)
+    {
+      Car myObj = new Car();
+      Console.WriteLine(myObj.model);
+    }
+  }
+}
+
+ 
+       
+      
+     
+    
+    
+     
+      
+       
+       
+         Result: 
+        
+       
+        Mustang 
+        
+       
+      
+     
+    
+   
+    
+ 
+
+

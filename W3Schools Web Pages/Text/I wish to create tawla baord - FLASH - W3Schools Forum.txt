@@ -1,0 +1,949 @@
+ 
+  I wish to create tawla baord - FLASH - W3Schools Forum 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+  
+  Jump to content 
+   
+    
+      FLASH   
+       
+       
+         
+    
+    
+     
+      
+      
+        Existing user? Sign In    
+        
+         
+          
+          
+          
+           
+           Sign In 
+           
+            
+            
+               
+               
+                 
+              
+              Remember me 
+              Not recommended on shared computers 
+               
+              Sign In    Forgot your password?   
+            
+           
+          
+         
+         
+       Sign Up  
+      
+     
+    
+    
+     
+      
+       
+        
+         
+         
+         
+         
+           Search In 
+          
+          
+             Everywhere   
+             Topics   
+             This Forum   
+             This Topic   
+            More options...   
+          
+         
+           Find results that contain... 
+          
+          
+             Any of my search term words   
+             All of my search term words   
+          
+         
+           Find results in... 
+          
+          
+             Content titles and body   
+             Content titles only   
+          
+         
+        
+       
+      
+      
+        Browse  
+        
+          Forums   
+          Calendar   
+          Guidelines   
+          Staff   
+          Online Users   
+          Leaderboard   
+         More  
+           
+         
+        Activity  
+        
+          All Activity   
+          Search   
+         More  
+           
+         
+        Leaderboard   
+       More 
+        
+         More  
+           
+         
+      
+     
+    
+   
+   
+    
+     
+      
+       
+         All Activity  
+       
+       
+          Home    
+         Multimedia    
+         FLASH    
+        I wish to create tawla baord  
+       
+      
+      
+       
+       
+        
+         
+          Sign in to follow this   
+          
+          Followers 
+          0 
+          
+         
+        
+        
+        
+        
+           
+         
+           I wish to create tawla baord   
+           By kattan, August 16 in FLASH    
+         
+        
+       
+       
+        
+          Reply to this topic   
+         Start new topic  
+        
+       
+       
+        
+         
+         Recommended Posts 
+         
+        
+        
+         
+          
+          
+           
+            kattan      0    
+            
+               
+            
+           
+           
+            kattan       0   
+            
+            Newbie 
+             
+                 
+            Members 
+               0   
+            4 posts 
+            
+           
+           
+            
+             
+              
+               
+               Report post 
+                
+               
+              
+              
+              Posted August 16 
+                
+              
+             
+             
+              
+               your site is the best school coding site,you can put me in primary grade ,MY dream is to create a board of tawla named 31 ( arabian style) i want you to put me on the road ,like a homework .  
+               i mean show me the lessons,codes  that i need to try, help me in proplemes ,i want it as an online game between 2 players ,or against the game ( single player).  
+               please give me a light on road . i want to create a site with this game .All arab love it but there is not a site give it except one,but unfortunately had closed and we do not know reasons   
+               thank you for reading  
+               my superhero in coding  
+               best regards  
+               kattan  
+              
+              
+               
+                
+                 
+                 
+                
+               
+               
+                  
+                Quote  
+                  
+               
+              
+             
+             
+              
+              Share this post 
+               
+              Link to post 
+               
+              Share on other sites 
+               
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+               
+              
+             
+            
+           
+          
+          
+          
+           
+            justsomeguy      1,134    
+            
+               
+            
+           
+           
+            justsomeguy       1,134   
+            
+            More Human Than Human 
+             
+                 
+            Moderator 
+               1,134   
+            31,575 posts 
+             Gender:  
+             Location:Phoenix  
+             Languages:Focusing on PHP and JavaScript  
+            
+           
+           
+            
+             
+              
+               
+               Report post 
+                
+               
+              
+              
+              Posted August 20 
+                
+              
+             
+             
+              
+               Why Flash?  Native support for HTML 5 is widespread enough, and Flash is blocked on enough devices, that using Flash these days doesn't make much sense.  
+              
+              
+               
+                
+                 
+                 
+                
+               
+               
+                  
+                Quote  
+                  
+               
+              
+             
+             
+              
+              Share this post 
+               
+              Link to post 
+               
+              Share on other sites 
+               
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+               
+              
+             
+            
+           
+          
+          
+          
+           
+            kattan      0    
+            
+               
+            
+           
+           
+            kattan       0   
+            
+            Newbie 
+             
+                 
+            Members 
+               0   
+            4 posts 
+            
+           
+           
+            
+             
+              
+               
+               Report post 
+                
+               
+              
+              
+              Posted August 22 
+                
+              
+             
+             
+              
+               okey,you are right  
+               who can help?  
+              
+              
+               
+                
+                 
+                 
+                
+               
+               
+                  
+                Quote  
+                  
+               
+              
+             
+             
+              
+              Share this post 
+               
+              Link to post 
+               
+              Share on other sites 
+               
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+               
+              
+             
+            
+           
+          
+          
+          
+           
+            justsomeguy      1,134    
+            
+               
+            
+           
+           
+            justsomeguy       1,134   
+            
+            More Human Than Human 
+             
+                 
+            Moderator 
+               1,134   
+            31,575 posts 
+             Gender:  
+             Location:Phoenix  
+             Languages:Focusing on PHP and JavaScript  
+            
+           
+           
+            
+             
+              
+               
+               Report post 
+                
+               
+              
+              
+              Posted August 22 
+                
+              
+             
+             
+              
+               Have you gone through the Javascript tutorials?  You'll need to use a lot of Javascript to build a game.  Also probably a canvas.  
+              
+              
+               
+                
+                 
+                 
+                
+               
+               
+                  
+                Quote  
+                  
+               
+              
+             
+             
+              
+              Share this post 
+               
+              Link to post 
+               
+              Share on other sites 
+               
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+               
+              
+             
+            
+           
+          
+          
+          
+           
+            kattan      0    
+            
+               
+            
+           
+           
+            kattan       0   
+            
+            Newbie 
+             
+                 
+            Members 
+               0   
+            4 posts 
+            
+           
+           
+            
+             
+              
+               
+               Report post 
+                
+               
+              
+              
+              Posted August 23 
+                
+              
+             
+             
+              
+               
+               
+                 15 hours ago, justsomeguy said: 
+                
+                
+                 Have you gone through the Javascript tutorials?  You'll need to use a lot of Javascript to build a game.  Also probably a canvas.  
+                
+               
+               i read it but i did not find the first step like drawing the board,and moving the pieces with a dice   
+              
+              
+               
+                
+                 
+                 
+                
+               
+               
+                  
+                Quote  
+                  
+               
+              
+             
+             
+              
+              Share this post 
+               
+              Link to post 
+               
+              Share on other sites 
+               
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+               
+              
+             
+            
+           
+          
+          
+          
+           
+            justsomeguy      1,134    
+            
+               
+            
+           
+           
+            justsomeguy       1,134   
+            
+            More Human Than Human 
+             
+                 
+            Moderator 
+               1,134   
+            31,575 posts 
+             Gender:  
+             Location:Phoenix  
+             Languages:Focusing on PHP and JavaScript  
+            
+           
+           
+            
+             
+              
+               
+               Report post 
+                
+               
+              
+              
+              Posted August 23 
+                
+              
+             
+             
+              
+               You'll draw using a canvas:  
+               https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial  
+               There's a discussion about animation in general here:  
+               https://javascript.info/js-animation  
+              
+              
+               
+                
+                 
+                  
+                        1    
+                  
+                  
+                  
+                 
+                
+               
+               
+                  
+                Quote  
+                  
+               
+              
+             
+             
+              
+              Share this post 
+               
+              Link to post 
+               
+              Share on other sites 
+               
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+               
+              
+             
+            
+           
+          
+          
+          
+           
+            kattan      0    
+            
+               
+            
+           
+           
+            kattan       0   
+            
+            Newbie 
+             
+                 
+            Members 
+               0   
+            4 posts 
+            
+           
+           
+            
+             
+              
+               
+               Report post 
+                
+               
+              
+              
+              Posted August 24 
+                
+              
+             
+             
+              
+               
+               
+                 On 8/22/2019 at 6:57 PM, justsomeguy said: 
+                
+                
+                    
+                
+               
+               sorry it is so complected  
+               i did not understand a code  
+               i will kill my hope and stop asking  
+               thank you  
+              
+              
+               
+                
+                 
+                 
+                
+               
+               
+                  
+                Quote  
+                  
+               
+              
+             
+             
+              
+              Share this post 
+               
+              Link to post 
+               
+              Share on other sites 
+               
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+               
+              
+             
+            
+           
+          
+          
+         
+        
+        
+        
+         
+         Join the conversation 
+          You can post now and register later. If you have an account, sign in now to post with your account.  
+         
+         
+          
+          
+          
+          
+          
+          
+          
+           
+              
+           
+           
+            
+               
+            
+            
+             
+              
+               
+              
+              
+               
+              
+             
+               Reply to this topic...
+              
+              
+               ?   Pasted as rich text.   Paste as plain text instead  
+              
+              
+                 Only 75 emoji are allowed.  
+              
+              
+               ?   Your link has been automatically embedded.   Display as a link instead  
+              
+              
+                
+              
+              
+               ?   Your previous content has been restored.   Clear editor  
+              
+              
+               ?   You cannot paste images directly. Upload or insert images from URL.  
+              
+              
+               
+                
+                 
+                
+                  Loading... 
+                 
+                
+               
+              
+             
+             
+              
+              ? 
+               
+               Desktop 
+               Tablet 
+               Phone 
+               
+              
+              
+             
+            
+            
+             
+              
+               
+                
+                 
+                  
+                    
+                  
+                  
+                   
+                  
+                 
+                
+               
+               
+             Submit Reply  
+            
+           
+          
+         
+        
+        
+         
+          Sign in to follow this   
+          
+          Followers 
+          0 
+          
+         
+        
+        
+        
+       
+       
+        
+         Go To Topic Listing  
+        
+       
+       
+       
+           
+           
+           
+           
+           
+           
+           
+       
+      
+      
+       
+         All Activity  
+       
+       
+          Home    
+         Multimedia    
+         FLASH    
+        I wish to create tawla baord  
+       
+      
+     
+    
+   
+   
+    
+     
+     Contact Us 
+     
+      Powered by Invision Community  
+    
+   
+   
+   ? 
+    
+     
+      
+       
+        Existing user? Sign In  
+        Sign Up  
+       
+      
+      
+       Browse 
+        
+        Back 
+        Browse 
+          Forums   
+          Calendar   
+          Guidelines   
+          Staff   
+          Online Users   
+          Leaderboard   
+         
+       Activity 
+        
+        Back 
+        Activity 
+          All Activity   
+          Search   
+         
+      Leaderboard 
+      
+     
+    
+   
+   
+   ? 
+    
+     
+      
+      Create New... 
+      
+     
+    
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+    
+ 
+
+

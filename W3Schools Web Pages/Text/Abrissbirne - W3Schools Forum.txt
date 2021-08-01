@@ -1,0 +1,345 @@
+ 
+  Abrissbirne - W3Schools Forum 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+  
+  Jump to content 
+   
+    
+      Home   
+       
+       
+         
+    
+    
+     
+      
+      
+        Existing user? Sign In    
+        
+         
+          
+          
+          
+           
+           Sign In 
+           
+            
+            
+               
+               
+                 
+              
+              Remember me 
+              Not recommended on shared computers 
+               
+              Sign In    Forgot your password?   
+            
+           
+          
+         
+         
+       Sign Up  
+      
+     
+    
+    
+     
+      
+       
+        
+         
+         
+         
+         
+           Search In 
+          
+          
+             Everywhere   
+             Status Updates   
+            More options...   
+          
+         
+           Find results that contain... 
+          
+          
+             Any of my search term words   
+             All of my search term words   
+          
+         
+           Find results in... 
+          
+          
+             Content titles and body   
+             Content titles only   
+          
+         
+        
+       
+      
+      
+        Browse  
+        
+          Forums   
+          Calendar   
+          Guidelines   
+          Staff   
+          Online Users   
+          Leaderboard   
+         More  
+           
+         
+        Activity  
+        
+          All Activity   
+          Search   
+         More  
+           
+         
+        Leaderboard   
+       More 
+        
+         More  
+           
+         
+      
+     
+    
+   
+   
+    
+     
+      
+       
+         All Activity  
+       
+       
+          Home    
+         Abrissbirne    
+       
+      
+      
+       
+       
+       
+        
+         
+          
+           
+          
+          
+           
+              
+           
+           
+            
+             Abrissbirne  
+             Members  
+            
+            
+             
+              
+              
+            
+           
+          
+         
+         
+          
+           
+            
+           
+           
+            
+           
+          
+         
+         
+          
+            View Profile 
+            See their activity 
+          
+          
+           Content Count 1  
+           Joined October 25  
+           Last visited  November 2   
+          
+         
+        
+        
+         
+          
+           
+            
+             
+             Community Reputation 
+             0 
+             Neutral 
+             
+            
+            
+            About Abrissbirne 
+             
+              
+               Rank 
+               
+                 Newbie 
+                 
+                 
+                 
+              
+             
+            
+           
+          
+          
+           
+            
+             
+              
+               
+                
+                 
+                    
+                 Abrissbirne joined the community 
+                 October 25 
+                 
+                 
+               
+                
+                 
+                  
+                    
+                  
+                    Exclude "unfiltered" HTML lines   
+                   Abrissbirne posted a topic in XSLT/XSL-FO  
+                  
+                 
+                 
+                  
+                  
+                    Hello W3 people, i have a newbie question. I have got a small script from a colleague to further develop. I know how to program but XSL I do not understand quite well. The scripts brain i inside VBA and several XSL files shall be used to "prefilter" certain documents. The idea behind this is that the VBA code does not need to be adapted and only the XSL "filter" needs to be adapted. The problem ist that i do not understand the hidden magic of XSL This is one of the XSL files which does not work like i want: <?xml version="1.0" encoding="UTF-8"?> <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform"> <xsl:strip-space elements="*"/> <xsl:output method="xml" indent="yes"/> <xsl:template match="/"> <root> <!-- add needed HEADINGS from your report which contains assesslets you need here--> <xsl:for-each select="//div[h2='2.3 Assesslet Summary (No Variables included)']/div/table"> <xsl:apply-templates select="."/> </xsl:for-each> </root> </xsl:template> <xsl:template match="table"> <checks> <!-- Carefully check the structure underneath the HEADINGS and adapt here --> <xsl:for-each select="//td[@class='passed' or @class ='failed']/span"> <xsl:apply-templates select="."/> </xsl:for-each> </checks> </xsl:template> <xsl:template match="span"> <check> <xsl:value-of select="."/> </check> </xsl:template> </xsl:stylesheet> What shall this do: -I know that all elements i need are under the h2 heading "'2.3 Assesslet Summary (No Variables included)". So i choose this heading and apply a new template. -As a next step i know that there is one table underneath this h2 heading which has certain elements which have the class "passed" or "failed". I choose them and apply a new template. -The last step is collecting all the spans The Output is the following: -I get all elements i want and additionally all other elements which should be excluded by the top two templates. I think the solution would be to exclude "unfiltered" elements. Can somebody tell me how to do this? I hope you understand. Thank you. 
+                   
+                  
+                 
+                 
+                   October 25  
+                 
+                 
+              
+             
+            
+           
+          
+         
+        
+       
+      
+      
+       
+         All Activity  
+       
+       
+          Home    
+         Abrissbirne    
+       
+      
+     
+    
+   
+   
+    
+     
+     Contact Us 
+     
+      Powered by Invision Community  
+    
+   
+   
+   ? 
+    
+     
+      
+       
+        Existing user? Sign In  
+        Sign Up  
+       
+      
+      
+       Browse 
+        
+        Back 
+        Browse 
+          Forums   
+          Calendar   
+          Guidelines   
+          Staff   
+          Online Users   
+          Leaderboard   
+         
+       Activity 
+        
+        Back 
+        Activity 
+          All Activity   
+          Search   
+         
+      Leaderboard 
+      
+     
+    
+   
+   
+   ? 
+    
+     
+      
+      Create New... 
+      
+     
+    
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+    
+ 
+
+

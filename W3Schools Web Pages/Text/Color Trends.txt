@@ -1,0 +1,762 @@
+ 
+  Color Trends 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+  
+   
+   w3schools.com 
+   
+    THE WORLD'S LARGEST WEB DEVELOPER SITE
+    
+   
+   
+    
+   
+   
+   
+    
+     
+      
+      
+     HTML 
+     CSS 
+     JAVASCRIPT 
+     SQL 
+     PYTHON 
+     PHP 
+     BOOTSTRAP 
+     HOW TO 
+     W3.CSS 
+     JQUERY 
+     XML 
+     MORE  
+     ? 
+     ? 
+     ? 
+     FORUM 
+     EXERCISES  
+     REFERENCES  
+     
+     
+     ? 
+      
+       
+       HTML and CSS 
+       Learn HTML 
+       Learn CSS 
+       Learn Bootstrap 
+       Learn W3.CSS 
+       Learn Colors 
+       Learn Icons 
+       Learn Graphics 
+       Learn SVG 
+       Learn Canvas 
+       Learn How To 
+       Learn Sass 
+        
+        XML 
+        Learn XML 
+        Learn XML AJAX 
+        Learn XML DOM 
+        Learn XML DTD 
+        Learn XML Schema 
+        Learn XSLT 
+        Learn XPath 
+        Learn XQuery 
+        
+       
+       
+       JavaScript 
+       Learn JavaScript 
+       Learn jQuery 
+       Learn React 
+       Learn AngularJS 
+       Learn JSON 
+       Learn AJAX 
+       Learn W3.JS 
+       Programming 
+       Learn Python 
+       Learn Java 
+       Learn C++ 
+       Learn C# 
+       
+        
+        
+        
+       
+       
+       Server Side 
+       Learn SQL 
+       Learn PHP 
+       Learn ASP 
+       Learn Node.js 
+       Learn Raspberry Pi 
+       Web Building 
+       Web Templates 
+       Web Statistics 
+       Web Certificates 
+       Web Editor 
+       Web Development 
+       
+       
+       XML 
+       Learn XML 
+       Learn XML AJAX 
+       Learn XML DOM 
+       Learn XML DTD 
+       Learn XML Schema 
+       Learn XSLT 
+       Learn XPath 
+       Learn XQuery 
+       
+      
+      
+     
+     
+     ? 
+      
+       
+       HTML 
+       HTML Tag Reference 
+       HTML Event Reference 
+       HTML Color Reference 
+       HTML Attribute Reference 
+       HTML Canvas Reference 
+       HTML SVG Reference 
+       HTML Character Sets 
+       Google Maps Reference 
+       CSS 
+       CSS Reference 
+       CSS Browser Support 
+       CSS Selector Reference 
+       Bootstrap 3 Reference 
+       Bootstrap 4 Reference 
+       W3.CSS Reference 
+       Icon Reference 
+       Sass Reference 
+       
+       
+       JavaScript 
+       JavaScript Reference 
+       HTML DOM Reference 
+       jQuery Reference 
+       AngularJS Reference 
+       W3.JS Reference 
+       Programming 
+       Python Reference 
+       Java Reference 
+       
+       
+       Server Side 
+       SQL Reference 
+       PHP Reference 
+       ASP Reference 
+       XML 
+       XML Reference 
+       XML Http Reference 
+       XSLT Reference 
+       XML Schema Reference 
+       
+       
+       Character Sets 
+       HTML Character Sets 
+       HTML ASCII 
+       HTML ANSI 
+       HTML Windows-1252 
+       HTML ISO-8859-1 
+       HTML Symbols 
+       HTML UTF-8 
+       
+      
+      
+     
+     
+     ? 
+      
+       
+       Exercises 
+       HTML Exercises 
+       CSS Exercises 
+       JavaScript Exercises 
+       SQL Exercises 
+       PHP Exercises 
+       Python Exercises 
+       jQuery Exercises 
+       Bootstrap Exercises 
+       Java Exercises 
+       C++ Exercises 
+       C# Exercises 
+       
+       
+       Quizzes 
+       HTML Quiz 
+       CSS Quiz 
+       JavaScript Quiz 
+       SQL Quiz 
+       PHP Quiz 
+       Python Quiz 
+       jQuery Quiz 
+       Bootstrap Quiz 
+       XML Quiz 
+       
+       
+       Certificates 
+       HTML Certificate 
+       CSS Certificate 
+       JavaScript Certificate 
+       SQL Certificate 
+       PHP Certificate 
+       Python Certificate 
+       jQuery Certificate 
+       Bootstrap Certificate 
+       XML Certificate 
+       
+      
+      
+     
+    
+   
+   
+    
+     
+      
+     Colors Tutorial 
+     Colors HOME 
+     Color Names 
+     Color Values 
+     Color Groups 
+     Color Shades 
+     Color Picker 
+     Color Mixer 
+     Color Converter 
+     Color RGB 
+     Color HEX 
+     Color HSL 
+     Color HWB 
+     Color CMYK 
+     Color NCol 
+     Color Gradient 
+     Color Theory 
+     Color Wheels 
+     Color Hues 
+     Color Schemes 
+     Color Palettes 
+     Color Brands 
+     Color W3.CSS 
+     Color Metro UI 
+     Color Win8 
+     Color Flat UI 
+     Color Psychology 
+     Colors of the Year 
+     Colors 2019 
+     Colors 2018 
+     Colors 2017 
+     Colors 2016 
+      
+     Color Schemes 
+     Colors Monochromatic 
+     Colors Analogous 
+     Colors Complementary 
+     Colors Triadic 
+     Colors Compound 
+      
+     Color Standards 
+     Colors USA 
+     Colors UK 
+     Colors Australia 
+     Colors RAL 
+     Colors NBS 
+     Colors NCS 
+     Colors X11 
+     Colors Crayola 
+     Colors Resene 
+     Colors XKCD 
+     
+      
+     
+    
+   
+   
+    
+     
+      
+       
+       
+       
+       
+      
+     Colors 2018 
+      
+      ? Previous 
+      Next ? 
+      
+      
+     Color of the Year 2018 
+      
+      Ultra Violet 
+      HEX: #6B5B95 
+      PANTONE 18-3838 
+      
+     Every year the Pantone Color Institute evaluates the colors shown by fashion designers at the New York Fashion Week. 
+     This information is used to create The Pantone Color of the Year and the Pantone Fashion Color Report with the top fashion colors for the year: 
+     The Hottest Fall / Winter Colors 2018 
+      
+      Red Pear 
+      HEX: #7F4145 
+      Pantone 19-1536 
+      
+      
+      Valiant Poppy 
+      HEX: #BD3D3A 
+      Pantone 18-1549 
+      
+      
+      Nebulas Blue 
+      HEX: #3F69AA 
+      Pantone 18-4048 
+      
+      
+      Ceylon Yellow 
+      HEX: #D5AE41 
+      Pantone 15-0850 
+      
+      
+      Martini Olive 
+      HEX: #766F57 
+      Pantone 18-0625 
+      
+      
+      Russet Orange 
+      HEX: #E47A2E 
+      Pantone 16-1255 
+      
+      
+      Crocus Petal 
+      HEX: #BE9EC9 
+      Pantone 15-3520 
+      
+      
+      Limelight 
+      HEX: #F1EA7F 
+      Pantone 12-0740 
+      
+      
+      Quetzal Green 
+      HEX: #006E6D 
+      Pantone 18-5025 
+      
+      
+     The Classic Fall / Winter Colors 2018 
+      
+      Sargasso Sea 
+      HEX: #485167 
+      Pantone 19-4031 
+      
+      
+      Tofu 
+      HEX: #EAE6DA 
+      Pantone 11-4801 
+      
+      
+      Almond Buff 
+      HEX: #D1B894 
+      Pantone 14-1116 
+      
+      
+      Quiet Gray 
+      HEX: #BCBCBE 
+      Pantone 14-4107 
+      
+      
+      Meerkat 
+      HEX: #A9754F 
+      Pantone 16-1438 
+      
+      
+     The Hottest Spring Colors 2018 
+      
+      Meadowlark 
+      HEX: #ECDB54 
+      Pantone 13-0646 
+      
+      
+      Cherry Tomato 
+      HEX: #E94B3C 
+      Pantone 17-1563 
+      
+      
+      Little Boy Blue 
+      HEX: #6F9FD8 
+      Pantone 16-4132 
+      
+      
+      Chili Oil 
+      HEX: #944743 
+      Pantone 18-1440 
+      
+      
+      Pink Lavender 
+      HEX: #DBB1CD 
+      Pantone 14-3207 
+      
+      
+      Blooming Dahlia 
+      HEX: #EC9787 
+      PANTONE 15-1520 
+      
+      
+      Arcadia 
+      HEX: #00A591 
+      PANTONE 16-5533 
+      
+      
+      Ultra Violet 
+      HEX: #6B5B95 
+      PANTONE 18-3838 
+      
+      
+      Emperador 
+      HEX: #6C4F3D 
+      Pantone 18-1028 
+      
+      
+      Almost Mauve 
+      HEX: #EADEDB 
+      Pantone 12-2103 
+      
+      
+      Spring Crocus 
+      HEX: #BC70A4 
+      PANTONE 17-3020 
+      
+      
+      Lime Punch 
+      HEX: #BFD641 
+      PANTONE 13-0550 
+      
+      
+     Spring 2018 Classic Color Palette 
+      
+      Sailor Blue 
+      HEX: #2E4A62 
+      PANTONE 19-4034 
+      
+      
+      Harbor Mist 
+      HEX: #B4B7BA 
+      PANTONE 14-4202 
+      
+      
+      Warm Sand 
+      HEX: #C0AB8E 
+      PANTONE 15-1214 
+      
+      
+      Coconut Milk 
+      HEX: #F0EDE5 
+      PANTONE 11-0608 
+      
+      
+      
+      Downloads 
+      The color trend CSS libraries can be downloaded from: 
+      W3.CSS Color Libraries 
+      
+      
+      
+      ? Previous 
+      Next ? 
+      
+     
+     
+      
+       
+        
+        
+        
+       
+      
+      
+      COLOR PICKER 
+        
+      
+      
+      
+      
+      
+       
+       HOW TO 
+       
+       
+       Tabs
+        
+       Dropdowns
+        
+       Accordions
+        
+       Side Navigation
+        
+       Top Navigation
+        
+       Modal Boxes
+        
+       Progress Bars
+        
+       Parallax
+        
+       Login Form
+        
+       HTML Includes
+        
+       Google Maps
+        
+       Range Sliders
+        
+       Tooltips
+        
+       Slideshow
+        
+       Filter List
+        
+       Sort List
+        
+       
+      
+      
+      SHARE 
+       
+        
+       
+        
+         
+        
+         
+        
+       
+      
+      
+      CERTIFICATES 
+       HTML CSS JavaScript SQL Python PHP jQuery Bootstrap XML 
+       Read More ? 
+      
+      
+       
+        
+         
+         
+         
+        
+       
+      
+      
+     
+    
+    
+     
+     
+      
+       
+       
+       
+       
+       
+       
+       
+      
+     
+     
+     
+      
+      REPORT ERROR 
+      
+      
+      PRINT PAGE 
+      
+      
+      FORUM 
+      
+      
+      ABOUT 
+      
+     
+     
+     
+     ? 
+     Your Suggestion: 
+      
+       
+       Your E-mail: 
+        
+       
+       
+       Page address: 
+        
+       
+       
+       Description: 
+        
+       
+       
+       Submit 
+       
+       
+      
+     
+     
+     ? 
+     Thank You For Helping Us! 
+     Your message has been sent to W3Schools. 
+     
+     
+      
+       
+       Top Tutorials 
+       HTML Tutorial
+        
+       CSS Tutorial
+        
+       JavaScript Tutorial
+        
+       How To Tutorial
+        
+       SQL Tutorial
+        
+       Python Tutorial
+        
+       W3.CSS Tutorial
+        
+       Bootstrap Tutorial
+        
+       PHP Tutorial
+        
+       jQuery Tutorial
+        
+       Java Tutorial
+        
+       C++ Tutorial
+        
+       
+      
+      
+       
+       Top References 
+       HTML Reference
+        
+       CSS Reference
+        
+       JavaScript Reference
+        
+       SQL Reference
+        
+       Python Reference
+        
+       W3.CSS Reference
+        
+       Bootstrap Reference
+        
+       PHP Reference
+        
+       HTML Colors
+        
+       jQuery Reference
+        
+       Java Reference
+        
+       Angular Reference
+        
+       
+      
+      
+       
+       Top Examples 
+       HTML Examples
+        
+       CSS Examples
+        
+       JavaScript Examples
+        
+       How To Examples
+        
+       SQL Examples
+        
+       Python Examples
+        
+       W3.CSS Examples
+        
+       Bootstrap Examples
+        
+       PHP Examples
+        
+       jQuery Examples
+        
+       Java Examples
+        
+       XML Examples
+        
+       
+      
+      
+       
+       Web Certificates 
+       HTML Certificate
+        
+       CSS Certificate
+        
+       JavaScript Certificate
+        
+       SQL Certificate
+        
+       Python Certificate
+        
+       jQuery Certificate
+        
+       PHP Certificate
+        
+       Bootstrap Certificate
+        
+       XML Certificate
+        
+        Get Certified ? 
+       
+      
+     
+     
+    
+      W3Schools is optimized for learning, testing, and training. Examples might be simplified to improve reading and basic understanding. Tutorials, references, and examples are constantly reviewed to avoid errors, but we cannot warrant full correctness of all content. While using this site, you agree to have read and accepted our 
+     terms of use, 
+     cookie and privacy policy. 
+     Copyright 1999-2019 by Refsnes Data. All Rights Reserved.
+      
+     Powered by W3.CSS.
+     
+      
+       
+     
+    
+     
+    
+   
+   
+   
+     
+ 
+
+

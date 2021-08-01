@@ -1,0 +1,948 @@
+ 
+  jQuery Selectors 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+ 
+  
+   
+   w3schools.com 
+   
+    THE WORLD'S LARGEST WEB DEVELOPER SITE
+    
+   
+   
+    
+   
+   
+   
+    
+     
+      
+      
+     HTML 
+     CSS 
+     JAVASCRIPT 
+     SQL 
+     PYTHON 
+     PHP 
+     BOOTSTRAP 
+     HOW TO 
+     W3.CSS 
+     JQUERY 
+     XML 
+     MORE  
+     ? 
+     ? 
+     ? 
+     FORUM 
+     EXERCISES  
+     REFERENCES  
+     
+     
+     ? 
+      
+       
+       HTML and CSS 
+       Learn HTML 
+       Learn CSS 
+       Learn Bootstrap 
+       Learn W3.CSS 
+       Learn Colors 
+       Learn Icons 
+       Learn Graphics 
+       Learn SVG 
+       Learn Canvas 
+       Learn How To 
+       Learn Sass 
+        
+        XML 
+        Learn XML 
+        Learn XML AJAX 
+        Learn XML DOM 
+        Learn XML DTD 
+        Learn XML Schema 
+        Learn XSLT 
+        Learn XPath 
+        Learn XQuery 
+        
+       
+       
+       JavaScript 
+       Learn JavaScript 
+       Learn jQuery 
+       Learn React 
+       Learn AngularJS 
+       Learn JSON 
+       Learn AJAX 
+       Learn W3.JS 
+       Programming 
+       Learn Python 
+       Learn Java 
+       Learn C++ 
+       Learn C# 
+       
+        
+        
+        
+       
+       
+       Server Side 
+       Learn SQL 
+       Learn PHP 
+       Learn ASP 
+       Learn Node.js 
+       Learn Raspberry Pi 
+       Web Building 
+       Web Templates 
+       Web Statistics 
+       Web Certificates 
+       Web Editor 
+       Web Development 
+       
+       
+       XML 
+       Learn XML 
+       Learn XML AJAX 
+       Learn XML DOM 
+       Learn XML DTD 
+       Learn XML Schema 
+       Learn XSLT 
+       Learn XPath 
+       Learn XQuery 
+       
+      
+      
+     
+     
+     ? 
+      
+       
+       HTML 
+       HTML Tag Reference 
+       HTML Event Reference 
+       HTML Color Reference 
+       HTML Attribute Reference 
+       HTML Canvas Reference 
+       HTML SVG Reference 
+       HTML Character Sets 
+       Google Maps Reference 
+       CSS 
+       CSS Reference 
+       CSS Browser Support 
+       CSS Selector Reference 
+       Bootstrap 3 Reference 
+       Bootstrap 4 Reference 
+       W3.CSS Reference 
+       Icon Reference 
+       Sass Reference 
+       
+       
+       JavaScript 
+       JavaScript Reference 
+       HTML DOM Reference 
+       jQuery Reference 
+       AngularJS Reference 
+       W3.JS Reference 
+       Programming 
+       Python Reference 
+       Java Reference 
+       
+       
+       Server Side 
+       SQL Reference 
+       PHP Reference 
+       ASP Reference 
+       XML 
+       XML Reference 
+       XML Http Reference 
+       XSLT Reference 
+       XML Schema Reference 
+       
+       
+       Character Sets 
+       HTML Character Sets 
+       HTML ASCII 
+       HTML ANSI 
+       HTML Windows-1252 
+       HTML ISO-8859-1 
+       HTML Symbols 
+       HTML UTF-8 
+       
+      
+      
+     
+     
+     ? 
+      
+       
+       Exercises 
+       HTML Exercises 
+       CSS Exercises 
+       JavaScript Exercises 
+       SQL Exercises 
+       PHP Exercises 
+       Python Exercises 
+       jQuery Exercises 
+       Bootstrap Exercises 
+       Java Exercises 
+       C++ Exercises 
+       C# Exercises 
+       
+       
+       Quizzes 
+       HTML Quiz 
+       CSS Quiz 
+       JavaScript Quiz 
+       SQL Quiz 
+       PHP Quiz 
+       Python Quiz 
+       jQuery Quiz 
+       Bootstrap Quiz 
+       XML Quiz 
+       
+       
+       Certificates 
+       HTML Certificate 
+       CSS Certificate 
+       JavaScript Certificate 
+       SQL Certificate 
+       PHP Certificate 
+       Python Certificate 
+       jQuery Certificate 
+       Bootstrap Certificate 
+       XML Certificate 
+       
+      
+      
+     
+    
+   
+   
+    
+     
+      
+     jQuery Tutorial 
+     jQuery HOME 
+     jQuery Intro 
+     jQuery Get Started 
+     jQuery Syntax 
+     jQuery Selectors 
+     jQuery Events 
+      
+     jQuery Effects 
+     jQuery Hide/Show 
+     jQuery Fade 
+     jQuery Slide 
+     jQuery Animate 
+     jQuery stop() 
+     jQuery Callback 
+     jQuery Chaining 
+      
+     jQuery HTML 
+     jQuery Get 
+     jQuery Set 
+     jQuery Add 
+     jQuery Remove 
+     jQuery CSS Classes 
+     jQuery css() 
+     jQuery Dimensions 
+      
+     jQuery Traversing 
+     jQuery Traversing 
+     jQuery Ancestors 
+     jQuery Descendants 
+     jQuery Siblings 
+     jQuery Filtering 
+      
+     jQuery AJAX 
+     jQuery AJAX Intro 
+     jQuery Load 
+     jQuery Get/Post 
+      
+     jQuery Misc 
+     jQuery noConflict() 
+     jQuery Filters 
+      
+     jQuery Examples 
+     jQuery Examples 
+     jQuery Quiz 
+     jQuery Exercises 
+     jQuery Certificate 
+      
+     jQuery References 
+     jQuery Overview 
+     jQuery Selectors 
+     jQuery Events 
+     jQuery Effects 
+     jQuery HTML/CSS 
+     jQuery Traversing 
+     jQuery AJAX 
+     jQuery Misc 
+     jQuery Properties 
+     
+      
+     
+    
+   
+   
+    
+     
+      
+       
+       
+       
+       
+      
+     jQuery Selectors 
+      
+      ? Previous 
+      Next ? 
+      
+      
+     jQuery Selectors 
+     Use our jQuery Selector Tester to demonstrate the different selectors. 
+      
+       
+       
+         
+         Selector 
+         Example 
+         Selects 
+         
+         
+         * 
+         $("*") 
+         All elements 
+         
+         
+         #id 
+         $("#lastname") 
+         The element with id="lastname" 
+         
+         
+         .class 
+         $(".intro") 
+         All elements with class="intro" 
+         
+         
+         .class,.class 
+         $(".intro,.demo") 
+         All elements with the class "intro" or "demo" 
+         
+         
+         element 
+         $("p") 
+         All <p> elements 
+         
+         
+         el1,el2,el3 
+         $("h1,div,p") 
+         All <h1>, <div> and <p> elements 
+         
+         
+           
+           
+           
+         
+         
+         :first 
+         $("p:first") 
+         The first <p> element 
+         
+         
+         :last 
+         $("p:last") 
+         The last <p> element 
+         
+         
+         :even 
+         $("tr:even") 
+         All even <tr> elements 
+         
+         
+         :odd 
+         $("tr:odd") 
+         All odd <tr> elements 
+         
+         
+           
+           
+           
+         
+         
+         :first-child 
+         $("p:first-child") 
+         All <p> elements that are the first child of their parent 
+         
+         
+         :first-of-type 
+         $("p:first-of-type") 
+         All <p> elements that are the first <p> element of their parent 
+         
+         
+         :last-child 
+         $("p:last-child") 
+         All <p> elements that are the last child of their parent 
+         
+         
+         :last-of-type 
+         $("p:last-of-type") 
+         All <p> elements that are the last <p> element of their parent 
+         
+         
+         :nth-child(n) 
+         $("p:nth-child(2)") 
+         All <p> elements that are the 2nd child of their parent 
+         
+         
+         :nth-last-child(n) 
+         $("p:nth-last-child(2)") 
+         All <p> elements that are the 2nd child of their parent, counting from the last child 
+         
+         
+         :nth-of-type(n) 
+         $("p:nth-of-type(2)") 
+         All <p> elements that are the 2nd <p> element of their parent 
+         
+         
+         :nth-last-of-type(n) 
+         $("p:nth-last-of-type(2)") 
+         All <p> elements that are the 2nd <p> element of their parent, counting from the last child 
+         
+         
+         :only-child 
+         $("p:only-child") 
+         All <p> elements that are the only child of their parent 
+         
+         
+         :only-of-type 
+         $("p:only-of-type") 
+         All <p> elements that are the only child, of its type, of their parent 
+         
+         
+           
+           
+           
+         
+         
+         parent > child 
+         $("div > p") 
+         All <p> elements that are a direct child of a <div> element 
+         
+         
+         parent descendant 
+         $("div p") 
+         All <p> elements that are descendants of a <div> element 
+         
+         
+         element + next 
+         $("div + p") 
+         The <p> element that are next to each <div> elements 
+         
+         
+         element ~ siblings 
+         $("div ~ p") 
+         All <p> elements that are siblings of a <div> element 
+         
+         
+           
+           
+           
+         
+         
+         :eq(index) 
+         $("ul li:eq(3)") 
+         The fourth element in a list (index starts at 0) 
+         
+         
+         :gt(no) 
+         $("ul li:gt(3)") 
+         List elements with an index greater than 3 
+         
+         
+         :lt(no) 
+         $("ul li:lt(3)") 
+         List elements with an index less than 3 
+         
+         
+         :not(selector) 
+         $("input:not(:empty)") 
+         All input elements that are not empty 
+         
+         
+           
+           
+           
+         
+         
+         :header 
+         $(":header") 
+         All header elements <h1>, <h2> ... 
+         
+         
+         :animated 
+         $(":animated") 
+         All animated elements 
+         
+         
+         :focus 
+         $(":focus") 
+         The element that currently has focus 
+         
+         
+         :contains(text) 
+         $(":contains('Hello')") 
+         All elements which contains the text "Hello" 
+         
+         
+         :has(selector) 
+         $("div:has(p)") 
+         All <div> elements that have a <p> element 
+         
+         
+         :empty 
+         $(":empty") 
+         All elements that are empty 
+         
+         
+         :parent 
+         $(":parent") 
+         All elements that are a parent of another element 
+         
+         
+         :hidden 
+         $("p:hidden") 
+         All hidden <p> elements 
+         
+         
+         :visible 
+         $("table:visible") 
+         All visible tables 
+         
+         
+         :root 
+         $(":root") 
+         The document's root element 
+         
+         
+         :lang(language) 
+         $("p:lang(de)") 
+         All <p> elements with a lang attribute value starting with "de" 
+         
+         
+           
+           
+           
+         
+         
+         [attribute] 
+         $("[href]") 
+         All elements with a href attribute 
+         
+         
+         [attribute=value] 
+         $("[href='default.htm']") 
+         All elements with a href attribute value equal to "default.htm" 
+         
+         
+         [attribute!=value] 
+         $("[href!='default.htm']") 
+         All elements with a href attribute value not equal to "default.htm" 
+         
+         
+         [attribute$=value] 
+         $("[href$='.jpg']") 
+         All elements with a href attribute value ending with ".jpg" 
+         
+         
+         [attribute|=value] 
+         $("[title|='Tomorrow']") 
+         All elements with a title attribute value equal to 'Tomorrow', or starting with 'Tomorrow' followed by a hyphen 
+         
+         
+         [attribute^=value] 
+         $("[title^='Tom']") 
+         All elements with a title attribute value starting with "Tom" 
+         
+         
+         [attribute~=value] 
+         $("[title~='hello']") 
+         All elements with a title attribute value containing the specific word "hello" 
+         
+         
+         [attribute*=value] 
+         $("[title*='hello']") 
+         All elements with a title attribute value containing the word "hello" 
+         
+         
+           
+           
+           
+         
+         
+         :input 
+         $(":input") 
+         All input elements 
+         
+         
+         :text 
+         $(":text") 
+         All input elements with type="text" 
+         
+         
+         :password 
+         $(":password") 
+         All input elements with type="password" 
+         
+         
+         :radio 
+         $(":radio") 
+         All input elements with type="radio" 
+         
+         
+         :checkbox 
+         $(":checkbox") 
+         All input elements with type="checkbox" 
+         
+         
+         :submit 
+         $(":submit") 
+         All input elements with type="submit" 
+         
+         
+         :reset 
+         $(":reset") 
+         All input elements with type="reset" 
+         
+         
+         :button 
+         $(":button") 
+         All input elements with type="button" 
+         
+         
+         :image 
+         $(":image") 
+         All input elements with type="image" 
+         
+         
+         :file 
+         $(":file") 
+         All input elements with type="file" 
+         
+         
+         :enabled 
+         $(":enabled") 
+         All enabled input elements 
+         
+         
+         :disabled 
+         $(":disabled") 
+         All disabled input elements 
+         
+         
+         :selected 
+         $(":selected") 
+         All selected input elements 
+         
+         
+         :checked 
+         $(":checked") 
+         All checked input elements 
+         
+       
+       
+      
+      
+      
+      ? Previous 
+      Next ? 
+      
+     
+     
+      
+       
+        
+        
+        
+       
+      
+      
+      COLOR PICKER 
+        
+      
+      
+      
+      
+      
+       
+       HOW TO 
+       
+       
+       Tabs
+        
+       Dropdowns
+        
+       Accordions
+        
+       Side Navigation
+        
+       Top Navigation
+        
+       Modal Boxes
+        
+       Progress Bars
+        
+       Parallax
+        
+       Login Form
+        
+       HTML Includes
+        
+       Google Maps
+        
+       Range Sliders
+        
+       Tooltips
+        
+       Slideshow
+        
+       Filter List
+        
+       Sort List
+        
+       
+      
+      
+      SHARE 
+       
+        
+       
+        
+         
+        
+         
+        
+       
+      
+      
+      CERTIFICATES 
+       HTML CSS JavaScript SQL Python PHP jQuery Bootstrap XML 
+       Read More ? 
+      
+      
+       
+        
+         
+         
+         
+        
+       
+      
+      
+     
+    
+    
+     
+     
+      
+       
+       
+       
+       
+       
+       
+       
+      
+     
+     
+     
+      
+      REPORT ERROR 
+      
+      
+      PRINT PAGE 
+      
+      
+      FORUM 
+      
+      
+      ABOUT 
+      
+     
+     
+     
+     ? 
+     Your Suggestion: 
+      
+       
+       Your E-mail: 
+        
+       
+       
+       Page address: 
+        
+       
+       
+       Description: 
+        
+       
+       
+       Submit 
+       
+       
+      
+     
+     
+     ? 
+     Thank You For Helping Us! 
+     Your message has been sent to W3Schools. 
+     
+     
+      
+       
+       Top Tutorials 
+       HTML Tutorial
+        
+       CSS Tutorial
+        
+       JavaScript Tutorial
+        
+       How To Tutorial
+        
+       SQL Tutorial
+        
+       Python Tutorial
+        
+       W3.CSS Tutorial
+        
+       Bootstrap Tutorial
+        
+       PHP Tutorial
+        
+       jQuery Tutorial
+        
+       Java Tutorial
+        
+       C++ Tutorial
+        
+       
+      
+      
+       
+       Top References 
+       HTML Reference
+        
+       CSS Reference
+        
+       JavaScript Reference
+        
+       SQL Reference
+        
+       Python Reference
+        
+       W3.CSS Reference
+        
+       Bootstrap Reference
+        
+       PHP Reference
+        
+       HTML Colors
+        
+       jQuery Reference
+        
+       Java Reference
+        
+       Angular Reference
+        
+       
+      
+      
+       
+       Top Examples 
+       HTML Examples
+        
+       CSS Examples
+        
+       JavaScript Examples
+        
+       How To Examples
+        
+       SQL Examples
+        
+       Python Examples
+        
+       W3.CSS Examples
+        
+       Bootstrap Examples
+        
+       PHP Examples
+        
+       jQuery Examples
+        
+       Java Examples
+        
+       XML Examples
+        
+       
+      
+      
+       
+       Web Certificates 
+       HTML Certificate
+        
+       CSS Certificate
+        
+       JavaScript Certificate
+        
+       SQL Certificate
+        
+       Python Certificate
+        
+       jQuery Certificate
+        
+       PHP Certificate
+        
+       Bootstrap Certificate
+        
+       XML Certificate
+        
+        Get Certified ? 
+       
+      
+     
+     
+    
+      W3Schools is optimized for learning, testing, and training. Examples might be simplified to improve reading and basic understanding. Tutorials, references, and examples are constantly reviewed to avoid errors, but we cannot warrant full correctness of all content. While using this site, you agree to have read and accepted our 
+     terms of use, 
+     cookie and privacy policy. 
+     Copyright 1999-2019 by Refsnes Data. All Rights Reserved.
+      
+     Powered by W3.CSS.
+     
+      
+       
+     
+    
+     
+    
+   
+   
+   
+    
+ 
+
+

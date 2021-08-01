@@ -1,0 +1,2601 @@
+
+  HTML DOM Style object 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+ 
+  
+   
+   w3schools.com 
+   
+    THE WORLD'S LARGEST WEB DEVELOPER SITE
+    
+   
+   
+    
+   
+   
+   
+    
+     
+      
+      
+     HTML 
+     CSS 
+     JAVASCRIPT 
+     SQL 
+     PYTHON 
+     PHP 
+     BOOTSTRAP 
+     HOW TO 
+     W3.CSS 
+     JQUERY 
+     XML 
+     MORE  
+     ? 
+     ? 
+     ? 
+     FORUM 
+     EXERCISES  
+     REFERENCES  
+     
+     
+     ? 
+      
+       
+       HTML and CSS 
+       Learn HTML 
+       Learn CSS 
+       Learn Bootstrap 
+       Learn W3.CSS 
+       Learn Colors 
+       Learn Icons 
+       Learn Graphics 
+       Learn SVG 
+       Learn Canvas 
+       Learn How To 
+       Learn Sass 
+        
+        XML 
+        Learn XML 
+        Learn XML AJAX 
+        Learn XML DOM 
+        Learn XML DTD 
+        Learn XML Schema 
+        Learn XSLT 
+        Learn XPath 
+        Learn XQuery 
+        
+       
+       
+       JavaScript 
+       Learn JavaScript 
+       Learn jQuery 
+       Learn React 
+       Learn AngularJS 
+       Learn JSON 
+       Learn AJAX 
+       Learn W3.JS 
+       Programming 
+       Learn Python 
+       Learn Java 
+       Learn C++ 
+       Learn C# 
+       
+        
+        
+        
+       
+       
+       Server Side 
+       Learn SQL 
+       Learn PHP 
+       Learn ASP 
+       Learn Node.js 
+       Learn Raspberry Pi 
+       Web Building 
+       Web Templates 
+       Web Statistics 
+       Web Certificates 
+       Web Editor 
+       Web Development 
+       
+       
+       XML 
+       Learn XML 
+       Learn XML AJAX 
+       Learn XML DOM 
+       Learn XML DTD 
+       Learn XML Schema 
+       Learn XSLT 
+       Learn XPath 
+       Learn XQuery 
+       
+      
+      
+     
+     
+     ? 
+      
+       
+       HTML 
+       HTML Tag Reference 
+       HTML Event Reference 
+       HTML Color Reference 
+       HTML Attribute Reference 
+       HTML Canvas Reference 
+       HTML SVG Reference 
+       HTML Character Sets 
+       Google Maps Reference 
+       CSS 
+       CSS Reference 
+       CSS Browser Support 
+       CSS Selector Reference 
+       Bootstrap 3 Reference 
+       Bootstrap 4 Reference 
+       W3.CSS Reference 
+       Icon Reference 
+       Sass Reference 
+       
+       
+       JavaScript 
+       JavaScript Reference 
+       HTML DOM Reference 
+       jQuery Reference 
+       AngularJS Reference 
+       W3.JS Reference 
+       Programming 
+       Python Reference 
+       Java Reference 
+       
+       
+       Server Side 
+       SQL Reference 
+       PHP Reference 
+       ASP Reference 
+       XML 
+       XML Reference 
+       XML Http Reference 
+       XSLT Reference 
+       XML Schema Reference 
+       
+       
+       Character Sets 
+       HTML Character Sets 
+       HTML ASCII 
+       HTML ANSI 
+       HTML Windows-1252 
+       HTML ISO-8859-1 
+       HTML Symbols 
+       HTML UTF-8 
+       
+      
+      
+     
+     
+     ? 
+      
+       
+       Exercises 
+       HTML Exercises 
+       CSS Exercises 
+       JavaScript Exercises 
+       SQL Exercises 
+       PHP Exercises 
+       Python Exercises 
+       jQuery Exercises 
+       Bootstrap Exercises 
+       Java Exercises 
+       C++ Exercises 
+       C# Exercises 
+       
+       
+       Quizzes 
+       HTML Quiz 
+       CSS Quiz 
+       JavaScript Quiz 
+       SQL Quiz 
+       PHP Quiz 
+       Python Quiz 
+       jQuery Quiz 
+       Bootstrap Quiz 
+       XML Quiz 
+       
+       
+       Certificates 
+       HTML Certificate 
+       CSS Certificate 
+       JavaScript Certificate 
+       SQL Certificate 
+       PHP Certificate 
+       Python Certificate 
+       jQuery Certificate 
+       Bootstrap Certificate 
+       XML Certificate 
+       
+      
+      
+     
+    
+   
+   
+    
+     
+      
+      
+      JS Reference 
+      JS by Category 
+      JS by Alphabet 
+       
+      JavaScript 
+      JS Array 
+       
+       concat() 
+       constructor 
+       copyWithin() 
+       entries() 
+       every() 
+       fill() 
+       filter() 
+       find() 
+       findIndex() 
+       forEach() 
+       from() 
+       includes() 
+       indexOf() 
+       isArray() 
+       join() 
+       keys() 
+       length 
+       lastIndexOf() 
+       map() 
+       pop() 
+       prototype 
+       push() 
+       reduce() 
+       reduceRight() 
+       reverse() 
+       shift() 
+       slice() 
+       some() 
+       sort() 
+       splice() 
+       toString() 
+       unshift() 
+       valueOf() 
+       
+      JS Boolean 
+       
+       constructor 
+       prototype 
+       toString() 
+       valueOf() 
+       
+      JS Classes 
+       
+       constructor() 
+       extends 
+       static 
+       super 
+       
+      JS Date 
+       
+       constructor 
+       getDate() 
+       getDay() 
+       getFullYear() 
+       getHours() 
+       getMilliseconds() 
+       getMinutes() 
+       getMonth() 
+       getSeconds() 
+       getTime() 
+       getTimezoneOffset() 
+       getUTCDate() 
+       getUTCDay() 
+       getUTCFullYear() 
+       getUTCHours() 
+       getUTCMilliseconds() 
+       getUTCMinutes() 
+       getUTCMonth() 
+       getUTCSeconds() 
+       now() 
+       parse() 
+       prototype 
+       setDate() 
+       setFullYear() 
+       setHours() 
+       setMilliseconds() 
+       setMinutes() 
+       setMonth() 
+       setSeconds() 
+       setTime() 
+       setUTCDate() 
+       setUTCFullYear() 
+       setUTCHours() 
+       setUTCMilliseconds() 
+       setUTCMinutes() 
+       setUTCMonth() 
+       setUTCSeconds() 
+       toDateString() 
+       toISOString() 
+       toJSON() 
+       toLocaleDateString() 
+       toLocaleTimeString() 
+       toLocaleString() 
+       toString() 
+       toTimeString() 
+       toUTCString() 
+       UTC() 
+       valueOf() 
+       
+      JS Error 
+       
+       name 
+       message 
+       
+      JS Global 
+       
+       decodeURI() 
+       decodeURIComponent() 
+       encodeURI() 
+       encodeURIComponent() 
+       escape() 
+       eval() 
+       Infinity 
+       isFinite() 
+       isNaN() 
+       NaN 
+       Number() 
+       parseFloat() 
+       parseInt() 
+       String() 
+       undefined 
+       unescape() 
+       
+      JS JSON 
+       
+       parse() 
+       stringify() 
+       
+      JS Math 
+       
+       abs() 
+       acos() 
+       acosh() 
+       asin() 
+       asinh() 
+       atan() 
+       atan2() 
+       atanh() 
+       cbrt() 
+       ceil() 
+       cos() 
+       cosh() 
+       E 
+       exp() 
+       floor() 
+       LN2 
+       LN10 
+       log() 
+       LOG2E 
+       LOG10E 
+       max() 
+       min() 
+       PI 
+       pow() 
+       random() 
+       round() 
+       sin() 
+       sqrt() 
+       SQRT1_2 
+       SQRT2 
+       tan() 
+       tanh() 
+       trunc() 
+       
+      JS Number 
+       
+       constructor 
+       isFinite() 
+       isInteger() 
+       isNaN() 
+       isSafeInteger() 
+       MAX_VALUE 
+       MIN_VALUE 
+       NEGATIVE_INFINITY 
+       NaN 
+       POSITIVE_INFINITY 
+       prototype 
+       toExponential() 
+       toFixed() 
+       toLocaleString() 
+       toPrecision() 
+       toString() 
+       valueOf() 
+       
+      JS Operators 
+      JS RegExp 
+       
+       constructor 
+       compile() 
+       exec() 
+       g 
+       global 
+       i 
+       ignoreCase 
+       lastIndex 
+       m 
+       multiline 
+       n+ 
+       n* 
+       n? 
+       n{X} 
+       n{X,Y} 
+       n{X,} 
+       n$ 
+       ^n 
+       ?=n 
+       ?!n 
+       source 
+       test() 
+       toString() 
+       [abc] 
+       [^abc] 
+       [0-9] 
+       [^0-9] 
+       (x|y) 
+       . 
+       \w 
+       \W 
+       \d 
+       \D 
+       \s 
+       \S 
+       \b 
+       \B 
+       \0 
+       \n 
+       \f 
+       \r 
+       \t 
+       \v 
+       \xxx 
+       \xdd 
+       \uxxxx 
+       
+      JS Statements 
+       
+       break 
+       class 
+       continue 
+       debugger 
+       do...while 
+       for 
+       for...in 
+       for...of 
+       function 
+       if...else 
+       return 
+       switch 
+       throw 
+       try...catch 
+       var 
+       while 
+       
+      JS String 
+       
+       charAt() 
+       charCodeAt() 
+       concat() 
+       constructor 
+       endsWith() 
+       fromCharCode() 
+       includes() 
+       indexOf() 
+       lastIndexOf() 
+       length 
+       localeCompare() 
+       match() 
+       prototype 
+       repeat() 
+       replace() 
+       search() 
+       slice() 
+       split() 
+       startsWith() 
+       substr() 
+       substring() 
+       toLocaleLowerCase() 
+       toLocaleUpperCase() 
+       toLowerCase() 
+       toString() 
+       toUpperCase() 
+       trim() 
+       valueOf() 
+       
+       
+      HTML DOM 
+      DOM Attribute 
+       
+       getNamedItem() 
+       isId 
+       item() 
+       length 
+       name 
+       removeNamedItem() 
+       setNamedItem() 
+       specified 
+       value 
+       
+      DOM Console 
+       
+       assert() 
+       clear() 
+       count() 
+       error() 
+       group() 
+       groupCollapsed() 
+       groupEnd() 
+       info() 
+       log() 
+       table() 
+       time() 
+       timeEnd() 
+       trace() 
+       warn() 
+       
+      DOM Document 
+       
+       activeElement 
+       addEventListener() 
+       adoptNode() 
+       anchors 
+       applets 
+       baseURI 
+       body 
+       close() 
+       cookie 
+       charset 
+       characterSet 
+       createAttribute() 
+       createComment() 
+       createDocumentFragment() 
+       createElement() 
+       createEvent() 
+       createTextNode() 
+       defaultView 
+       designMode 
+       doctype 
+       documentElement 
+       documentMode 
+       documentURI 
+       domain 
+       embeds 
+       execCommand() 
+       forms 
+       fullscreenElement 
+       fullscreenEnabled() 
+       getElementById() 
+       getElementsByClassName() 
+       getElementsByName() 
+       getElementsByTagName() 
+       hasFocus() 
+       head 
+       images 
+       implementation 
+       importNode() 
+       inputEncoding 
+       lastModified 
+       links 
+       normalize() 
+       normalizeDocument() 
+       open() 
+       querySelector() 
+       querySelectorAll() 
+       readyState 
+       referrer 
+       removeEventListener() 
+       renameNode() 
+       scripts 
+       strictErrorChecking 
+       title 
+       URL 
+       write() 
+       writeln() 
+       
+      DOM Element 
+       
+       accessKey 
+       addEventListener() 
+       appendChild() 
+       attributes 
+       blur() 
+       childElementCount 
+       childNodes 
+       children 
+       classList 
+       className 
+       click() 
+       clientHeight 
+       clientLeft 
+       clientTop 
+       clientWidth 
+       cloneNode() 
+       compareDocumentPosition() 
+       contains() 
+       contentEditable 
+       dir 
+       exitFullscreen() 
+       firstChild 
+       firstElementChild 
+       focus() 
+       getAttribute() 
+       getAttributeNode() 
+       getBoundingClientRect() 
+       getElementsByClassName() 
+       getElementsByTagName() 
+       hasAttribute() 
+       hasAttributes() 
+       hasChildNodes() 
+       id 
+       innerHTML 
+       innerText 
+       insertAdjacentElement() 
+       insertAdjacentHTML() 
+       insertAdjacentText() 
+       insertBefore() 
+       isContentEditable 
+       isDefaultNamespace() 
+       isEqualNode() 
+       isSameNode() 
+       isSupported() 
+       lang 
+       lastChild 
+       lastElementChild 
+       namespaceURI 
+       nextSibling 
+       nextElementSibling 
+       nodeName 
+       nodeType 
+       nodeValue 
+       normalize() 
+       offsetHeight 
+       offsetWidth 
+       offsetLeft 
+       offsetParent 
+       offsetTop 
+       outerHTML 
+       outerText 
+       ownerDocument 
+       parentNode 
+       parentElement 
+       previousSibling 
+       previousElementSibling 
+       querySelector() 
+       querySelectorAll() 
+       remove() 
+       removeAttribute() 
+       removeAttributeNode() 
+       removeChild() 
+       removeEventListener() 
+       replaceChild() 
+       requestFullscreen() 
+       scrollHeight 
+       scrollIntoView() 
+       scrollLeft 
+       scrollTop 
+       scrollWidth 
+       setAttribute() 
+       setAttributeNode() 
+       style 
+       tabIndex 
+       tagName 
+       textContent 
+       title 
+       
+      DOM Events 
+       
+       abort 
+       afterprint 
+       animationend 
+       animationiteration 
+       animationstart 
+       beforeprint 
+       beforeunload 
+       blur 
+       canplay 
+       canplaythrough 
+       change 
+       click 
+       contextmenu 
+       copy 
+       cut 
+       dblclick 
+       drag 
+       dragend 
+       dragenter 
+       dragleave 
+       dragover 
+       dragstart 
+       drop 
+       durationchange 
+       ended 
+       error 
+       focus 
+       focusin 
+       focusout 
+       fullscreenchange 
+       fullscreenerror 
+       hashchange 
+       input 
+       invalid 
+       keydown 
+       keypress 
+       keyup 
+       load 
+       loadeddata 
+       loadedmetadata 
+       loadstart 
+       message 
+       mousedown 
+       mouseenter 
+       mouseleave 
+       mousemove 
+       mouseover 
+       mouseout 
+       mouseup 
+       offline 
+       online 
+       open 
+       pagehide 
+       pageshow 
+       paste 
+       pause 
+       play 
+       playing 
+       progress 
+       ratechange 
+       resize 
+       reset 
+       scroll 
+       search 
+       seeked 
+       seeking 
+       select 
+       show 
+       stalled 
+       submit 
+       suspend 
+       timeupdate 
+       toggle 
+       touchcancel 
+       touchend 
+       touchmove 
+       touchstart 
+       transitionend 
+       unload 
+       volumechange 
+       waiting 
+       wheel 
+       altKey 
+       altKey 
+       animationName 
+       bubbles 
+       button 
+       buttons 
+       cancelable 
+       charCode 
+       clientX 
+       clientY 
+       code 
+       createEvent() 
+       ctrlKey 
+       ctrlKey 
+       currentTarget 
+       data 
+       defaultPrevented 
+       deltaX 
+       deltaY 
+       deltaZ 
+       deltaMode 
+       detail 
+       elapsedTime 
+       elapsedTime 
+       eventPhase 
+       getModifierState() 
+       inputType 
+       isTrusted 
+       key 
+       keyCode 
+       location 
+       metaKey 
+       metaKey 
+       newURL 
+       oldURL 
+       pageX 
+       pageY 
+       persisted 
+       preventDefault() 
+       propertyName 
+       relatedTarget 
+       relatedTarget 
+       screenX 
+       screenY 
+       shiftKey 
+       shiftKey 
+       stopImmediatePropagation() 
+       stopPropagation() 
+       target 
+       targetTouches 
+       timeStamp 
+       touches 
+       transitionend 
+       type 
+       which 
+       which 
+       view 
+       
+      DOM Event Objects 
+       
+       AnimationEvent 
+       ClipboardEvent 
+       DragEvent 
+       Event 
+       FocusEvent 
+       HashChangeEvent 
+       InputEvent 
+       KeyboardEvent 
+       MouseEvent 
+       PageTransitionEvent 
+       PopStateEvent 
+       ProgressEvent 
+       StorageEvent 
+       TouchEvent 
+       TransitionEvent 
+       UiEvent 
+       WheelEvent 
+       
+      DOM Geolocation 
+       
+       coordinates 
+       position 
+       
+      DOM History 
+       
+       back() 
+       forward() 
+       go() 
+       length 
+       
+      DOM HTMLCollection 
+       
+       item() 
+       length 
+       namedItem() 
+       
+      DOM Location 
+       
+       hash 
+       host 
+       hostname 
+       href 
+       origin 
+       pathname 
+       port 
+       protocol 
+       search 
+       assign() 
+       reload() 
+       replace() 
+       
+      DOM Navigator 
+       
+       appCodeName 
+       appName 
+       appVersion 
+       cookieEnabled 
+       geolocation 
+       language 
+       onLine 
+       platform 
+       product 
+       userAgent 
+       javaEnabled() 
+       taintEnabled() 
+       
+      DOM Screen 
+       
+       availHeight 
+       availWidth 
+       colorDepth 
+       height 
+       pixelDepth 
+       width 
+       
+      DOM Style 
+       
+       alignContent 
+       alignItems 
+       alignSelf 
+       animation 
+       animationDelay 
+       animationDirection 
+       animationDuration 
+       animationFillMode 
+       animationIterationCount 
+       animationName 
+       animationTimingFunction 
+       animationPlayState 
+       background 
+       backgroundAttachment 
+       backgroundColor 
+       backgroundImage 
+       backgroundPosition 
+       backgroundRepeat 
+       backgroundClip 
+       backgroundOrigin 
+       backgroundSize 
+       backfaceVisibility 
+       border 
+       borderBottom 
+       borderBottomColor 
+       borderBottomLeftRadius 
+       borderBottomRightRadius 
+       borderBottomStyle 
+       borderBottomWidth 
+       borderCollapse 
+       borderColor 
+       borderImage 
+       borderImageOutset 
+       borderImageRepeat 
+       borderImageSlice 
+       borderImageSource 
+       borderImageWidth 
+       borderLeft 
+       borderLeftColor 
+       borderLeftStyle 
+       borderLeftWidth 
+       borderRadius 
+       borderRight 
+       borderRightColor 
+       borderRightStyle 
+       borderRightWidth 
+       borderSpacing 
+       borderStyle 
+       borderTop 
+       borderTopColor 
+       borderTopLeftRadius 
+       borderTopRightRadius 
+       borderTopStyle 
+       borderTopWidth 
+       borderWidth 
+       bottom 
+       boxShadow 
+       boxSizing 
+       captionSide 
+       clear 
+       clip 
+       color 
+       columnCount 
+       columnFill 
+       columnGap 
+       columnRule 
+       columnRuleColor 
+       columnRuleStyle 
+       columnRuleWidth 
+       columns 
+       columnSpan 
+       columnWidth 
+       counterIncrement 
+       counterReset 
+       cursor 
+       direction 
+       display 
+       emptyCells 
+       filter 
+       flex 
+       flexBasis 
+       flexDirection 
+       flexFlow 
+       flexGrow 
+       flexShrink 
+       flexWrap 
+       cssFloat 
+       font 
+       fontFamily 
+       fontSize 
+       fontStyle 
+       fontVariant 
+       fontWeight 
+       fontSizeAdjust 
+       height 
+       isolation 
+       justifyContent 
+       left 
+       letterSpacing 
+       lineHeight 
+       listStyle 
+       listStyleImage 
+       listStylePosition 
+       listStyleType 
+       margin 
+       marginBottom 
+       marginLeft 
+       marginRight 
+       marginTop 
+       maxHeight 
+       maxWidth 
+       minHeight 
+       minWidth 
+       objectFit 
+       objectPosition 
+       opacity 
+       order 
+       orphans 
+       outline 
+       outlineColor 
+       outlineOffset 
+       outlineStyle 
+       outlineWidth 
+       overflow 
+       overflowX 
+       overflowY 
+       padding 
+       paddingBottom 
+       paddingLeft 
+       paddingRight 
+       paddingTop 
+       pageBreakAfter 
+       pageBreakBefore 
+       pageBreakInside 
+       perspective 
+       perspectiveOrigin 
+       position 
+       quotes 
+       resize 
+       right 
+       tableLayout 
+       tabSize 
+       textAlign 
+       textAlignLast 
+       textDecoration 
+       textDecorationColor 
+       textDecorationLine 
+       textDecorationStyle 
+       textIndent 
+       textOverflow 
+       textShadow 
+       textTransform 
+       top 
+       transform 
+       transformOrigin 
+       transformStyle 
+       transition 
+       transitionProperty 
+       transitionDuration 
+       transitionTimingFunction 
+       transitionDelay 
+       unicodeBidi 
+       userSelect 
+       verticalAlign 
+       visibility 
+       width 
+       wordBreak 
+       wordSpacing 
+       wordWrap 
+       widows 
+       zIndex 
+       
+      DOM Window 
+       
+       closed 
+       console 
+       defaultStatus 
+       document 
+       frameElement 
+       frames 
+       history 
+       innerHeight 
+       innerWidth 
+       length 
+       localStorage 
+       location 
+       name 
+       navigator 
+       opener 
+       outerHeight 
+       outerWidth 
+       pageXOffset 
+       pageYOffset 
+       parent 
+       screen 
+       screenLeft 
+       screenTop 
+       screenX 
+       screenY 
+       sessionStorage 
+       self 
+       status 
+       top 
+       alert() 
+       atob() 
+       blur() 
+       btoa() 
+       clearInterval() 
+       clearTimeout() 
+       close() 
+       confirm() 
+       focus() 
+       getComputedStyle() 
+       matchMedia() 
+       moveBy() 
+       moveTo() 
+       open() 
+       print() 
+       prompt() 
+       resizeBy() 
+       resizeTo() 
+       scrollBy() 
+       scrollTo() 
+       setInterval() 
+       setTimeout() 
+       stop() 
+       
+      WEB Storage 
+       
+       key() 
+       length 
+       getItem() 
+       setItem() 
+       removeItem() 
+       clear() 
+       
+       
+      HTML Objects 
+      <a> 
+      <abbr> 
+      <address> 
+      <area> 
+      <article> 
+      <aside> 
+      <audio> 
+      <b> 
+      <base> 
+      <bdo> 
+      <blockquote> 
+      <body> 
+      <br> 
+      <button> 
+      <canvas> 
+      <caption> 
+      <cite> 
+      <code> 
+      <col> 
+      <colgroup> 
+      <datalist> 
+      <dd> 
+      <del> 
+      <details> 
+      <dfn> 
+      <dialog> 
+      <div> 
+      <dl> 
+      <dt> 
+      <em> 
+      <embed> 
+      <fieldset> 
+      <figcaption> 
+      <figure> 
+      <footer> 
+      <form> 
+      <head> 
+      <header> 
+      <h1> - <h6> 
+      <hr> 
+      <html> 
+      <i> 
+      <iframe> 
+      <img> 
+      <ins> 
+      <input> button 
+      <input> checkbox 
+      <input> color 
+      <input> date 
+      <input> datetime 
+      <input> datetime-local 
+      <input> email 
+      <input> file 
+      <input> hidden 
+      <input> image 
+      <input> month 
+      <input> number 
+      <input> password 
+      <input> radio 
+      <input> range 
+      <input> reset 
+      <input> search 
+      <input> submit 
+      <input> text 
+      <input> time 
+      <input> url 
+      <input> week 
+      <kbd> 
+      <label> 
+      <legend> 
+      <li> 
+      <link> 
+      <map> 
+      <mark> 
+      <menu> 
+      <menuitem> 
+      <meta> 
+      <meter> 
+      <nav> 
+      <object> 
+      <ol> 
+      <optgroup> 
+      <option> 
+      <output> 
+      <p> 
+      <param> 
+      <pre> 
+      <progress> 
+      <q> 
+      <s> 
+      <samp> 
+      <script> 
+      <section> 
+      <select> 
+      <small> 
+      <source> 
+      <span> 
+      <strong> 
+      <style> 
+      <sub> 
+      <summary> 
+      <sup> 
+      <table> 
+      <tbody> 
+      <td> 
+      <tfoot> 
+      <th> 
+      <thead> 
+      <tr> 
+      <textarea> 
+      <time> 
+      <title> 
+      <track> 
+      <u> 
+      <ul> 
+      <var> 
+      <video> 
+       
+      Other References 
+      CSSStyleDeclaration 
+       
+       cssText 
+       getPropertyPriority() 
+       getPropertyValue() 
+       item() 
+       length 
+       parentRule 
+       removeProperty() 
+       setProperty() 
+       
+      JS Conversion 
+       
+      
+     
+      
+     
+    
+   
+   
+    
+     
+      
+       
+       
+       
+       
+      
+     HTML DOM Style Object 
+      
+      ? Previous 
+      Next ? 
+      
+      
+     Style object 
+     The Style object represents an individual style statement. 
+      
+     Style Object Properties  
+     The "CSS" column indicates in which CSS version the property is defined (CSS1, CSS2, or CSS3). 
+      
+      
+        
+        Property 
+        Description 
+        CSS 
+        
+        
+        alignContent 
+        Sets or returns the alignment between the lines inside a flexible container when the items do not use all available space 
+        3 
+        
+        
+        alignItems 
+        Sets or returns the alignment for items inside a flexible container 
+        3 
+        
+        
+        alignSelf 
+        Sets or returns the alignment for selected items inside a flexible container 
+        3 
+        
+        
+        animation 
+        A shorthand property for all the animation properties below, except the animationPlayState property 
+        3 
+        
+        
+        animationDelay 
+        Sets or returns when the animation will start 
+        3 
+        
+        
+        animationDirection 
+        Sets or returns whether or not the animation should play in reverse on alternate cycles 
+        3 
+        
+        
+        animationDuration 
+        Sets or returns how many seconds or milliseconds an animation takes to complete one cycle 
+        3 
+        
+        
+        animationFillMode 
+        Sets or returns what values are applied by the animation outside the time it is executing 
+        3 
+        
+        
+        animationIterationCount 
+        Sets or returns the number of times an animation should be played 
+        3 
+        
+        
+        animationName 
+        Sets or returns a name for the @keyframes animation 
+        3 
+        
+        
+        animationTimingFunction 
+        Sets or returns the speed curve of the animation 
+        3 
+        
+        
+        animationPlayState 
+        Sets or returns whether the animation is running or paused 
+        3 
+        
+        
+        background 
+        Sets or returns all the background properties in one declaration 
+        1 
+        
+        
+        backgroundAttachment 
+        Sets or returns whether a background-image is fixed or scrolls with the page 
+        1 
+        
+        
+        backgroundColor 
+        Sets or returns the background-color of an element 
+        1 
+        
+        
+        backgroundImage 
+        Sets or returns the background-image for an element 
+        1 
+        
+        
+        backgroundPosition 
+        Sets or returns the starting position of a background-image 
+        1 
+        
+        
+        backgroundRepeat 
+        Sets or returns how to repeat (tile) a background-image 
+        1 
+        
+        
+        backgroundClip 
+        Sets or returns the painting area of the background 
+        3 
+        
+        
+        backgroundOrigin 
+        Sets or returns the positioning area of the background images 
+        3 
+        
+        
+        backgroundSize 
+        Sets or returns the size of the background image 
+        3 
+        
+        
+        backfaceVisibility 
+        Sets or returns whether or not an element should be visible when not facing the screen 
+        3 
+        
+        
+        border 
+        Sets or returns borderWidth, borderStyle, and borderColor in one declaration 
+        1 
+        
+        
+        borderBottom 
+        Sets or returns all the borderBottom properties in one declaration 
+        1 
+        
+        
+        borderBottomColor 
+        Sets or returns the color of the bottom border 
+        1  
+        
+        
+        borderBottomLeftRadius 
+        Sets or returns the shape of the border of the bottom-left corner 
+        3 
+        
+        
+        borderBottomRightRadius 
+        Sets or returns the shape of the border of the bottom-right corner 
+        3 
+        
+        
+        borderBottomStyle 
+        Sets or returns the style of the bottom border 
+        1 
+        
+        
+        borderBottomWidth 
+        Sets or returns the width of the bottom border 
+        1 
+        
+        
+        borderCollapse 
+        Sets or returns whether the table border should be collapsed into a single border, or not 
+        2 
+        
+        
+        borderColor 
+        Sets or returns the color of an element's border (can have up to four values) 
+        1 
+        
+        
+        borderImage 
+        A shorthand property for setting or returning all the borderImage properties 
+        3 
+        
+        
+        borderImageOutset 
+        Sets or returns the amount by which the border image area extends beyond the border box 
+        3 
+        
+        
+        borderImageRepeat 
+        Sets or returns whether the image-border should be repeated, rounded or stretched 
+        3 
+        
+        
+        borderImageSlice 
+        Sets or returns the inward offsets of the image-border 
+        3 
+        
+        
+        borderImageSource 
+        Sets or returns the image to be used as a border 
+        3 
+        
+        
+        borderImageWidth 
+        Sets or returns the widths of the image-border 
+        3 
+        
+        
+        borderLeft 
+        Sets or returns all the borderLeft properties in one declaration 
+        1 
+        
+        
+        borderLeftColor 
+        Sets or returns the color of the left border 
+        1 
+        
+        
+        borderLeftStyle 
+        Sets or returns the style of the left border 
+        1 
+        
+        
+        borderLeftWidth 
+        Sets or returns the width of the left border 
+        1 
+        
+        
+        borderRadius 
+        A shorthand property for setting or returning all the four borderRadius properties 
+        3 
+        
+        
+        borderRight 
+        Sets or returns all the borderRight properties in one declaration 
+        1 
+        
+        
+        borderRightColor 
+        Sets or returns the color of the right border 
+        1 
+        
+        
+        borderRightStyle 
+        Sets or returns the style of the right border 
+        1 
+        
+        
+        borderRightWidth 
+        Sets or returns the width of the right border 
+        1 
+        
+        
+        borderSpacing 
+        Sets or returns the space between cells in a table 
+        2 
+        
+        
+        borderStyle 
+        Sets or returns the style of an element's border (can have up to four values) 
+        1 
+        
+        
+        borderTop 
+        Sets or returns all the borderTop properties in one declaration 
+        1 
+        
+        
+        borderTopColor 
+        Sets or returns the color of the top border 
+        1 
+        
+        
+        borderTopLeftRadius 
+        Sets or returns the shape of the border of the top-left corner 
+        3 
+        
+        
+        borderTopRightRadius 
+        Sets or returns the shape of the border of the top-right corner 
+        3 
+        
+        
+        borderTopStyle 
+        Sets or returns the style of the top border 
+        1 
+        
+        
+        borderTopWidth 
+        Sets or returns the width of the top border 
+        1 
+        
+        
+        borderWidth 
+        Sets or returns the width of an element's border (can have up to four values) 
+        1 
+        
+        
+        bottom 
+        Sets or returns the bottom position of a positioned element 
+        2 
+        
+        
+        boxDecorationBreak 
+        Sets or returns the behaviour of the background and border of an element at page-break, or, for in-line elements, at line-break. 
+        3 
+        
+        
+        boxShadow 
+        Attaches one or more drop-shadows to the box 
+        3 
+        
+        
+        boxSizing 
+        Allows you to define certain elements to fit an area in a certain way 
+        3 
+        
+        
+        
+        captionSide 
+        Sets or returns the position of the table caption 
+        2 
+        
+        
+        clear 
+        Sets or returns the position of the element relative to floating objects 
+        1 
+        
+        
+        clip 
+        Sets or returns which part of a positioned element is visible 
+        2 
+        
+        
+        color 
+        Sets or returns the color of the text 
+        1 
+        
+        
+        columnCount 
+        Sets or returns the number of columns an element should be divided into 
+        3 
+        
+        
+        columnFill 
+        Sets or returns how to fill columns 
+        3 
+        
+        
+        columnGap 
+        Sets or returns the gap between the columns 
+        3 
+        
+        
+        columnRule 
+        A shorthand property for setting or returning all the columnRule properties 
+        3 
+        
+        
+        columnRuleColor 
+        Sets or returns the color of the rule between columns 
+        3 
+        
+        
+        columnRuleStyle 
+        Sets or returns the style of the rule between columns 
+        3 
+        
+        
+        columnRuleWidth 
+        Sets or returns the width of the rule between columns 
+        3 
+        
+        
+        columns 
+        A shorthand property for setting or returning columnWidth and columnCount 
+        3 
+        
+        
+        columnSpan 
+        Sets or returns how many columns an element should span across 
+        3 
+        
+        
+        columnWidth 
+        Sets or returns the width of the columns 
+        3 
+        
+        
+        content 
+        Used with the :before and :after pseudo-elements, to insert generated content 
+        2 
+        
+        
+        counterIncrement 
+        Increments one or more counters 
+        2 
+        
+        
+        counterReset 
+        Creates or resets one or more counters 
+        2 
+        
+        
+        cursor 
+        Sets or returns the type of cursor to display for the mouse pointer 
+        2 
+        
+        
+        direction 
+        Sets or returns the text direction 
+        2 
+        
+        
+        display 
+        Sets or returns an element's display type 
+        1 
+        
+        
+        emptyCells 
+        Sets or returns whether to show the border and background of empty cells, or not 
+        2 
+        
+        
+        filter 
+        Sets or returns image filters (visual effects, like blur and saturation) 
+        3 
+        
+        
+        flex 
+        Sets or returns the length of the item, relative to the rest 
+        3 
+        
+        
+        flexBasis 
+        Sets or returns the initial length of a flexible item 
+        3 
+        
+        
+        flexDirection 
+        Sets or returns the direction of the flexible items 
+        3 
+        
+        
+        flexFlow 
+        A shorthand property for the flexDirection and the flexWrap properties 
+        3 
+        
+        
+        flexGrow 
+        Sets or returns how much the item will grow relative to the rest 
+        3 
+        
+        
+        flexShrink 
+        Sets or returns how the item will shrink relative to the rest 
+        3 
+        
+        
+        flexWrap 
+        Sets or returns whether the flexible items should wrap or not 
+        3 
+        
+        
+        cssFloat 
+        Sets or returns the horizontal alignment of an element 
+        1 
+        
+        
+        font 
+        Sets or returns fontStyle, fontVariant, fontWeight, fontSize, lineHeight, and fontFamily in one declaration 
+        1 
+        
+        
+        fontFamily 
+        Sets or returns the font family for text 
+        1 
+        
+        
+        
+        fontSize 
+        Sets or returns the font size of the text 
+        1 
+        
+        
+        fontStyle 
+        Sets or returns whether the style of the font is normal, italic or oblique 
+        1 
+        
+        
+        fontVariant 
+        Sets or returns whether the font should be displayed in small capital letters 
+        1 
+        
+        
+        fontWeight 
+        Sets or returns the boldness of the font 
+        1 
+        
+        
+        fontSizeAdjust 
+        Preserves the readability of text when font fallback occurs 
+        3 
+        
+        
+        fontStretch 
+        Selects a normal, condensed, or expanded face from a font family 
+        3 
+        
+        
+        hangingPunctuation 
+        Specifies whether a punctuation character may be placed outside the line box 
+        3 
+        
+        
+        height 
+        Sets or returns the height of an element 
+        1 
+        
+        
+        hyphens 
+        Sets how to split words to improve the layout of paragraphs 
+        3 
+        
+        
+        icon 
+        Provides the author the ability to style an element with an iconic equivalent 
+        3 
+        
+        
+        imageOrientation 
+        Specifies a rotation in the right or clockwise direction that a user agent applies to an image 
+        3 
+        
+        
+        isolation 
+        Defines whether an element must create a new stacking content 
+        3 
+        
+        
+        
+        justifyContent 
+        Sets or returns the alignment between the items inside a flexible container when the items do not use all available space. 
+        3 
+        
+        
+        left 
+        Sets or returns the left position of a positioned element 
+        2 
+        
+        
+        letterSpacing 
+        Sets or returns the space between characters in a text 
+        1 
+        
+        
+        
+        lineHeight 
+        Sets or returns the distance between lines in a text 
+        1 
+        
+        
+        listStyle 
+        Sets or returns listStyleImage, listStylePosition, and listStyleType in one declaration 
+        1 
+        
+        
+        listStyleImage 
+        Sets or returns an image as the list-item marker 
+        1 
+        
+        
+        listStylePosition 
+        Sets or returns the position of the list-item marker 
+        1 
+        
+        
+        listStyleType 
+        Sets or returns the list-item marker type 
+        1 
+        
+        
+        margin 
+        Sets or returns the margins of an element (can have up to four values) 
+        1 
+        
+        
+        marginBottom 
+        Sets or returns the bottom margin of an element 
+        1 
+        
+        
+        marginLeft 
+        Sets or returns the left margin of an element 
+        1 
+        
+        
+        marginRight 
+        Sets or returns the right margin of an element 
+        1 
+        
+        
+        marginTop 
+        Sets or returns the top margin of an element 
+        1 
+        
+        
+        
+        maxHeight 
+        Sets or returns the maximum height of an element 
+        2 
+        
+        
+        maxWidth 
+        Sets or returns the maximum width of an element 
+        2 
+        
+        
+        minHeight 
+        Sets or returns the minimum height of an element 
+        2 
+        
+        
+        minWidth 
+        Sets or returns the minimum width of an element 
+        2 
+        
+        
+        navDown 
+        Sets or returns where to navigate when using the arrow-down navigation key 
+        3 
+        
+        
+        navIndex 
+        Sets or returns the tabbing order for an element 
+        3 
+        
+        
+        navLeft 
+        Sets or returns where to navigate when using the arrow-left navigation key 
+        3 
+        
+        
+        navRight 
+        Sets or returns where to navigate when using the arrow-right navigation key 
+        3 
+        
+        
+        navUp 
+        Sets or returns where to navigate when using the arrow-up navigation key 
+        3 
+        
+        
+        objectFit 
+         Specifies how the contents of a replaced element should be fitted to the box established by its used height and width 
+        3 
+        
+        
+        objectPosition 
+        Specifies the alignment of the replaced element inside its box 
+        3 
+        
+        
+        opacity 
+        Sets or returns the opacity level for an element 
+        3 
+        
+        
+        order 
+        Sets or returns the order of the flexible item, relative to the rest 
+        3 
+        
+        
+        orphans 
+        Sets or returns the minimum number of lines for an element that must be left at the bottom of a page when a page break occurs inside an element 
+        2 
+        
+        
+        outline 
+        Sets or returns all the outline properties in one declaration 
+        2 
+        
+        
+        outlineColor 
+        Sets or returns the color of the outline around a element 
+        2 
+        
+        
+        outlineOffset 
+        Offsets an outline, and draws it beyond the border edge 
+        3 
+        
+        
+        outlineStyle 
+        Sets or returns the style of the outline around an element 
+        2 
+        
+        
+        outlineWidth 
+        Sets or returns the width of the outline around an element 
+        2 
+        
+        
+        overflow 
+        Sets or returns what to do with content that renders outside the element box 
+        2 
+        
+        
+        
+        overflowX 
+        Specifies what to do with the left/right edges of the content, if it overflows the element's content area 
+        3 
+        
+        
+        overflowY 
+        Specifies what to do with the top/bottom edges of the content, if it overflows the element's content area 
+        3 
+        
+        
+        padding 
+        Sets or returns the padding of an element (can have up to four values) 
+        1 
+        
+        
+        paddingBottom 
+        Sets or returns the bottom padding of an element 
+        1 
+        
+        
+        paddingLeft 
+        Sets or returns the left padding of an element 
+        1 
+        
+        
+        paddingRight 
+        Sets or returns the right padding of an element 
+        1 
+        
+        
+        paddingTop 
+        Sets or returns the top padding of an element 
+        1 
+        
+        
+        pageBreakAfter 
+        Sets or returns the page-break behavior after an element 
+        2 
+        
+        
+        pageBreakBefore 
+        Sets or returns the page-break behavior before an element 
+        2 
+        
+        
+        pageBreakInside 
+        Sets or returns the page-break behavior inside an element 
+        2 
+        
+        
+        perspective 
+        Sets or returns the perspective on how 3D elements are viewed 
+        3 
+        
+        
+        perspectiveOrigin 
+        Sets or returns the bottom position of 3D elements 
+        3 
+        
+        
+        
+        position 
+        Sets or returns the type of positioning method used for an element (static, relative, absolute or fixed) 
+        2 
+        
+        
+        quotes 
+        Sets or returns the type of quotation marks for embedded quotations 
+        2 
+        
+        
+        resize 
+        Sets or returns whether or not an element is resizable by the user 
+        3 
+        
+        
+        
+        right 
+        Sets or returns the right position of a positioned element 
+        2 
+        
+        
+        tableLayout 
+        Sets or returns the way to lay out table cells, rows, and columns 
+        2 
+        
+        
+        tabSize 
+        Sets or returns the length of the tab-character 
+        3 
+        
+        
+        textAlign 
+        Sets or returns the horizontal alignment of text 
+        1 
+        
+        
+        textAlignLast 
+        Sets or returns how the last line of a block or a line right before a forced line break is aligned when text-align is "justify" 
+        3 
+        
+        
+        
+        textDecoration 
+        Sets or returns the decoration of a text 
+        1 
+        
+        
+        textDecorationColor 
+        Sets or returns the color of the text-decoration 
+        3 
+        
+        
+        textDecorationLine 
+        Sets or returns the type of line in a text-decoration 
+        3 
+        
+        
+        textDecorationStyle 
+        Sets or returns the style of the line in a text decoration 
+        3 
+        
+        
+        textIndent 
+        Sets or returns the indentation of the first line of text 
+        1 
+        
+        
+        textJustify 
+        Sets or returns the justification method used when text-align is "justify" 
+        3 
+        
+        
+        
+        textOverflow 
+        Sets or returns what should happen when text overflows the containing element 
+        3 
+        
+        
+        textShadow 
+        Sets or returns the shadow effect of a text 
+        3 
+        
+        
+        textTransform 
+        Sets or returns the capitalization of a text 
+        1 
+        
+        
+        
+        top 
+        Sets or returns the top position of a positioned element 
+        2 
+        
+        
+        transform 
+        Applies a 2D or 3D transformation to an element 
+        3 
+        
+        
+        transformOrigin 
+        Sets or returns the position of transformed elements 
+        3 
+        
+        
+        transformStyle 
+        Sets or returns how nested elements are rendered in 3D space 
+        3 
+        
+        
+        transition 
+        A shorthand property for setting or returning the four transition properties 
+        3 
+        
+        
+        transitionProperty 
+        Sets or returns the CSS property that the transition effect is for 
+        3 
+        
+        
+        transitionDuration 
+        Sets or returns how many seconds or milliseconds a transition effect takes to complete 
+        3 
+        
+        
+        transitionTimingFunction 
+        Sets or returns the speed curve of the transition effect 
+        3 
+        
+        
+        transitionDelay 
+        Sets or returns when the transition effect will start 
+        3 
+        
+        
+        unicodeBidi 
+        Sets or returns whether the text should be overridden to support multiple languages in the same document 
+        2 
+        
+        
+        userSelect 
+        Sets or returns whether the text of an element can be selected or not 
+        2 
+        
+        
+        verticalAlign 
+        Sets or returns the vertical alignment of the content in an element 
+        1 
+        
+        
+        visibility 
+        Sets or returns whether an element should be visible 
+        2 
+        
+        
+        
+        whiteSpace 
+        Sets or returns how to handle tabs, line breaks and whitespace in a text 
+        1 
+        
+        
+        width 
+        Sets or returns the width of an element 
+        1 
+        
+        
+        wordBreak 
+        Sets or returns line breaking rules for non-CJK scripts 
+        3 
+        
+        
+        wordSpacing 
+        Sets or returns the spacing between words in a text 
+        1 
+        
+        
+        wordWrap 
+        Allows long, unbreakable words to be broken and wrap to the next line 
+        3 
+        
+        
+        widows 
+        Sets or returns the minimum number of lines for an element that must be visible at the top of a page 
+        2 
+        
+        
+        
+        zIndex 
+        Sets or returns the stack order of a positioned element 
+        2 
+        
+      
+      
+      
+      
+       
+       
+       
+      
+      
+     Access a Style Object 
+     The Style object can be accessed from the head section of the document, or from specific HTML element(s). 
+     Accessing style object(s) from the head section of the document: 
+      
+      Example 
+      
+        var x = document.getElementsByTagName("STYLE");
+       
+      Try it Yourself ? 
+      
+     Accessing a specified element's style object: 
+      
+      Example 
+      
+        var x = document.getElementById("myH1").style;
+       
+      Try it Yourself ? 
+      
+     Create a Style Object 
+     You can create a <style> element by using the document.createElement() method: 
+      
+      Example 
+      
+        var x = document.createElement("STYLE"); 
+       
+      Try it Yourself ? 
+      
+     You can also set the style properties of an existing element: 
+      
+      Example 
+      
+        document.getElementById("myH1").style.color = "red"; 
+       
+      Try it Yourself ? 
+      
+      
+     Related Pages 
+     HTML tutorial: HTML CSS 
+     CSS tutorial: CSS Tutorial 
+     HTML reference: HTML <style> tag 
+     CSS reference: CSS Properties 
+      
+      
+      ? Previous 
+      Next ? 
+      
+     
+     
+      
+       
+        
+        
+        
+       
+      
+      
+      COLOR PICKER 
+        
+      
+      
+      
+      
+      
+       
+       HOW TO 
+       
+       
+       Tabs
+        
+       Dropdowns
+        
+       Accordions
+        
+       Side Navigation
+        
+       Top Navigation
+        
+       Modal Boxes
+        
+       Progress Bars
+        
+       Parallax
+        
+       Login Form
+        
+       HTML Includes
+        
+       Google Maps
+        
+       Range Sliders
+        
+       Tooltips
+        
+       Slideshow
+        
+       Filter List
+        
+       Sort List
+        
+       
+      
+      
+      SHARE 
+       
+        
+       
+        
+         
+        
+         
+        
+       
+      
+      
+      CERTIFICATES 
+       HTML CSS JavaScript SQL Python PHP jQuery Bootstrap XML 
+       Read More ? 
+      
+      
+       
+        
+         
+         
+         
+        
+       
+      
+      
+     
+    
+    
+     
+     
+      
+       
+       
+       
+       
+       
+       
+       
+      
+     
+     
+     
+      
+      REPORT ERROR 
+      
+      
+      PRINT PAGE 
+      
+      
+      FORUM 
+      
+      
+      ABOUT 
+      
+     
+     
+     
+     ? 
+     Your Suggestion: 
+      
+       
+       Your E-mail: 
+        
+       
+       
+       Page address: 
+        
+       
+       
+       Description: 
+        
+       
+       
+       Submit 
+       
+       
+      
+     
+     
+     ? 
+     Thank You For Helping Us! 
+     Your message has been sent to W3Schools. 
+     
+     
+      
+       
+       Top Tutorials 
+       HTML Tutorial
+        
+       CSS Tutorial
+        
+       JavaScript Tutorial
+        
+       How To Tutorial
+        
+       SQL Tutorial
+        
+       Python Tutorial
+        
+       W3.CSS Tutorial
+        
+       Bootstrap Tutorial
+        
+       PHP Tutorial
+        
+       jQuery Tutorial
+        
+       Java Tutorial
+        
+       C++ Tutorial
+        
+       
+      
+      
+       
+       Top References 
+       HTML Reference
+        
+       CSS Reference
+        
+       JavaScript Reference
+        
+       SQL Reference
+        
+       Python Reference
+        
+       W3.CSS Reference
+        
+       Bootstrap Reference
+        
+       PHP Reference
+        
+       HTML Colors
+        
+       jQuery Reference
+        
+       Java Reference
+        
+       Angular Reference
+        
+       
+      
+      
+       
+       Top Examples 
+       HTML Examples
+        
+       CSS Examples
+        
+       JavaScript Examples
+        
+       How To Examples
+        
+       SQL Examples
+        
+       Python Examples
+        
+       W3.CSS Examples
+        
+       Bootstrap Examples
+        
+       PHP Examples
+        
+       jQuery Examples
+        
+       Java Examples
+        
+       XML Examples
+        
+       
+      
+      
+       
+       Web Certificates 
+       HTML Certificate
+        
+       CSS Certificate
+        
+       JavaScript Certificate
+        
+       SQL Certificate
+        
+       Python Certificate
+        
+       jQuery Certificate
+        
+       PHP Certificate
+        
+       Bootstrap Certificate
+        
+       XML Certificate
+        
+        Get Certified ? 
+       
+      
+     
+     
+    
+      W3Schools is optimized for learning, testing, and training. Examples might be simplified to improve reading and basic understanding. Tutorials, references, and examples are constantly reviewed to avoid errors, but we cannot warrant full correctness of all content. While using this site, you agree to have read and accepted our 
+     terms of use, 
+     cookie and privacy policy. 
+     Copyright 1999-2019 by Refsnes Data. All Rights Reserved.
+      
+     Powered by W3.CSS.
+     
+      
+       
+     
+    
+     
+    
+   
+   
+   
+     
+ 
+
+
